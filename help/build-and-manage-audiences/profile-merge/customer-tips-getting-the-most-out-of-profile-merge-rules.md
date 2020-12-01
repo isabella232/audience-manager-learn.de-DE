@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Kundentipps - Optimale Nutzung der Profil Merge Rules
 
-**Varun Kalra**, Multi-Solution Consultant bei **Agreement**, gibt Tipps zur Auswahl und Verwendung von Profil Merge Rules (PMRs).
+**Varun Kalra**, Multi-Solution Consultant bei  **Agreement**, gibt Tipps zur Auswahl und Verwendung von Profil Merge Rules (PMRs).
 
 Varun Kalra ist ein Berater mit mehreren Lösungen, der in einem Sydney Adobe Solution Partner - Agreement arbeitet. Varun arbeitet in erster Linie an Audience Manager-, Adobe Analytics- und AEP-Projekten, bei denen Daten gefunden, implementiert, unterstützt und aktiviert werden. Tipps beinhalten Themen wie:
 
