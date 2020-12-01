@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # Überwachung und Berichte bei der Aktivität
 
-In diesem Video werden wir durch die Verwendung der Optionen [!DNL Activity Usage Report], einschließlich Anzeige und Download.
+In diesem Video werden wir durch die Verwendung der [!DNL Activity Usage Report], einschließlich Anzeige- und Download-Optionen, gehen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/31443/?quality=12)
 
