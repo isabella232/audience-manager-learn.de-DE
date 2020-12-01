@@ -17,7 +17,7 @@ ht-degree: 0%
 ---
 
 
-# IP-Verschleierung nach Land im Audience Manager {#ip-obfuscation-by-country-in-audience-manager}
+# IP-Verschleierung nach Land in Audience Manager {#ip-obfuscation-by-country-in-audience-manager}
 
 Audience Manager bietet Selbstbedienungsfunktionen in der Benutzeroberfläche, damit Kunden die IP-Verschleierung global oder länderspezifisch aktivieren können. Dieses Video führt Sie durch das Setup.
 
