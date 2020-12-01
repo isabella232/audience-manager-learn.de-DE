@@ -17,9 +17,9 @@ ht-degree: 0%
 ---
 
 
-# PII [!DNL setCustomerIDs()] für die Erfassung und Hash als deklarierte ID verwenden
+# Verwenden von [!DNL setCustomerIDs()] zum Erfassen und Hash PII als deklarierte ID
 
-In diesem Video erfahren Sie, warum und wie Sie die `setCustomerIDs()` Methode des Experience Cloud-ID-Diensts verwenden, um eine E-Mail-Adresse zu erfassen und zu hash und sie als deklarierte ID zu verwenden. Dadurch werden nicht nur die CRM-ID und die E-Mail-Adresse verknüpft, sondern auch mit der Adobe Audience Manager-UUID, d.h. der anonymen Geräte-ID, synchronisiert. Diese Hash-E-Mail-Adressen können dann an gesendet werden [!UICONTROL People-Based Destinations].
+In diesem Video erfahren Sie, warum und wie Sie die `setCustomerIDs()`-Methode des Experience Cloud-ID-Diensts verwenden, um eine E-Mail-Adresse zu erfassen und zu hash und sie als deklarierte ID zu verwenden. Dadurch werden nicht nur die CRM-ID und die E-Mail-Adresse verknüpft, sondern auch mit der Adobe Audience Manager-UUID, d.h. der anonymen Geräte-ID, synchronisiert. Diese Hash-E-Mail-Adressen können dann an [!UICONTROL People-Based Destinations] gesendet werden.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29136/?quality=12)
 
