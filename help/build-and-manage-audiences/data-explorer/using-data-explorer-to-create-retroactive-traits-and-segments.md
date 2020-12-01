@@ -17,12 +17,12 @@ ht-degree: 0%
 ---
 
 
-# Verwenden [!DNL Data Explorer] der Erstellung rückwirkender [!UICONTROL Traits] und [!UICONTROL Segments] {#using-data-explorer-to-create-retroactive-traits-and-segments}
+# Verwenden von [!DNL Data Explorer] zum Erstellen rückwirkender [!UICONTROL Traits] und [!UICONTROL Segments] {#using-data-explorer-to-create-retroactive-traits-and-segments}
 
-In diesem Video wird gezeigt, wie rückwirkend Daten erstellt werden [!UICONTROL traits], d. h. [!UICONTROL traits] , dass Daten in den [!UICONTROL trait] Bereich aufgestockt werden, aus dem sie erstellt wurden. Dies ist ein großer Durchbruch in Ihrer [!UICONTROL trait] Schöpfung!
+In diesem Video wird gezeigt, wie rückwirkend [!UICONTROL traits] erstellt wird, d.h. [!UICONTROL traits] diese Aufstockungsdaten in das [!UICONTROL trait] vor der Erstellung. Dies ist ein großer Durchbruch in Ihrer [!UICONTROL trait] Erstellung!
 
 >[!VIDEO](https://video.tv.adobe.com/v/25169/?quality=12)
 
-Bis jetzt, als Sie erstellt haben, [!UICONTROL traits]haben sie nur Daten gesammelt, die sich weiterentwickeln. Das bedeutete, dass wir eine Menge [!UICONTROL traits] &quot;nur für den Fall&quot; erstellen mussten, dass sie Traffic/Daten in sie erhielten. Jetzt können Sie warten, bis Sie sehen, welche Schlüssel/Wert-Paare Daten erhalten, und dann eine erstellen [!UICONTROL trait] und die Daten in diese aufstocken [!UICONTROL trait]. Dadurch sparen Sie Zeit und Energie, und Sie können auch Ihre [!UICONTROL trait] Taxonomie eng halten, anstatt einen Haufen von [!UICONTROL traits] denen keine Daten enthalten.
+Bislang haben sie bei der Erstellung von [!UICONTROL traits] nur Daten gesammelt, die sich in Zukunft bewegen. Das bedeutete, dass wir eine Menge [!UICONTROL traits] &quot;nur für den Fall&quot; erstellen mussten, dass sie Traffic/Daten in sie erhalten haben. Jetzt können Sie warten, bis Sie sehen, welche Schlüssel/Wert-Paare Daten erhalten, und dann ein [!UICONTROL trait] erstellen und die Daten in dieses [!UICONTROL trait] aufstocken. Dies spart Ihnen Zeit und Energie und hilft Ihnen auch, Ihre [!UICONTROL trait] Taxonomie eng zu halten, anstatt einen Haufen [!UICONTROL traits] zu haben, die keine Daten enthalten.
 
-Weitere Informationen [!DNL Data Explorer]finden Sie in der [Dokumentation](https://experiencecloud.adobe.com/resources/help/en_US/aam/data-explorer.html).
+Weitere Informationen zu [!DNL Data Explorer] finden Sie in der [Dokumentation](https://experiencecloud.adobe.com/resources/help/en_US/aam/data-explorer.html).
