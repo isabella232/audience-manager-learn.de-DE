@@ -19,9 +19,9 @@ ht-degree: 0%
 
 # [!UICONTROL Profile Merge] - Videos und Tutorials
 
-Mit [!UICONTROL Profile Merge Rules] Ihnen erhalten Sie die Kontrolle über die für die Datenerhebung verwendeten Datensätze [!UICONTROL segmentation] und können eine Person auf mehreren Geräten genau Zielgruppe werden.
+Mit [!UICONTROL Profile Merge Rules] erhalten Sie die Kontrolle über die Datensätze, die für [!UICONTROL segmentation] verwendet werden, und können eine Person präzise auf mehreren Geräten Zielgruppe werden.
 
-Dieser Abschnitt enthält die folgenden Videos zu [!UICONTROL Profile Merge Rules]folgenden Themen:
+Dieser Abschnitt enthält die folgenden Videos für [!UICONTROL Profile Merge Rules]:
 
 * [Übersicht über die Regeln zum Zusammenführen von Profilen](overview-of-profile-merge-rules.md)
 * [Beispiele für Profil Merge Rule und Anwendungsfälle](profile-merge-rule-examples-and-use-cases.md)
@@ -34,4 +34,4 @@ Dieser Abschnitt enthält die folgenden Videos zu [!UICONTROL Profile Merge Rule
 * [Interpretieren von Audience Identity Berichte](interpret-audience-identity-reporting.md)
 * [Geräteübergreifende Metriken in Audience Manager](understanding-cross-device-metrics-in-audience-manager.md)
 
-Diese Videos können zusammen mit der [Dokumentation verwendet werden](https://docs.adobe.com/help/en/audience-manager/user-guide/features/profile-merge-rules/merge-rules-overview.html)
+Diese Videos können zusammen mit der [Dokumentation](https://docs.adobe.com/help/en/audience-manager/user-guide/features/profile-merge-rules/merge-rules-overview.html) verwendet werden
