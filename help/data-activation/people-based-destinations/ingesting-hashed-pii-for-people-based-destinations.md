@@ -19,6 +19,6 @@ ht-degree: 0%
 
 # Hash-PII für [!UICONTROL People-Based Destinations]
 
-In diesem Video erfahren Sie, wie Sie eine dateibasierte ID-Synchronisierung formatieren, um Ihre Kunden-IDs (CRM-IDs) mit Hash-E-Mail-Adressen zu verbinden. Dadurch können Sie die Hash-E-Mail-Adressen an [!UICONTROL People-Based Destinations]z.B. [!DNL Facebook]senden.
+In diesem Video erfahren Sie, wie Sie eine dateibasierte ID-Synchronisierung formatieren, um Ihre Kunden-IDs (CRM-IDs) mit Hash-E-Mail-Adressen zu verbinden. Auf diese Weise können Sie die Hash-E-Mail-Adressen an [!UICONTROL People-Based Destinations] senden, z. B. [!DNL Facebook].
 
 >[!VIDEO](https://video.tv.adobe.com/v/29122/?quality=12)
