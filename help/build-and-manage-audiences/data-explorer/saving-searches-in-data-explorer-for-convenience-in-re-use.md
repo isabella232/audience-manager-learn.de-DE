@@ -18,10 +18,10 @@ ht-degree: 0%
 ---
 
 
-# Speichern von Suchvorgängen [!DNL Data Explorer] für die praktische Wiederverwendung {#saving-searches-in-data-explorer-for-convenience-in-re-use}
+# Suchen in [!DNL Data Explorer] für Konventionen in Wiederverwendung speichern{#saving-searches-in-data-explorer-for-convenience-in-re-use}
 
-In diesem Video erfahren Sie, wie Sie eine Suche in konfigurieren, ausführen [!DNL Data Explorer]und dann zur späteren Verwendung speichern. Sie können die gespeicherte Suche auch auf dem Dashboard platzieren, sodass sie sofort verfügbar ist, wenn Sie die [!UICONTROL Signals] App aufrufen.
+In diesem Video erfahren Sie, wie Sie eine Suche in [!DNL Data Explorer] konfigurieren, sie ausführen und sie dann zu einem späteren Zeitpunkt zur erneuten Verwendung speichern. Sie können die gespeicherte Suche auch auf dem Dashboard platzieren, sodass sie sofort verfügbar ist, wenn Sie die [!UICONTROL Signals]-App aufrufen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25147/?quality=12)
 
-Weitere Informationen [!DNL Data Explorer]finden Sie in der [Dokumentation](https://experiencecloud.adobe.com/resources/help/en_US/aam/data-explorer.html).
+Weitere Informationen zu [!DNL Data Explorer] finden Sie in der [Dokumentation](https://experiencecloud.adobe.com/resources/help/en_US/aam/data-explorer.html).
