@@ -1,6 +1,6 @@
 ---
-title: Grundlagen [!UICONTROL Predictive Audiences] in Audience Manager
-description: In diesem Video besprechen wir, was Audience Manager [!UICONTROL Predictive Audiences] ist, erläutern Einzelheiten über ihre Funktionsweise und verweisen auf Anwendungsfälle.
+title: Grundlagen zu [!UICONTROL Predictive Audiences] in Audience Manager
+description: In diesem Video besprechen wir, was Audience Manager [!UICONTROL Predictive Audiences] sind, stellen Details über ihre Funktionsweise vor und zeigen Anwendungsfälle auf.
 feature: algorithmic models
 topics: null
 audience: administrator
@@ -17,9 +17,9 @@ ht-degree: 0%
 ---
 
 
-# Grundlagen [!UICONTROL Predictive Audiences] in Audience Manager
+# Grundlagen zu [!UICONTROL Predictive Audiences] in Audience Manager
 
-In diesem Video besprechen wir, was Audience Manager [!UICONTROL Predictive Audiences] ist, erläutern Einzelheiten über ihre Funktionsweise und verweisen auf Anwendungsfälle.
+In diesem Video besprechen wir, was Audience Manager [!UICONTROL Predictive Audiences] sind, stellen Details über ihre Funktionsweise vor und zeigen Anwendungsfälle auf.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33629/?quality=12)
 
