@@ -18,14 +18,14 @@ ht-degree: 0%
 ---
 
 
-# Konvertierung [!UICONTROL Traits] in Audience Manager erstellen {#creating-conversion-traits-in-audience-manager}
+# Erstellen der Konversion [!UICONTROL Traits] in Audience Manager {#creating-conversion-traits-in-audience-manager}
 
 Einige Ihrer [!UICONTROL traits] basieren auf Konversionen auf Ihrer Site. In diesem Video erfahren Sie, wie Sie sie als solche bezeichnen und lernen eine sehr wichtige Tipp/gotcha.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23431/?quality=12)
 
-Was versuchen Sie, Leute zu bewegen, auf Ihrer Site zu tun? Was ist Ihr Umrechnungs-Ereignis? Natürlich gibt es viele verschiedene Antworten auf diese Frage, je nach Site-Typ/Vertikal und Ihren organisatorischen Zielen. In jedem Fall ist es in AAM üblich, [!UICONTROL traits] für Besucher zu schaffen, die diese Kriterien erfüllt haben.
+Was versuchen Sie, Leute zu bewegen, auf Ihrer Site zu tun? Was ist Ihr Umrechnungs-Ereignis? Natürlich gibt es viele verschiedene Antworten auf diese Frage, je nach Site-Typ/Vertikal und Ihren organisatorischen Zielen. In jedem Fall ist es in AAM üblich, [!UICONTROL traits] für Besucher zu erstellen, die diese Kriterien erfüllt haben.
 
-In AAM gibt es ein Feld, in dem Sie Ihre [!UICONTROL trait] als [!UICONTROL conversion][!UICONTROL trait], besonders zur Verwendung in [!UICONTROL Audience Lab].
+In AAM gibt es ein Feld, in dem Sie [!UICONTROL trait] als [!UICONTROL conversion] [!UICONTROL trait] [!UICONTROL Audience Lab] markieren können, insbesondere zur Verwendung in &lt;a3/>.
 
-Wenn Sie Ereignis zum Erstellen verwenden, [!UICONTROL traits]müssen Sie außerdem ein wichtiges Thema beachten, damit Sie nicht mehr Benutzer sammeln, als Sie sollten, in die [!UICONTROL trait]. Sehen Sie sich dieses Video für die große Offenbarung an. :)
+Wenn Sie Ereignis verwenden, um [!UICONTROL traits] zu erstellen, müssen Sie außerdem ein Hauptmerkmal beachten, damit Sie nicht mehr Benutzer sammeln, als Sie in [!UICONTROL trait] aufnehmen sollten. Sehen Sie sich dieses Video für die große Offenbarung an. :)
