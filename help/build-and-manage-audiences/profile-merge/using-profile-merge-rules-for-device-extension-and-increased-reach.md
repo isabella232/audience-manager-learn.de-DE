@@ -18,8 +18,8 @@ ht-degree: 0%
 ---
 
 
-# Verwenden [!UICONTROL Profile Merge Rules] für Geräteerweiterungen und erhöhte Reichweite
+# Verwenden von [!UICONTROL Profile Merge Rules] für Geräteerweiterungen und erhöhte Reichweite
 
-Verwenden Sie diese Option, [!UICONTROL Profile Merge Rules] um die Reichweite auf alle Geräte eines Benutzers zu erweitern, sodass Sie auf andere Benutzer anstatt auf Geräte vermarkten können.
+Verwenden Sie [!UICONTROL Profile Merge Rules], um die Reichweite auf alle Geräte eines Benutzers auszudehnen, damit Sie auf andere Benutzer anstatt auf Geräte vermarkten können.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35939/?quality=12&learn=on)
