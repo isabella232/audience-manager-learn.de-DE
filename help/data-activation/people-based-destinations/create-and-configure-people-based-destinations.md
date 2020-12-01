@@ -17,8 +17,8 @@ ht-degree: 0%
 ---
 
 
-# Erstellen und Konfigurieren [!UICONTROL People-based Destinations]
+# [!UICONTROL People-based Destinations] erstellen und konfigurieren
 
-In diesem Video erfahren Sie zunächst einige Informationen über die Voraussetzungen für die Erstellung [!DNL People-Based Destination]und dann, wie Sie eine [!UICONTROL Integrated Account] (Link zum Partner, z.B. [!DNL Facebook]). Es führt Sie dann durch das In-Produkt-Setup der [!UICONTROL destination] selbst.
+In diesem Video erfahren Sie zunächst, welche Voraussetzungen zum Erstellen Ihrer [!DNL People-Based Destination]-Variablen erforderlich sind, und dann, wie Sie ein [!UICONTROL Integrated Account] konfigurieren können (Link zum Partner, z.B. [!DNL Facebook]). Es führt Sie dann durch das In-Produkt-Setup des [!UICONTROL destination] selbst.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28955/?quality=12)
