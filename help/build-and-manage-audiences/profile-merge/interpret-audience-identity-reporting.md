@@ -17,8 +17,8 @@ ht-degree: 0%
 ---
 
 
-# Dolmetschen [!DNL Audience Identity Reporting]
+# Interpretieren [!DNL Audience Identity Reporting]
 
-[!DNL Audience Identity Reporting] bietet Kunden die Möglichkeit, über die Gesamtpopulation einer Person [!UICONTROL trait] oder [!UICONTROL segment] nach Personalien/Haushaltsdefinitionen zu berichten. Sehen Sie sich dieses Video an, um zu sehen, wie es in den Berichten zu Audience Managern angezeigt wird.
+[!DNL Audience Identity Reporting] bietet Kunden die Möglichkeit, über die Gesamtpopulation einer Person  [!UICONTROL trait] oder  [!UICONTROL segment] nach Personalien/Haushaltsdefinitionen zu berichten. Sehen Sie sich dieses Video an, um zu sehen, wie es in den Berichten zu Audience Managern angezeigt wird.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28973/?quality=12)
