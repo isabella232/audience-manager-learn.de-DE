@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # Die Übereinstimmungsratenschnittstelle in Audience Manager
 
-Dieses Video führt Sie durch die [!UICONTROL destination] Oberfläche, in der die Zahlen angezeigt und erklärt werden, die mit den Übereinstimmungsraten und [!DNL addressable audiences]den Übereinstimmungsraten verbunden sind.
+Dieses Video führt Sie durch die [!UICONTROL destination]-Schnittstelle, die die Zahlen für Übereinstimmungsraten und [!DNL addressable audiences] anzeigt und erklärt.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29831/?quality=12)
 
