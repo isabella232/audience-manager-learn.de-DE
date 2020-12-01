@@ -16,16 +16,16 @@ ht-degree: 5%
 # Audience Manager-Tutorials {#tutorials}
 
 + [Überblick](overview.md)
-+ Einleitung zum Audience Manager {#intro-to-audience-manager}
++ Einführung in Audience Manager {#intro-to-audience-manager}
    + [Wie ein DMP Ihr Geschäft verändern kann](intro-to-audience-manager/how-a-dmp-can-change-your-business.md)
    + [Audience Manager - Übersicht über ein DMP](intro-to-audience-manager/audience-manager-overview-of-a-dmp.md)
    + [Anwendungsfälle für Audience Manager](intro-to-audience-manager/audience-manager-use-cases.md)
    + [Grundlegende Begriffe und Konzepte](intro-to-audience-manager/understanding-basic-terms-and-concepts-in-audience-manager.md)
    + [Der Datenfluss im Audience Manager](intro-to-audience-manager/understanding-the-data-flow-in-audience-manager.md)
    + [Einführung in die Identität im Audience Manager](intro-to-audience-manager/introduction-to-identity-in-audience-manager.md)
-   + Wertschöpfung {#value-realization}
+   + Wertrealisierung {#value-realization}
       + [Messung des ROI in einem Anwendungsfall zur Kundenunterdrückung](intro-to-audience-manager/value-realization/measuring-roi-in-a-customer-suppression-use-case.md)
-+ Einrichtung und Admin {#setup-and-admin}
++ Setup und Admin {#setup-and-admin}
    + Data Sources {#data-sources}
       + [Datenquelle für Analytics-Daten erstellen](setup-and-admin/data-sources/create-a-data-source-for-analytics-data.md)
    + Datenverwaltung und Datenschutz {#data-governance-and-privacy}
@@ -34,7 +34,7 @@ ht-degree: 5%
       + [IP-Verschleierung nach Land](setup-and-admin/data-governance-and-privacy/ip-obfuscation-by-country.md)
    + Nutzung und Rechnungsstellung {#usage-and-billing}
       + [Überwachung und Berichte bei der Aktivität](setup-and-admin/usage-and-billing/monitoring-and-reporting-on-activity-usage.md)
-+ Webimplementierung {#web-implementation}
++ Web-Implementierung {#web-implementation}
    + DIL (Data Integration Library) {#dil}
       + [Aktualisieren auf DIL Version 8.0 (oder höher)](web-implementation/dil/updating-to-dil-version-8-0-or-greater.md)
    + SSF (serverseitige Weiterleitung) {#ssf}
@@ -44,7 +44,7 @@ ht-degree: 5%
    + [Implementieren von Audience Manager mit Tag-Managern](web-implementation/using-tag-managers-to-implement-audience-manager.md)
    + [Identifizierung der Partner-ID oder Subdomäne](web-implementation/how-to-identify-your-partner-id-or-subdomain.md)
    + [Bewährte Verfahren für SPA](web-implementation/using-best-practices-on-spa-pages-when-sending-data-to-aam.md)
-+ Mobilimplementierung {#mobile-implementation}
++ Mobile Implementierung {#mobile-implementation}
    + [Implementierung in iOS Swift-Apps](https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-mobile-ios-swift-apps-with-launch/index.html)
    + [Implementierung in iOS Objective-C-Apps](https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html)
    + [Implementierung in Android-Apps](https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-mobile-android-apps-with-launch/index.html)
@@ -53,7 +53,7 @@ ht-degree: 5%
       + [Berichte 2. und Drittanbieter-Datenverwendung in Audience Marketplace auf Segmentebene](audience-marketplace/buying-data/reporting-2nd-and-3rd-party-data-usage-in-the-audience-marketplace-at-the-segment-level.md)
       + [Massenupload der Datenverwendung in Audience Marketplace](audience-marketplace/buying-data/bulk-uploading-data-usage-into-the-audience-marketplace.md)
       + [Filter und Recommendations zur Auswahl von Drittanbieterdaten in Audience Marketplace verwenden](audience-marketplace/buying-data/using-filters-and-recommendations-to-choose-3rd-party-data-in-audience-marketplace.md)
-+ Audiencen erstellen und verwalten {#build-and-manage-audiences}
++ Erstellen und Verwalten von Audiencen {#build-and-manage-audiences}
    + Data Explorer {#data-explorer}
       + [Verwenden des Signals-Dashboards zur schnellen Ansicht der wichtigsten verfügbaren Signale](build-and-manage-audiences/data-explorer/using-the-signals-dashboard-to-quickly-view-top-available-signals.md)
       + [Verwenden von Data Explorer zum Suchen nach verwendeten und nicht verwendeten Schlüssel/Wert-Paaren](build-and-manage-audiences/data-explorer/using-data-explorer-to-search-for-used-and-unused-key-value-pairs.md)
@@ -86,13 +86,13 @@ ht-degree: 5%
       + [Zahlen im Segmentdiagramm](build-and-manage-audiences/traits-and-segments/understanding-numbers-in-the-segment-graph.md)
       + [Kundentipps - Best Practices zu Eigenschaften und Segmenten](build-and-manage-audiences/traits-and-segments/customer-tips-traits-and-segments-best-practices.md)
    + Algorithmische Modelle {#algorithmic-models}
-      + [Erläuterungen [!UICONTROL Predictive Audiences]](build-and-manage-audiences/algorithmic-models/understanding-predictive-audiences.md)
-      + [Konfigurieren und Bericht über [!UICONTROL Predictive Audiences]](build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.md)
+      + [Erläuterungen  [!UICONTROL Predictive Audiences]](build-and-manage-audiences/algorithmic-models/understanding-predictive-audiences.md)
+      + [Konfigurieren und Bericht über  [!UICONTROL Predictive Audiences]](build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.md)
       + [Erstellen eines Look-Alike-Modells eines Erstanbieters](build-and-manage-audiences/algorithmic-models/creating-a-first-party-look-alike-model.md)
       + [Ausschließen von Eigenschaften in algorithmischen (Look-Alike) Modellen](build-and-manage-audiences/algorithmic-models/excluding-traits-in-algorithmic-look-alike-models.md)
       + [ROAS durch Verwendung algorithmischer (Look-Alike) Modelle erhöhen](build-and-manage-audiences/algorithmic-models/increase-roas-by-using-algorithmic-look-alike-models.md)
       + [Verwenden von Look-Alike-Modellen zum Erweitern des ausverkauften Bestands aus den Daten Ihrer ersten Partei](build-and-manage-audiences/algorithmic-models/using-look-alike-models-to-extend-sold-out-inventory-from-your-1st-party-data.md)
-   + Profil-Zusammenführung {#profile-merge}
+   + Profil Merge {#profile-merge}
       + [Profilzusammenführungsrichtlinien](build-and-manage-audiences/profile-merge/profile-merge.md)
       + [Übersicht über die Regeln zum Zusammenführen von Profilen](build-and-manage-audiences/profile-merge/overview-of-profile-merge-rules.md)
       + [Beispiele für Profil Merge Rule und Anwendungsfälle](build-and-manage-audiences/profile-merge/profile-merge-rule-examples-and-use-cases.md)
@@ -107,7 +107,7 @@ ht-degree: 5%
       + [Geräteübergreifende Metriken in Audience Manager](build-and-manage-audiences/profile-merge/understanding-cross-device-metrics-in-audience-manager.md)
       + [Kundentipps - Optimale Nutzung der Profil Merge Rules](build-and-manage-audiences/profile-merge/customer-tips-getting-the-most-out-of-profile-merge-rules.md)
 + Aktivierung der Daten {#data-activation}
-   + Ziele - Grundlagen {#destinations-basics}
+   + Ziele - Grundlagen{#destinations-basics}
       + [Die Zieltypen des Audience Managers](data-activation/destinations-basics/understanding-audience-manager-destination-types.md)
       + [Übereinstimmungsraten](data-activation/destinations-basics/understanding-match-rates.md)
       + [Die Übereinstimmungsratenschnittstelle](data-activation/destinations-basics/understanding-the-match-rate-interface-in-audience-manager.md)
