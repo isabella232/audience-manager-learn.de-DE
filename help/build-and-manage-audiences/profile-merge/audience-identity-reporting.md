@@ -19,6 +19,6 @@ ht-degree: 1%
 
 # [!DNL Audience Identity] Berichterstellung
 
-[!DNL Audience Identity] Berichte bietet Kunden die Möglichkeit, über die Gesamtpopulation einer Person [!UICONTROL trait] oder [!UICONTROL segment] nach Identitätsdefinitionen pro Haushalt zu berichten. Sehen Sie sich dieses Video an, um zu sehen, wie es in den Berichten zu Audience Managern angezeigt wird.
+[!DNL Audience Identity] Berichte bietet Kunden die Möglichkeit, über die Gesamtpopulation einer Person  [!UICONTROL trait] oder  [!UICONTROL segment] nach Identitätsdefinitionen für Personen/Haushalte zu berichten. Sehen Sie sich dieses Video an, um zu sehen, wie es in den Berichten zu Audience Managern angezeigt wird.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27977/?quality=12)
