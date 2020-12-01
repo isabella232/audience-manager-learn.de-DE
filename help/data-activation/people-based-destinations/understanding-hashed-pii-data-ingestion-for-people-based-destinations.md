@@ -19,6 +19,6 @@ ht-degree: 0%
 
 # Erläuterungen zur Hash-PII-Dateningestion für [!UICONTROL People-Based Destinations]
 
-In diesem Video werden die Dinge behandelt, die Sie berücksichtigen müssen, wenn Sie bereit sind, PII in Audience Manager zu importieren [!UICONTROL People-Based Destinations].
+In diesem Video werden die Dinge behandelt, die Sie berücksichtigen müssen, wenn Sie bereit sind, PII in Audience Manager für [!UICONTROL People-Based Destinations] zu importieren.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29003/?quality=12)
