@@ -17,43 +17,43 @@ ht-degree: 0%
 ---
 
 
-# Verwenden von Best Practices für SPA Seiten beim Senden von Daten an AAM {#using-best-practices-on-spa-pages-when-sending-data-to-aam}
+# Verwenden von Best Practices auf SPA Seiten beim Senden von Daten an AAM {#using-best-practices-on-spa-pages-when-sending-data-to-aam}
 
-In diesem Dokument beschreiben wir einige Best Practices, die Sie befolgen sollten und die Sie kennen sollten, wenn Sie Daten von [!UICONTROL Single Page Applications] (SPA) nach Adobe Audience Manager (AAM) senden. Dieses Dokument konzentriert sich auf die Verwendung [!UICONTROL Experience Platform Launch](die empfohlene Implementierungsmethode).
+In diesem Dokument beschreiben wir einige Best Practices, die Sie befolgen sollten und die Sie kennen sollten, wenn Sie Daten von [!UICONTROL Single Page Applications] (SPA) nach Adobe Audience Manager (AAM) senden. Dieses Dokument konzentriert sich auf die Verwendung von [!UICONTROL Experience Platform Launch], der empfohlenen Implementierungsmethode.
 
 ## Anfängliche Hinweise
 
-* Die folgenden Elemente gehen davon aus, dass Sie [!DNL Platform Launch] zur Implementierung auf Ihrer Site verwenden. Die Überlegungen bestehen weiterhin, wenn Sie nicht verwenden [!DNL Platform Launch], müssen sie jedoch an Ihre Implementierungsmethode anpassen.
+* Die folgenden Elemente gehen davon aus, dass Sie [!DNL Platform Launch] zur Implementierung auf Ihrer Site verwenden. Wenn Sie [!DNL Platform Launch] nicht verwenden, müssen Sie diese jedoch an Ihre Implementierungsmethode anpassen.
 * Alle SPA sind unterschiedlich, daher müssen Sie möglicherweise einige der folgenden Elemente anpassen, um Ihren Anforderungen am besten gerecht zu werden, aber wir wollten einige Best Practices mit Ihnen teilen. Dinge, über die Sie nachdenken müssen, wenn Sie Daten von SPA Seiten an Audience Manager senden.
 
-## Einfaches Arbeitsdiagramm mit SPA und AAM im Experience Platform Launch {#simple-diagram-of-working-with-spas-and-aam-in-experience-platform-launch}
+## Einfaches Arbeitsdiagramm mit SPA und AAM in Experience Platform Launch {#simple-diagram-of-working-with-spas-and-aam-in-experience-platform-launch}
 
-![spa in [!DNL launch]](assets/spa_for_aam_in_launch.png)
+![spa in  [!DNL launch]](assets/spa_for_aam_in_launch.png)
 
 >[!NOTE]
->Wie angegeben, ist dies ein vereinfachtes Diagramm, wie SPA Seiten in einer Adobe Audience Manager-Implementierung (ohne Adobe Analytics) verarbeitet werden [!DNL Platform Launch]. Wie Sie sehen können, ist es ziemlich unkompliziert, mit der großen Entscheidung, wie Sie eine Ansicht ändern (oder eine Aktion) zu [!DNL Platform Launch]kommunizieren.
+>Wie angegeben, ist dies ein vereinfachtes Diagramm, wie SPA Seiten in einer Adobe Audience Manager-Implementierung (ohne Adobe Analytics) mit [!DNL Platform Launch] verarbeitet werden. Wie Sie sehen können, ist es ziemlich unkompliziert, mit der großen Entscheidung, wie Sie eine Ansicht ändern (oder eine Aktion) zu [!DNL Platform Launch].
 
-## Auslösen [!DNL Launch] von der SPA {#triggering-launch-from-the-spa-page}
+## Auslösen von [!DNL Launch] von der SPA Seite {#triggering-launch-from-the-spa-page}
 
 Zwei der gängigeren Methoden zum Auslösen einer Regel in [!DNL Platform Launch] (und somit zum Senden von Daten an Audience Manager) sind:
 
-* Festlegen benutzerdefinierter JavaScript-Ereignis (siehe Beispiel [HIER](https://helpx.adobe.com/analytics/kt/using/spa-analytics-best-practices-feature-video-use.html) mit Adobe Analytics)
-* Verwenden einer [!UICONTROL Direct Call Rule]
+* Festlegen benutzerdefinierter JavaScript-Ereignis (siehe Beispiel [HERE](https://helpx.adobe.com/analytics/kt/using/spa-analytics-best-practices-feature-video-use.html) mit Adobe Analytics)
+* Verwenden eines [!UICONTROL Direct Call Rule]
 
-In diesem Audience Manager-Beispiel werden wir eine verwenden, [!UICONTROL Direct Call rule] [!DNL Launch] um den Treffer auszulösen, der in den Audience Manager gelangt. Wie Sie in den nächsten Abschnitten sehen werden, ist dies wirklich nützlich, wenn Sie den Wert [!UICONTROL Data Layer] auf einen neuen Wert einstellen, damit er vom [!UICONTROL Data Element] in aufgenommen werden kann [!DNL Platform Launch].
+In diesem Audience Manager verwenden wir ein [!UICONTROL Direct Call rule] in [!DNL Launch], um den Treffer auszulösen, der in den Audience Manager gelangt. Wie Sie in den nächsten Abschnitten sehen werden, ist dies wirklich nützlich, wenn Sie [!UICONTROL Data Layer] auf einen neuen Wert setzen, damit dieser von [!UICONTROL Data Element] in [!DNL Platform Launch] aufgenommen werden kann.
 
-## Demoseite {#demo-page}
+## Demo-Seite {#demo-page}
 
-Wir haben eine kleine Demo-Seite erstellt, die zeigt, wie Sie einen Wert in der ändern [!DNL data layer] und ihn an AAM senden, wie Sie es auf einer SPA Seite tun können. Diese Funktion kann für detailliertere Änderungen modelliert werden. Diese Demo-Seite finden Sie [HIER](https://aam.enablementadobe.com/SPA-Launch.html).
+Wir haben eine kleine Demo-Seite erstellt, die zeigt, wie Sie einen Wert im [!DNL data layer] ändern und ihn an AAM senden, wie Sie es auf einer SPA Seite tun können. Diese Funktion kann für detailliertere Änderungen modelliert werden. Sie finden diese Demo-Seite [HIER](https://aam.enablementadobe.com/SPA-Launch.html).
 
 ## Durch Einstellung der [!DNL data layer] {#setting-the-data-layer}
 
-Wie bereits erwähnt, müssen neue Inhalte, die auf der Seite geladen werden, oder wenn jemand eine Aktion auf der Site ausführt, dynamisch im Kopf der Seite eingestellt werden, BEVOR der Aufruf und die Ausführung des Vorgangs [!DNL data layer] erfolgt [!DNL Launch] , damit die neuen Werte aus der Seite aufgenommen werden [!UICONTROL rules]können [!DNL Platform Launch] [!DNL data layer] und in den Audience Manager verschoben werden können.
+Wie bereits erwähnt, muss beim Laden von neuen Inhalten auf der Seite oder beim Durchführen einer Aktion auf der Site das [!DNL data layer] dynamisch im Kopf der Seite eingestellt werden, BEVOR [!DNL Launch] aufgerufen wird und das [!UICONTROL rules] ausgeführt wird, damit [!DNL Platform Launch] die neuen Werte aus dem [!DNL data layer] abrufen und in den Audience Manager verschieben kann.
 
 Wenn Sie die oben aufgeführte Demo-Site aufrufen und sich die Seitenquelle ansehen, sehen Sie:
 
-* Der Aufruf [!DNL data layer] befindet sich im Kopf der Seite, bevor der Aufruf von [!DNL Platform Launch]
-* Das JavaScript im simulierten SPA-Link ändert den [!UICONTROL Data Layer]und der DANN-Aufruf [!DNL Platform Launch] (der Aufruf _satellite.track()). Wenn Sie benutzerdefinierte JavaScript-Ereignis anstelle dieser verwenden, [!UICONTROL Direct Call Rule]ist die Lektion die gleiche. Ändern Sie zuerst die [!DNL data layer]und rufen Sie dann an [!DNL Launch].
+* Das [!DNL data layer] befindet sich im Kopf der Seite vor dem Aufruf von [!DNL Platform Launch]
+* Das JavaScript im simulierten SPA ändert den [!UICONTROL Data Layer]- und DANN den [!DNL Platform Launch]-Aufruf (der _satellite.track()-Aufruf). Wenn Sie benutzerdefinierte JavaScript-Ereignis anstelle von [!UICONTROL Direct Call Rule] verwenden, ist die Lektion die gleiche. Ändern Sie zuerst die [!DNL data layer] und rufen Sie dann [!DNL Launch] auf.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23322/?quality=12)
 
