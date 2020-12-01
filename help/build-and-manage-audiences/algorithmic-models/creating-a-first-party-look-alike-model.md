@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # Erstellen eines [!UICONTROL First Party] Look-Alike [!UICONTROL Model] in AAM {#creating-a-first-party-look-alike-model-in-aam}
 
-In diesem Video erfahren Sie, wie Sie ein [!UICONTROL first party] Look-like erstellen [!UICONTROL model], damit Sie mehr eigene Besucher finden können, die wie Ihre Konverter aussehen.
+In diesem Video erfahren Sie, wie Sie ein [!UICONTROL first party] Look-like [!UICONTROL model] erstellen, damit Sie mehr Ihrer eigenen Besucher finden können, die wie Ihre Konverter aussehen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23504/?quality=12)
 
