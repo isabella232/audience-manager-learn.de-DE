@@ -17,21 +17,21 @@ ht-degree: 0%
 ---
 
 
-# DSP [!UICONTROL Audience Lab] auswählen {#using-audience-lab-to-choose-a-dsp}
+# Verwenden von [!UICONTROL Audience Lab] zur Auswahl eines DSP {#using-audience-lab-to-choose-a-dsp}
 
-In diesem Video gehen wir durch die Erstellung eines [!UICONTROL Audience Lab] Tests, damit Sie A/B-DSP oder andere AAM testen können, [!UICONTROL destinations] um zu sehen, welche die beste Rendite aus Werbeausgaben erzielen.
+In diesem Video gehen wir durch die Erstellung eines [!UICONTROL Audience Lab]-Tests, damit Sie A/B-DSP oder andere AAM [!UICONTROL destinations] testen können, um zu sehen, welche den besten Gewinn aus Werbeausgaben erzielen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24923/?quality=12)
 
-Das Erstellen eines [!UICONTROL Audience Lab] Tests ist einfach und kann in wenigen Minuten durchgeführt werden, wie im Video oben gezeigt. Während Sie die Schritte in der Oberfläche durchlaufen, richten Sie Folgendes ein:
+Das Erstellen eines [!UICONTROL Audience Lab]-Tests ist einfach und kann in nur wenigen Minuten durchgeführt werden, wie das Video oben zeigt. Während Sie die Schritte in der Oberfläche durchlaufen, richten Sie Folgendes ein:
 
-1. Erstellen und Benennen Sie Ihren [!UICONTROL Audience Lab] Test
-1. Wählen Sie eine Ihrer [!UICONTROL segments] Optionen als &quot;[!UICONTROL base segment]&quot;, d. h. die Audience, die auf Ihre DSP verteilt [!UICONTROL segment] wird
-1. Wählen Sie aus, wie viele Tests [!UICONTROL segments] Sie erstellen möchten (wie viele DSP werden Sie testen?)
-   * Legen Sie einen der Tests [!UICONTROL segments] als ein Steuerelement [!UICONTROL segment], das an keine DSP gesendet wird, damit Sie Ihre DSP Audiencen mit diesem vergleichen können.
-1. Wählen Sie eine Konversion [!UICONTROL trait]aus, die Ihren Erfolg messen [!UICONTROL trait] soll, und wählen Sie Ihren Gewinner.
-1. Wählen Sie [!UICONTROL Destinations] (d.h. DSP) und weisen Sie den Test zu [!UICONTROL segments]
+1. Erstellen und benennen Sie Ihren [!UICONTROL Audience Lab]-Test
+1. Wählen Sie eines Ihrer [!UICONTROL segments] als &quot;[!UICONTROL base segment]&quot;, d. h. die Audience [!UICONTROL segment], die auf Ihre DSP aufgeteilt wird.
+1. Wählen Sie aus, wie viele Tests Sie erstellen möchten (wie viele DSP werden Sie testen?)[!UICONTROL segments]
+   * Legen Sie einen der Testwerte [!UICONTROL segments] als ein Steuerelement [!UICONTROL segment] fest, das an keine DSP gesendet wird, damit Sie Ihre DSP Audiencen damit vergleichen können
+1. Wählen Sie eine Konvertierung [!UICONTROL trait], die [!UICONTROL trait] ist, die Ihren Erfolg misst und Ihren Gewinner auswählt
+1. Wählen Sie [!UICONTROL Destinations] (d.h. DSP) und weisen Sie den Test [!UICONTROL segments] zu.
 1. Überprüfen Sie die Testzusammenfassung und aktivieren Sie den Test
-1. Nach Abschluss des Tests können Sie auf die Ergebnisse im Hauptstartbildschirm von [!UICONTROL Audience Lab]
+1. Nach Abschluss des Tests können Sie auf die Ergebnisse im Hauptstartbildschirm von [!UICONTROL Audience Lab] zugreifen
 
 Weitere Informationen finden Sie in der [Funktionsdokumentation](https://marketing.adobe.com/resources/help/en_US/aam/audience-lab.html).
