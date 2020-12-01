@@ -18,7 +18,7 @@ ht-degree: 0%
 ---
 
 
-# Erstellen und Verwenden von einfach [!UICONTROL Profile Merge Rules]
+# Erstellen und Verwenden von Simple [!UICONTROL Profile Merge Rules]
 
 Erfahren Sie mehr über Profil Merge Rules und wie Sie sie Segmenten zuweisen. Erfahren Sie mehr über das Standard-Profil &quot;Aktuelles Gerät&quot;und wann es verwendet werden kann/sollte.
 
