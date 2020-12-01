@@ -18,7 +18,7 @@ ht-degree: 0%
 ---
 
 
-# Verwenden [!UICONTROL Profile Merge Rules] der Personalisierung in einem authentifizierten Status
+# Verwenden von [!UICONTROL Profile Merge Rules] zum Personalisieren in einem authentifizierten Status
 
 Geben Sie Ihren angemeldeten Kunden mithilfe dieser Profil Merge Rule-Einstellungen ein personalisiertes Erlebnis.
 
