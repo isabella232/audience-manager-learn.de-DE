@@ -19,6 +19,6 @@ ht-degree: 5%
 
 # [!UICONTROL People-Based Destinations] Datenfluss
 
-Dieses Video gibt einen Überblick über den Datenfluss [!UICONTROL People-Based Destinations] und zeigt den Datenfluss durch den Prozess.
+Dieses Video gibt einen Überblick über [!UICONTROL People-Based Destinations] und zeigt den Datenfluss durch den Prozess.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28968/?quality=12)
