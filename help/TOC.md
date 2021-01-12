@@ -5,9 +5,9 @@ breadcrumb-title: Audience Manager-Tutorials
 breadcrumb-url: /docs/audience-manager-learn/tutorials/overview.html
 solution: Audience Manager
 translation-type: tm+mt
-source-git-commit: 468ebd3e9056e946b3b54c9e312214558fb881b8
+source-git-commit: cfd8290b82fd877ea582400291184f9897be92a3
 workflow-type: tm+mt
-source-wordcount: '743'
+source-wordcount: '765'
 ht-degree: 5%
 
 ---
@@ -114,6 +114,7 @@ ht-degree: 5%
       + [Die Zieltypen des Audience Managers](data-activation/destinations-basics/understanding-audience-manager-destination-types.md)
       + [Übereinstimmungsraten](data-activation/destinations-basics/understanding-match-rates.md)
       + [Die Übereinstimmungsratenschnittstelle](data-activation/destinations-basics/understanding-the-match-rate-interface-in-audience-manager.md)
+      + [Datenexportbeschriftungen zur Steuerung des Datenflusses verwenden](data-activation/destinations-basics/using-data-export-labels-to-control-data-flow.md)
    + Audience Lab {#audience-lab}
       + [Verwenden von Audience Lab zur Auswahl eines DSP](data-activation/audience-lab/using-audience-lab-to-choose-a-dsp.md)
       + [Erstellen von Konversionseigenschaften](build-and-manage-audiences/traits-and-segments/creating-conversion-traits.md)
@@ -132,6 +133,8 @@ ht-degree: 5%
 + Berichte {#reports}
    + [Verwenden allgemeiner Berichte mit Eigenschaften und Segmenten](reports/using-general-reports-with-traits-and-segments.md)
    + [Verwenden von Trendberichten mit Eigenschaften und Segmenten](reports/using-trended-reports-with-traits-and-segments.md)
+   + [Verstehen verwandter Audiencen mit Überschneidungsberichten](reports/understand-related-audiences-with-overlap-reports.md)
+   + [Verwenden von Audience Optimizationen-Berichten zum Verstehen der Medienleistung](reports/using-audience-optimization-reports-to-understand-media-performance.md)
 + Andere Integrationen {#other-integrations}
    + Integration mit Ad Cloud {#integrating-with-ad-cloud}
       + [Integration von Adobe Advertising Cloud und Adobe Audience Manager](other-integrations/integrating-with-ad-cloud/advertising-cloud-and-audience-manager-integration.md)
