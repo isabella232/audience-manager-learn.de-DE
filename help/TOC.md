@@ -5,9 +5,9 @@ breadcrumb-title: Audience Manager-Tutorials
 breadcrumb-url: /docs/audience-manager-learn/tutorials/overview.html
 solution: Audience Manager
 translation-type: tm+mt
-source-git-commit: cfd8290b82fd877ea582400291184f9897be92a3
+source-git-commit: 18b3c68cbb1c00abe087ea0deaa940c67d7ebb97
 workflow-type: tm+mt
-source-wordcount: '765'
+source-wordcount: '773'
 ht-degree: 5%
 
 ---
@@ -73,6 +73,7 @@ ht-degree: 5%
       + [Konfigurieren des Ablaufs der Eigenschaft mit der Einstellung &quot;Time to Live (TTL)&quot;](build-and-manage-audiences/traits-and-segments/configuring-trait-expiration-with-the-time-to-live-ttl-setting.md)
       + [Verwenden der Code-Ansicht zum Erstellen und Bearbeiten von Eigenschaften](build-and-manage-audiences/traits-and-segments/using-code-view-to-create-and-edit-traits.md)
       + [Einführung in das Massenmanagement (BAAAM)](build-and-manage-audiences/traits-and-segments/introduction-to-bulk-management-baaam.md)
+      + [Stapelweises Erstellen und Verwalten von Eigenschaften mit BAAAM](build-and-manage-audiences/traits-and-segments/creating-and-managing-traits-in-bulk-with-baaam.md)
       + [Grundlagen zum Erstellen von Segmenten](build-and-manage-audiences/traits-and-segments/the-basics-of-creating-segments.md)
       + [Erstellen einer Segmenttaxonomie](build-and-manage-audiences/traits-and-segments/creating-a-segment-taxonomy.md)
       + [Praktische Segmentdefinition und -erstellung](build-and-manage-audiences/traits-and-segments/practical-segment-definition-and-creation.md)
