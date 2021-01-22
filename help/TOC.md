@@ -5,10 +5,10 @@ breadcrumb-title: Audience Manager-Tutorials
 breadcrumb-url: /docs/audience-manager-learn/tutorials/overview.html
 solution: Audience Manager
 translation-type: tm+mt
-source-git-commit: 18b3c68cbb1c00abe087ea0deaa940c67d7ebb97
+source-git-commit: 1dbbe590c85c1ca8406bbf1c841ace49c95f822f
 workflow-type: tm+mt
-source-wordcount: '773'
-ht-degree: 5%
+source-wordcount: '781'
+ht-degree: 4%
 
 ---
 
@@ -83,6 +83,7 @@ ht-degree: 5%
       + [Verbesserungen an der Eigenschaftsempfehlung im Segmentaufbau](build-and-manage-audiences/traits-and-segments/trait-recommendation-enhancements-in-the-segment-builder.md)
       + [Verwenden von Neuigkeit und Häufigkeit in Segmenten](build-and-manage-audiences/traits-and-segments/using-recency-and-frequency-in-segments.md)
       + [Verwenden der Code-Ansicht beim Erstellen von Segmenten](build-and-manage-audiences/traits-and-segments/using-code-view-when-building-segments.md)
+      + [Segmente aus Adobe Analytics in Audience Manager importieren](build-and-manage-audiences/traits-and-segments/import-aa-segments-into-aam.md)
       + [Erstellen eines Segments zur Unterdrückung von Anzeigen für Kunden](build-and-manage-audiences/traits-and-segments/building-a-segment-to-suppress-ads-to-customers.md)
       + [Zuordnen von Audience Manager-Segmenten zu Zielen](build-and-manage-audiences/traits-and-segments/mapping-audience-manager-segments-to-destinations.md)
       + [Zuordnen von Segmenten zu einem gerätebasierten Ziel](build-and-manage-audiences/traits-and-segments/mapping-segments-to-a-device-based-destination.md)
