@@ -5,9 +5,9 @@ breadcrumb-title: Audience Manager-Tutorials
 breadcrumb-url: /docs/audience-manager-learn/tutorials/overview.html
 solution: Audience Manager
 translation-type: tm+mt
-source-git-commit: 1dbbe590c85c1ca8406bbf1c841ace49c95f822f
+source-git-commit: 76148acf54798376cb591e215b4ba50fdc6b72f2
 workflow-type: tm+mt
-source-wordcount: '781'
+source-wordcount: '802'
 ht-degree: 4%
 
 ---
@@ -28,6 +28,7 @@ ht-degree: 4%
 + Setup und Admin {#setup-and-admin}
    + Data Sources {#data-sources}
       + [Datenquelle für Analytics-Daten erstellen](setup-and-admin/data-sources/create-a-data-source-for-analytics-data.md)
+      + [Erstellen einer geräteübergreifenden Datenquelle und Authentifizieren](setup-and-admin/data-sources/creating-a-cross-device-data-source-and-authenticating.md)
    + Benutzerverwaltung {#user-management}
       + [Berechtigungen mit rollenbasierter Zugriffskontrolle festlegen](setup-and-admin/user-management/setting-permissions-with-role-based-access-control.md)
    + Datenverwaltung und Datenschutz {#data-governance-and-privacy}
@@ -46,6 +47,9 @@ ht-degree: 4%
    + [Implementieren von Audience Manager mit Tag-Managern](web-implementation/using-tag-managers-to-implement-audience-manager.md)
    + [Identifizierung der Partner-ID oder Subdomäne](web-implementation/how-to-identify-your-partner-id-or-subdomain.md)
    + [Bewährte Verfahren für SPA](web-implementation/using-best-practices-on-spa-pages-when-sending-data-to-aam.md)
++ Integration von Offline-Daten {#integrating-offline-data}
+   + [Formatieren und Einfügen dateibasierter Daten](integrating-offline-data/formatting-and-ingesting-file-based-data.md)
+   + [Schritte für die Erfassung dateibasierter Daten](integrating-offline-data/steps-for-ingesting-file-based-data.md)
 + Mobile Implementierung {#mobile-implementation}
    + [Implementierung in iOS Swift-Apps](https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-mobile-ios-swift-apps-with-launch/index.html)
    + [Implementierung in iOS Objective-C-Apps](https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html)
