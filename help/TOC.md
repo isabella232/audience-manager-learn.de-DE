@@ -5,9 +5,9 @@ breadcrumb-title: Audience Manager-Tutorials
 breadcrumb-url: /docs/audience-manager-learn/tutorials/overview.html
 solution: Audience Manager
 translation-type: tm+mt
-source-git-commit: 76148acf54798376cb591e215b4ba50fdc6b72f2
+source-git-commit: 68e5ab7aec35619af29ed075bef872d9db2da178
 workflow-type: tm+mt
-source-wordcount: '802'
+source-wordcount: '849'
 ht-degree: 4%
 
 ---
@@ -59,6 +59,8 @@ ht-degree: 4%
       + [Berichte 2. und Drittanbieter-Datenverwendung in Audience Marketplace auf Segmentebene](audience-marketplace/buying-data/reporting-2nd-and-3rd-party-data-usage-in-the-audience-marketplace-at-the-segment-level.md)
       + [Massenupload der Datenverwendung in Audience Marketplace](audience-marketplace/buying-data/bulk-uploading-data-usage-into-the-audience-marketplace.md)
       + [Filter und Recommendations zur Auswahl von Drittanbieterdaten in Audience Marketplace verwenden](audience-marketplace/buying-data/using-filters-and-recommendations-to-choose-3rd-party-data-in-audience-marketplace.md)
+   + Verkaufsdaten {#selling-data}
+      + [Eigene Audiencen auf dem Marketplace kommerzialisieren](audience-marketplace/selling-data/commercialize-owned-audiences-on-marketplace.md)
 + Erstellen und Verwalten von Audiencen {#build-and-manage-audiences}
    + Data Explorer {#data-explorer}
       + [Verwenden des Signals-Dashboards zur schnellen Ansicht der wichtigsten verfügbaren Signale](build-and-manage-audiences/data-explorer/using-the-signals-dashboard-to-quickly-view-top-available-signals.md)
@@ -142,6 +144,10 @@ ht-degree: 4%
    + [Verstehen verwandter Audiencen mit Überschneidungsberichten](reports/understand-related-audiences-with-overlap-reports.md)
    + [Verwenden von Audience Optimizationen-Berichten zum Verstehen der Medienleistung](reports/using-audience-optimization-reports-to-understand-media-performance.md)
 + Andere Integrationen {#other-integrations}
+   + Integration mit der Echtzeit-Kundendatenplattform {#integrating-with-rtcdp}
+      + [Daten über den Adobe Audience Manager-Datenanschluss erfassen](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-aam.html?lang=en#sources)
+      + [Einbettung von Daten aus der 1. Partei in Echtzeit-CDP](other-integrations/integrating-with-rtcdp/rtcdp-1pd-ingestion-for-aam-users.md)
+      + [Erläuterungen zur Webdateningestion in Echtzeit-CDP](other-integrations/integrating-with-rtcdp/rtcdp-web-ingestion-for-aam-users.md)
    + Integration mit Ad Cloud {#integrating-with-ad-cloud}
       + [Integration von Adobe Advertising Cloud und Adobe Audience Manager](other-integrations/integrating-with-ad-cloud/advertising-cloud-and-audience-manager-integration.md)
 + API {#api}
