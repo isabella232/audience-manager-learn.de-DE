@@ -1,17 +1,18 @@
 ---
 title: Berichte 2. und Drittanbieter-Datenverwendung in Audience Marketplace auf Segmentebene
 description: In diesem Video wird eine neue Methode zur Verwendung von Berichte-Daten im Bereich "Payables"der Benutzeroberfläche des Audience Marketplace gezeigt. Neben dem bereits vorhandenen Berichte auf Feed-Ebene können nun auch monatliche Impressionen auf Segmentebene gesendet werden, sodass keine Offline-Berechnungen für die Kostenzuordnung erforderlich sind.
-feature: audience marketplace
+feature: Audience Marketplace
 topics: null
 audience: all
 activity: use
 doc-type: feature video
 team: Technical Marketing
+thumbnail: 25522.jpg
 kt: 1758
 translation-type: tm+mt
-source-git-commit: dfd549508cc223714bdb07ac6fd2aa31e6ca5586
+source-git-commit: ba76f9437e5d8f0495e4f2dfafb90cbf2da6454f
 workflow-type: tm+mt
-source-wordcount: '231'
+source-wordcount: '233'
 ht-degree: 0%
 
 ---
