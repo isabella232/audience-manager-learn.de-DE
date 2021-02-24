@@ -1,17 +1,18 @@
 ---
 title: Auswirkungen der Profil Merge Rule-Erweiterungen auf Segmentierung, Aktivierung und Berichte
 description: Verstehen, wie die Verbesserungen der Profil-Merge-Regel die Gesamtanzahl der Eigenschaften und Segmente in der Benutzeroberfläche des Audience Managers beeinflussen
-feature: profile merge
+feature: Profil zusammenführen
 topics: null
 audience: all
 activity: understand
 doc-type: feature video
 team: Technical Marketing
+thumbnail: 28972.jpg
 kt: 3693
 translation-type: tm+mt
-source-git-commit: dfd549508cc223714bdb07ac6fd2aa31e6ca5586
+source-git-commit: ba76f9437e5d8f0495e4f2dfafb90cbf2da6454f
 workflow-type: tm+mt
-source-wordcount: '47'
+source-wordcount: '49'
 ht-degree: 0%
 
 ---
