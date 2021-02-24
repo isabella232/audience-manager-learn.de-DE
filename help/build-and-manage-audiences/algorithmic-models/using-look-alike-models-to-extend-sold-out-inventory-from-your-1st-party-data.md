@@ -1,17 +1,18 @@
 ---
 title: Verwenden von Look-Alike-Modellen zum Erweitern des ausverkauften Bestands aus Ihren Erstanbieter-Daten
 description: In diesem Lernprogramm gehen wir durch die Schritte, die Sie unternehmen sollten, um Look-Alike-Modelle einzurichten und zu verwenden, damit Sie neue Look-Alike-Audiencen erstellen und diese als Erweiterung Ihres Konvertierungssegments verkaufen können.
-feature: algorithmic models
+feature: Algorithmische Modelle
 topics: null
 audience: all
 activity: use
 doc-type: feature video
 team: Technical Marketing
+thumbnail: 23523.jpg
 kt: 1688
 translation-type: tm+mt
-source-git-commit: dfd549508cc223714bdb07ac6fd2aa31e6ca5586
+source-git-commit: ba76f9437e5d8f0495e4f2dfafb90cbf2da6454f
 workflow-type: tm+mt
-source-wordcount: '825'
+source-wordcount: '827'
 ht-degree: 0%
 
 ---
@@ -61,6 +62,6 @@ Als Nächstes müssen wir einen Algorithmus [!UICONTROL Trait] erstellen, damit 
 
 ## Angebot des Algorithmus [!UICONTROL Segment] an Werbekunden {#offering-the-algorithmic-segment-to-advertisers}
 
-Nachdem Sie ein Algorithmus [!UICONTROL Trait] erstellt haben, können Sie ein neues [!UICONTROL segment] erstellen, um es einzufügen, sodass Sie die Daten aktivieren können (Sie können kein [!UICONTROL trait] aktivieren, sondern stattdessen ein neues [!UICONTROL trait] [!UICONTROL segment] [!UICONTROL Trait] mit dem Algorithmus &lt;a5/> erstellen, damit Sie das [!UICONTROL segment] aktivieren (verwenden) können.
+Nachdem Sie ein Algorithmus [!UICONTROL Trait] erstellt haben, können Sie ein neues [!UICONTROL segment] erstellen, um es einzufügen, sodass Sie die Daten aktivieren können (Sie können kein [!UICONTROL trait] aktivieren, sondern stattdessen ein neues [!UICONTROL trait] [!UICONTROL segment] [!UICONTROL Trait] mit dem Algorithmus  erstellen, damit Sie das [!UICONTROL segment] aktivieren (verwenden) können.
 
 Nachdem Sie eine [!UICONTROL segment] von [!UICONTROL first party] Besuchern erstellt haben, die im Look-Alike [!UICONTROL model] einen hohen Wert erreicht haben (d. h. die wie Konverter aussehen, aber noch nicht konvertiert wurden), können Sie dieses [!UICONTROL segment] an Werbekunden auf Ihrer Site Angebot haben, auch nachdem Sie Ihren gesamten Bestand an tatsächlichen Konvertern auf Ihrer Site ausverkauft haben. Dies ist eine großartige Möglichkeit, diese Audience zu erweitern und weitere Umsätze durch Verwendung von Look-Alike [!UICONTROL Models] in Audience Manager zu sehen.
