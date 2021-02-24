@@ -1,17 +1,18 @@
 ---
 title: Erhöhung der ROAS durch Verwendung algorithmischer (Look-Alike) Modelle im Audience Manager
 description: Die wahre Stärke des Look-alike Modelings von Audience Manager liegt darin, dass Sie Ihre Ausgangsergebnisse gegenüber einer hochwertigen, ganz neuen Benutzergruppe aus 2nd- und 3rd-Party-Datenquellen erweitern möchten. In diesem Lernprogramm erfahren Sie, wie Sie anhand dieser Daten ein Modell erstellen.
-feature: algorithmic models
+feature: Algorithmische Modelle
 topics: null
 audience: all
 activity: use
 doc-type: feature video
 team: Technical Marketing
+thumbnail: 25188.jpg
 kt: 1849
 translation-type: tm+mt
-source-git-commit: a108c51fdad66f4e7974eb96609b6d8f058cb6ff
+source-git-commit: 6c81fd73d2c5abd646b0d38b6f4eebde837b09f2
 workflow-type: tm+mt
-source-wordcount: '860'
+source-wordcount: '862'
 ht-degree: 0%
 
 ---
@@ -59,6 +60,6 @@ Als Nächstes müssen wir einen Algorithmus [!UICONTROL Trait] erstellen, damit 
 
 ## [!UICONTROL Segment] aus den [!UICONTROL Model]-Daten erstellen und sie an DSP {#creating-a-segment-from-the-model-data-and-sending-it-to-dsps} senden
 
-Nachdem Sie ein Algorithmus [!UICONTROL Trait] erstellt haben, können Sie ein neues [!UICONTROL segment] erstellen, um es einzufügen, sodass Sie die Daten aktivieren können (Sie können kein [!UICONTROL trait] aktivieren, sondern stattdessen ein neues [!UICONTROL trait] [!UICONTROL segment] [!UICONTROL Trait] mit dem Algorithmus &lt;a5/> erstellen, damit Sie das [!UICONTROL segment] aktivieren (verwenden) können.
+Nachdem Sie ein Algorithmus [!UICONTROL Trait] erstellt haben, können Sie ein neues [!UICONTROL segment] erstellen, um es einzufügen, sodass Sie die Daten aktivieren können (Sie können kein [!UICONTROL trait] aktivieren, sondern stattdessen ein neues [!UICONTROL trait] [!UICONTROL segment] [!UICONTROL Trait] mit dem Algorithmus  erstellen, damit Sie das [!UICONTROL segment] aktivieren (verwenden) können.
 
 Nachdem Sie ein [!UICONTROL segment] aus diesem Algorithmus [!UICONTROL trait] erstellt haben, haben Sie eine Audience potenzieller Kunden, die aussehen wie Personen, die bereits auf Ihrer Site konvertiert wurden. Jetzt können Sie [!UICONTROL segment] einem Ihrer DSP [!UICONTROL destinations] in Audience Manager zuordnen. Sie können Ihr Marketing auf diese Look-Alikes Zielgruppe haben, die mit größerer Wahrscheinlichkeit auf Ihrer Site umgerechnet werden als nur die normale Öffentlichkeit, was Ihre Rendite aus Werbeausgaben erhöht. Viel Glück!
