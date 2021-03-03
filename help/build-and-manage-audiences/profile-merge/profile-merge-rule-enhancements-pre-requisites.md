@@ -1,18 +1,19 @@
 ---
 title: Verbesserungen der Profil Merge Rule - Voraussetzungen
 description: Eine Übersicht über die bestmögliche Vorbereitung auf die Veröffentlichung der Profil Merge Rule Enhancements.
-feature: Profil zusammenführen
+feature: Profil-Zusammenführung
 topics: null
-audience: all
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 28971.jpg
 kt: 3692
+role: '"Business Practitioner, Entwickler, Dateningenieur, Architekt, Data Architect, Administrator, Leader"'
+level: Anfänger
 translation-type: tm+mt
-source-git-commit: ba76f9437e5d8f0495e4f2dfafb90cbf2da6454f
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '36'
+source-wordcount: '47'
 ht-degree: 0%
 
 ---
