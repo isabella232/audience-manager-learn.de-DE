@@ -1,17 +1,18 @@
 ---
 title: Validierung der globalen Geräte-ID
-description: Geräte-Advertising-Identifikatoren (z. B. iDFA, GAID, Roku-ID) haben Formatierungsstandards, die eingehalten werden müssen, damit sie im digitalen Werbesystem verwendet werden können. Kunden und Partner können heute IDs in beliebige Formate in unsere globalen Datenquellen hochladen, ohne darüber informiert zu werden, ob die ID korrekt formatiert ist. Mit dieser Funktion wird die Validierung von Geräte-IDs eingeführt, die zur ordnungsgemäßen Formatierung an die globalen Datenquellen gesendet werden, und es werden Fehlermeldungen angezeigt, wenn IDs nicht korrekt formatiert sind. Wir unterstützen die Validierung von iDFA-, Google Advertising- und Roku-IDs beim Start.
-feature: data governance & privacy
+description: Geräte-Advertising-Identifikatoren (z. B. iDFA, GAID, Roku-ID) haben Formatierungsstandards, die erfüllt werden müssen, damit sie im digitalen Werbesystem verwendet werden können. Kunden und Partner können heute IDs in beliebige Formate in unsere globalen Datenquellen hochladen, ohne darüber informiert zu werden, ob die ID korrekt formatiert ist. Mit dieser Funktion wird die Validierung von Geräte-IDs eingeführt, die zur ordnungsgemäßen Formatierung an die globalen Datenquellen gesendet werden, und es werden Fehlermeldungen angezeigt, wenn IDs nicht korrekt formatiert sind. Wir unterstützen die Validierung von iDFA-, Google Advertising- und Roku-IDs beim Start.
+feature: '"Datenverwaltung und Datenschutz"'
 topics: mobile
-audience: implementer, developer, architect
 activity: implement
 doc-type: article
 team: Technical Marketing
 kt: 2977
+role: '"Entwickler, Dateningenieur, Architekt"'
+level: Erfahren
 translation-type: tm+mt
-source-git-commit: a108c51fdad66f4e7974eb96609b6d8f058cb6ff
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '778'
+source-wordcount: '786'
 ht-degree: 1%
 
 ---
@@ -19,7 +20,7 @@ ht-degree: 1%
 
 # Validierung der globalen Geräte-ID {#global-device-id-validation}
 
-Geräte-Advertising-Identifikatoren (z. B. iDFA, GAID, Roku-ID) haben Formatierungsstandards, die eingehalten werden müssen, damit sie im digitalen Werbesystem verwendet werden können. Kunden und Partner können heute IDs in beliebige Formate hochladen, ohne darüber informiert zu werden, ob die ID korrekt formatiert ist. [!UICONTROL data sources] Mit dieser Funktion wird die Validierung von Geräte-IDs eingeführt, die an das globale [!UICONTROL data sources] zur ordnungsgemäßen Formatierung gesendet werden, und es wird eine Fehlermeldung angezeigt, wenn IDs nicht korrekt formatiert sind. Wir unterstützen die Validierung für [!DNL iDFA], [!DNL Google Advertising] und [!DNL Roku IDs] beim Start.
+Geräte-Advertising-Identifikatoren (z. B. iDFA, GAID, Roku-ID) haben Formatierungsstandards, die erfüllt werden müssen, damit sie im digitalen Werbesystem verwendet werden können. Kunden und Partner können heute IDs in beliebige Formate hochladen, ohne darüber informiert zu werden, ob die ID korrekt formatiert ist. [!UICONTROL data sources] Mit dieser Funktion wird die Validierung von Geräte-IDs eingeführt, die an das globale [!UICONTROL data sources] zur ordnungsgemäßen Formatierung gesendet werden, und es wird eine Fehlermeldung angezeigt, wenn IDs nicht korrekt formatiert sind. Wir unterstützen die Validierung für [!DNL iDFA], [!DNL Google Advertising] und [!DNL Roku IDs] beim Start.
 
 ## Übersicht über Formatstandards {#overview-of-format-standards}
 
