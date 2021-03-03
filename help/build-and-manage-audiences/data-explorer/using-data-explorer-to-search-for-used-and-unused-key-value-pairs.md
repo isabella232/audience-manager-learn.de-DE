@@ -1,19 +1,20 @@
 ---
 title: Verwenden von Data Explorer zum Suchen nach verwendeten und nicht verwendeten Schlüssel/Wert-Paaren in AAM
 description: Bei der täglichen Arbeit in Audience Manager müssen Sie möglicherweise schnell herausfinden, ob eine Eigenschaft aus einem bestimmten Schlüssel/Wert-Paar erstellt wurde. In diesem Video erfahren Sie, wie Sie mit Data Explorer dahinterkommen.
-feature: data explorer
+feature: 'Data Explorer '
 topics: null
-audience: all
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25148.jpg
 kt: 1760
+role: '"Business Practitioner, Entwickler, Dateningenieur, Architekt, Data Architect, Administrator, Leader"'
+level: Anfänger
 translation-type: tm+mt
-source-git-commit: b6e04039491a6e35c35ea46c38eaebfa879de713
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '184'
+ht-degree: 1%
 
 ---
 
