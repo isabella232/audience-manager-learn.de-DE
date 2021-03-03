@@ -1,17 +1,19 @@
 ---
 title: Verwenden von Best Practices für SPA Seiten beim Senden von Daten an AAM
 description: In diesem Dokument beschreiben wir einige Best Practices, die Sie befolgen sollten und die Sie kennen sollten, wenn Sie Daten von Einzelseitenanwendungen (SPA) an Adobe Audience Manager (AAM) senden. Dieses Dokument konzentriert sich auf die Verwendung von Launch by Adobe, der empfohlenen Implementierungsmethode.
-feature: implementation basics
+feature: Implementierungsgrundlagen
 topics: spa
-audience: implementer
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 1390
+topic: SPA
+role: '"Entwickler, Dateningenieur"'
+level: Erfahren
 translation-type: tm+mt
-source-git-commit: a108c51fdad66f4e7974eb96609b6d8f058cb6ff
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '576'
+source-wordcount: '583'
 ht-degree: 0%
 
 ---
@@ -40,7 +42,7 @@ Zwei der gängigeren Methoden zum Auslösen einer Regel in [!DNL Platform Launch
 * Festlegen benutzerdefinierter JavaScript-Ereignis (siehe Beispiel [HERE](https://helpx.adobe.com/analytics/kt/using/spa-analytics-best-practices-feature-video-use.html) mit Adobe Analytics)
 * Verwenden eines [!UICONTROL Direct Call Rule]
 
-In diesem Audience Manager verwenden wir ein [!UICONTROL Direct Call rule] in [!DNL Launch], um den Treffer auszulösen, der in den Audience Manager gelangt. Wie Sie in den nächsten Abschnitten sehen werden, ist dies wirklich nützlich, wenn Sie [!UICONTROL Data Layer] auf einen neuen Wert setzen, damit dieser von [!UICONTROL Data Element] in [!DNL Platform Launch] aufgenommen werden kann.
+In diesem Audience Manager verwenden wir ein [!UICONTROL Direct Call rule] in [!DNL Launch], um den Treffer in Audience Manager Trigger. Wie Sie in den nächsten Abschnitten sehen werden, ist dies wirklich nützlich, wenn Sie [!UICONTROL Data Layer] auf einen neuen Wert setzen, damit dieser von [!UICONTROL Data Element] in [!DNL Platform Launch] aufgenommen werden kann.
 
 ## Demo-Seite {#demo-page}
 
