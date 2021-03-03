@@ -1,18 +1,19 @@
 ---
 title: Schritte für die Erfassung dateibasierter Daten
 description: Dieses Video führt Sie durch die Schritte, die Sie beim Einbinden von Offlinedaten in Audience Manager beachten müssen, einschließlich der Dateinamenanforderungen für die Datendatei.
-feature: onboarding offline data
+feature: Onboarding Offline Data
 topics: null
-audience: marketer
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 331008.jpg
 kt: 7027
+role: Geschäftspraktiker
+level: Anfänger
 translation-type: tm+mt
-source-git-commit: b6ce5148bfbc9062948eef3402da309d06a97d3e
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '96'
+source-wordcount: '102'
 ht-degree: 0%
 
 ---
