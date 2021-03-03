@@ -1,18 +1,19 @@
 ---
 title: Verwenden von setCustomerIDs() zum Erfassen und Hash PII als deklarierte ID
 description: In diesem Video erfahren Sie, warum und wie Sie die setCustomerIDs()-Methode des Experience Cloud-ID-Diensts verwenden, um eine E-Mail-Adresse zu erfassen und zu hash und sie als deklarierte ID zu verwenden. Dadurch werden nicht nur die CRM-ID und die E-Mail-Adresse verknüpft, sondern auch mit der Adobe Audience Manager-UUID, d.h. der anonymen Geräte-ID, synchronisiert. Diese Hash-E-Mail-Adressen können dann an benutzerspezifische Ziele gesendet werden.
-feature: people-based destinations
+feature: '"Benutzerbasierte Ziele"'
 topics: null
-audience: implementer, developer
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 thumbnail: 29136.jpg
 kt: 3689
+role: '"Entwickler, Dateningenieur"'
+level: Anfänger
 translation-type: tm+mt
-source-git-commit: 91b0de776dbf1ab6d565f9adb5fa88d014a2e6f6
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '183'
 ht-degree: 0%
 
 ---
