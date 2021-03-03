@@ -1,18 +1,19 @@
 ---
 title: Das benutzerbasierte Ziel von LinkedIn verstehen und konfigurieren
 description: In diesem Video werden die Konzepte und Schritte zum Erstellen eines benutzerbasierten Ziels für LinkedIn erläutert. Er baut auf den zusätzlichen Videos und der Dokumentation zu People-Based Destination auf.
-feature: people-based destinations
+feature: '"Benutzerbasierte Ziele"'
 topics: null
-audience: administrator
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 34171.jpg
 kt: 5028
+role: Geschäftspraktiker
+level: Anfänger
 translation-type: tm+mt
-source-git-commit: d7d451683ac280ce3ef245384758b5989f28b265
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '88'
+source-wordcount: '93'
 ht-degree: 0%
 
 ---
