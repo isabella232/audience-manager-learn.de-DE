@@ -3,16 +3,17 @@ title: Verwenden von Look-Alike-Modellen zum Erweitern des ausverkauften Bestand
 description: In diesem Lernprogramm gehen wir durch die Schritte, die Sie unternehmen sollten, um Look-Alike-Modelle einzurichten und zu verwenden, damit Sie neue Look-Alike-Audiencen erstellen und diese als Erweiterung Ihres Konvertierungssegments verkaufen können.
 feature: Algorithmische Modelle
 topics: null
-audience: all
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 23523.jpg
 kt: 1688
+role: '"Business Practitioner, Entwickler, Dateningenieur, Architekt, Data Architect, Administrator, Leader"'
+level: Zwischenschaltung
 translation-type: tm+mt
-source-git-commit: ba76f9437e5d8f0495e4f2dfafb90cbf2da6454f
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '827'
+source-wordcount: '838'
 ht-degree: 0%
 
 ---
