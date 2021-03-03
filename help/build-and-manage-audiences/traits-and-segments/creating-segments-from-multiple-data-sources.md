@@ -1,19 +1,20 @@
 ---
 title: Erstellen von Segmenten aus mehreren Datenquellen
 description: Beim Erstellen von Segmenten in Audience Manager können Sie Eigenschaften aus verschiedenen Datenquellen hinzufügen. Dieses Video zeigt Ihnen, wie Sie das tun, und beschreibt andere Einstellungen, die berücksichtigt werden müssen.
-feature: segments
+feature: 'Segmente '
 topics: null
-audience: marketer
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 37713.jpg
 kt: 5867
+role: Geschäftspraktiker
+level: Anfänger
 translation-type: tm+mt
-source-git-commit: e2783b1740dac0819ded3827d74f9f78decc5935
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '74'
-ht-degree: 0%
+source-wordcount: '78'
+ht-degree: 1%
 
 ---
 
