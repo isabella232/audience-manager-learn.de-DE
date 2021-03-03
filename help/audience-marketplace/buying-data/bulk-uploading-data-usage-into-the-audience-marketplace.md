@@ -3,16 +3,17 @@ title: Massenupload der Datenverwendung in Audience Marketplace
 description: 'Wenn Sie Ihre Zweitanbieter- und Drittanbieter-Datenverwendung im Audience Marketplace melden, haben Sie möglicherweise genügend Einträge, um dies nicht von Hand zu tun. In diesem Video erfahren Sie, wie Sie das Massenupload-Tool für Datenverwendungszwecke verwenden, damit Sie Ihre Datenverwendung problemlos melden können, auch wenn Sie über viele Elemente verfügen, die aktualisiert werden müssen. '
 feature: Audience Marketplace
 topics: null
-audience: all
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25521.jpg
 kt: 1782
+role: '"Business Practitioner, Entwickler, Dateningenieur, Architekt, Data Architect, Administrator, Leader"'
+level: Zwischenschaltung
 translation-type: tm+mt
-source-git-commit: ba76f9437e5d8f0495e4f2dfafb90cbf2da6454f
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '246'
+source-wordcount: '257'
 ht-degree: 0%
 
 ---
