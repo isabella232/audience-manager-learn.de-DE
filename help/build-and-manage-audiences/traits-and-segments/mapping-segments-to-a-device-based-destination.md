@@ -1,18 +1,19 @@
 ---
 title: Zuordnen von Segmenten zu einem gerätebasierten Ziel
 description: Um ein Segmentsegment an einen DSP oder einen anderen Partner zu senden, müssen Sie das Audience einem Ziel in Audience Manager zuordnen. Dieses Video führt Sie durch die Zuordnung von Segmenten zu einem gerätebasierten Ziel, das auch als "Server-zu-Server"-Ziel bezeichnet wird.
-feature: segments
+feature: 'Segmente '
 topics: null
-audience: marketer
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 36495.jpg
 kt: 5805
+role: Geschäftspraktiker
+level: Anfänger
 translation-type: tm+mt
-source-git-commit: a108c51fdad66f4e7974eb96609b6d8f058cb6ff
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '98'
+source-wordcount: '102'
 ht-degree: 0%
 
 ---
