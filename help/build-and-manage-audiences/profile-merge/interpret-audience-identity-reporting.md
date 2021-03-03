@@ -1,18 +1,19 @@
 ---
 title: Interpretieren von Audience Identity Berichte
 description: Audience Identity Berichte bietet Kunden die Möglichkeit, über die Gesamtpopulation einer Eigenschaft oder eines Segments nach Personalien/Haushaltsdefinitionen zu berichten. Sehen Sie sich dieses Video an, um zu sehen, wie es in den Berichten zu Audience Managern angezeigt wird.
-feature: Profil zusammenführen
+feature: Profil-Zusammenführung
 topics: null
-audience: all
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 28973.jpg
 kt: 3694
+role: '"Business Practitioner, Entwickler, Dateningenieur, Architekt, Data Architect, Administrator, Leader"'
+level: Zwischenschaltung
 translation-type: tm+mt
-source-git-commit: ba76f9437e5d8f0495e4f2dfafb90cbf2da6454f
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '80'
+source-wordcount: '91'
 ht-degree: 0%
 
 ---
