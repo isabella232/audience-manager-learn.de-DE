@@ -1,18 +1,19 @@
 ---
 title: Grundlegendes und Konfigurieren des benutzerspezifischen Ziels der Google-Kundenabstimmung
 description: Dieses Video führt Sie durch die Details und Anwendungsfälle des "Google Customer Match People Based Destination"und enthält eine Anleitung zum Erstellen eines Segments und Zuordnen zu einem Ziel. Es zeigt auch die Audience, die in der Google Ad Console landet.
-feature: people-based destinations
+feature: '"Benutzerbasierte Ziele"'
 topics: null
-audience: marketer
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 38552.jpg
 kt: 6042
+role: Geschäftspraktiker
+level: Anfänger
 translation-type: tm+mt
-source-git-commit: 4d310ccf72e75c19f1ad3ff6295accb5b3a3fad6
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '109'
 ht-degree: 0%
 
 ---
