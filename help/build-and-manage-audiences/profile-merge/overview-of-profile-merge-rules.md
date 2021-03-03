@@ -1,18 +1,19 @@
 ---
 title: Übersicht über die Regeln zum Zusammenführen von Profilen
 description: Verstehen Sie, was Profil Merge Rules sind, wie sie funktionieren und welchen Wert sie für den Marketingexperten haben.
-feature: Profil zusammenführen
+feature: Profil-Zusammenführung
 topics: null
-audience: all
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 28974.jpg
 kt: 3708
+role: '"Business Practitioner, Entwickler, Dateningenieur, Architekt, Data Architect, Administrator, Leader"'
+level: Zwischenschaltung
 translation-type: tm+mt
-source-git-commit: ba76f9437e5d8f0495e4f2dfafb90cbf2da6454f
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '36'
+source-wordcount: '47'
 ht-degree: 0%
 
 ---
