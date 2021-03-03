@@ -1,19 +1,20 @@
 ---
 title: Zahlen im Eigenschaftendiagramm
 description: Hier erhalten Sie einige Tipps zum Verständnis der gemeldeten Zahlen für Eigenschaften im Anzeigebereich "Eigenschaften".
-feature: traits
+feature: 'Eigenschaften '
 topics: null
-audience: marketer
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 327171.jpg
 kt: 6494
+role: Geschäftspraktiker
+level: Anfänger
 translation-type: tm+mt
-source-git-commit: 2e0128e67176a3b7d221b1d2451739674f3c942e
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '42'
-ht-degree: 0%
+source-wordcount: '46'
+ht-degree: 2%
 
 ---
 
