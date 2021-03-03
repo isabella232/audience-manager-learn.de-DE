@@ -1,26 +1,28 @@
 ---
 title: Audience Manager - Übersicht über ein DMP
-description: Machen Sie sich mit den wichtigsten Herausforderungen der Personalisierung von Kanälen und der Art und Weise vertraut, wie Adobe Audience Manager die Kundenreise vorantreibt. Erfahren Sie außerdem, welche Datentypen im Audience Manager integriert werden können, und identifizieren Sie die Ad-Tech-Ökosystem-Partner, die mit Audience Manager integriert sind.
-feature: overview
+description: Machen Sie sich mit den wichtigsten Herausforderungen der Personalisierung von Kanälen und der Kompetenz der Adobe Audience Manager-Journey vertraut. Erfahren Sie außerdem, welche Datentypen im Audience Manager integriert werden können, und identifizieren Sie die Ad-Tech-Ökosystem-Partner, die mit Audience Manager integriert sind.
+feature: Überblick
 topics: null
-audience: all
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 kt: 5106
 thumbnail: 33894.jpg
+topic: Architektur
+role: '"Business Practitioner, Entwickler, Dateningenieur, Architekt, Data Architect, Administrator, Leader"'
+level: Anfänger
 translation-type: tm+mt
-source-git-commit: c257df634f156a7067683749fbe178081bce7e75
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '103'
-ht-degree: 0%
+source-wordcount: '116'
+ht-degree: 1%
 
 ---
 
 
 # Audience Manager - Übersicht über ein DMP
 
-Machen Sie sich mit den wichtigsten Herausforderungen der Personalisierung von Kanälen und der Art und Weise vertraut, wie Adobe Audience Manager die Kundenreise vorantreibt. Erfahren Sie außerdem, welche Datentypen im Audience Manager integriert werden können, und identifizieren Sie die Ad-Tech-Ökosystem-Partner, die mit Audience Manager integriert sind.
+Machen Sie sich mit den wichtigsten Herausforderungen der Personalisierung von Kanälen und der Kompetenz der Adobe Audience Manager-Journey vertraut. Erfahren Sie außerdem, welche Datentypen im Audience Manager integriert werden können, und identifizieren Sie die Ad-Tech-Ökosystem-Partner, die mit Audience Manager integriert sind.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33894/?quality=12)
 
