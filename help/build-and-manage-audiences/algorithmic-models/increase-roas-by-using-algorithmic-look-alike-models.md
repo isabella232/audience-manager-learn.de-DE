@@ -3,16 +3,17 @@ title: Erhöhung der ROAS durch Verwendung algorithmischer (Look-Alike) Modelle 
 description: Die wahre Stärke des Look-alike Modelings von Audience Manager liegt darin, dass Sie Ihre Ausgangsergebnisse gegenüber einer hochwertigen, ganz neuen Benutzergruppe aus 2nd- und 3rd-Party-Datenquellen erweitern möchten. In diesem Lernprogramm erfahren Sie, wie Sie anhand dieser Daten ein Modell erstellen.
 feature: Algorithmische Modelle
 topics: null
-audience: all
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25188.jpg
 kt: 1849
+role: '"Business Practitioner, Entwickler, Dateningenieur, Architekt, Data Architect, Administrator, Leader"'
+level: Zwischenschaltung
 translation-type: tm+mt
-source-git-commit: 6c81fd73d2c5abd646b0d38b6f4eebde837b09f2
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '862'
+source-wordcount: '873'
 ht-degree: 0%
 
 ---
