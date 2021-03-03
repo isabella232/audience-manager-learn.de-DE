@@ -2,17 +2,18 @@
 title: Migration der AAM-Implementierung Ihrer Site von der clientseitigen DIL zur serverseitigen Weiterleitung
 description: Dieses Tutorial gilt für Sie, wenn Sie sowohl Adobe Audience Manager (AAM) als auch Adobe Analytics haben und derzeit einen Treffer von der Seite an AAM mit "DIL"(Data Integration Library)-Code senden und auch einen Treffer von der Seite an Adobe Analytics senden. Da Sie beide Lösungen verwenden und beide Teil des Adobe Experience Cloud sind, haben Sie die Möglichkeit, die bewährte Methode der Aktivierung der "serverseitigen Weiterleitung (SSF)"zu befolgen, mit der die Analytics-Datenerfassungsserver die Site-Analysedaten in Echtzeit an Audience Manager weiterleiten können, anstatt dass clientseitiger Code einen zusätzlichen Treffer von der Seite an AAM senden muss. Dieses Lernprogramm führt Sie durch die Schritte, mit denen Sie den Übergang von der älteren "clientseitigen DIL"-Implementierung zur neueren "serverseitigen Weiterleitung"-Methode vollziehen können.
 product: audience manager, analytics
-feature: integration with analytics
+feature: Adobe Analytics-Integration
 topics: null
-audience: implementer
 activity: implement
 doc-type: tutorial
 team: Technical Marketing
 kt: 1778
+role: '"Entwickler, Dateningenieur"'
+level: Zwischenschaltung
 translation-type: tm+mt
-source-git-commit: 133279f589bd58aef36a980c2b7248ae00fd9496
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '2319'
+source-wordcount: '2326'
 ht-degree: 0%
 
 ---
@@ -20,7 +21,7 @@ ht-degree: 0%
 
 # Migrieren der AAM Implementierung Ihrer Site von [!DNL Client-Side] DIL zu [!DNL Server-Side Forwarding] {#migrating-your-site-s-aam-implementation-from-client-side-dil-to-server-side-forwarding}
 
-Dieses Tutorial gilt für Sie, wenn Sie sowohl Adobe Audience Manager (AAM) als auch Adobe Analytics verwenden und derzeit einen Treffer von der Seite an AAM mit dem Code &quot;DIL&quot; ([!DNL Data Integration Library]) senden und auch einen Treffer von der Seite an Adobe Analytics senden. Da Sie beide Lösungen haben und beide Teil des Adobe Experience Cloud sind, haben Sie die Möglichkeit, die bewährten Verfahren der Aktivierung von &quot;[!DNL Server-Side Forwarding] (SSF)&quot;zu befolgen, wodurch die Datenerfassungsserver [!DNL Analytics] Site-Analysedaten in Echtzeit an Audience Manager weiterleiten können, anstatt dass [!DNL client-side]-Code einen zusätzlichen Treffer von der Seite an AAM senden kann. In diesem Lernprogramm werden Sie durch die Schritte geführt, mit denen Sie den Übergang von der älteren Implementierung &quot;[!DNL Client-Side DIL]&quot;zur neueren Methode &quot;[!DNL Server-Side forwarding]&quot;durchführen.
+Dieses Tutorial gilt für Sie, wenn Sie sowohl Adobe Audience Manager (AAM) als auch Adobe Analytics verwenden und derzeit einen Treffer von der Seite an AAM mit dem Code &quot;DIL&quot; ([!DNL Data Integration Library]) senden und auch einen Treffer von der Seite an Adobe Analytics senden. Da Sie beide Lösungen haben und beide Teil des Adobe Experience Cloud sind, haben Sie die Möglichkeit, die bewährten Verfahren der Aktivierung von &quot;[!DNL Server-Side Forwarding] (SSF)&quot;zu befolgen, wodurch die Datenerfassungsserver [!DNL Analytics] Site-Analysedaten in Echtzeit an Audience Manager weiterleiten können, anstatt dass [!DNL client-side]-Code einen zusätzlichen Treffer von der Seite an AAM senden muss. In diesem Lernprogramm werden Sie durch die Schritte geführt, mit denen Sie den Übergang von der älteren Implementierung &quot;[!DNL Client-Side DIL]&quot;zur neueren Methode &quot;[!DNL Server-Side forwarding]&quot;durchführen.
 
 ## [!DNL Client-Side] (DIL) oder  [!DNL Server-Side] {#client-side-dil-vs-server-side}
 
@@ -30,7 +31,7 @@ Beim Vergleich und Kontrast dieser beiden Methoden zur Erfassung von Adobe Analy
 
 ### [!DNL Client-side] DIL-Implementierung  {#client-side-dil-implementation}
 
-Wenn Sie diese Methode zum Abrufen von Adobe Analytics-Daten in AAM verwenden, bedeutet das, dass Sie zwei Treffer von Ihren Webseiten haben: Eine wird zu [!DNL Analytics] und eine geht zu AAM (nachdem die [!DNL Analytics]-Daten auf der Webseite kopiert wurden). [!UICONTROL Segments] werden von AAM auf die Seite zurückgegeben, wo sie für die Personalisierung usw. verwendet werden können. Dies gilt als &quot;ältere&quot;Implementierung und wird nicht mehr empfohlen.
+Wenn Sie diese Methode zum Abrufen von Adobe Analytics-Daten in AAM verwenden, bedeutet das, dass Sie zwei Treffer von Ihren Webseiten haben: Eine wird zu [!DNL Analytics] und eine geht AAM (nachdem die [!DNL Analytics]-Daten auf der Webseite kopiert wurden). [!UICONTROL Segments] werden von AAM auf die Seite zurückgegeben, wo sie für die Personalisierung usw. verwendet werden können. Dies gilt als &quot;ältere&quot;Implementierung und wird nicht mehr empfohlen.
 
 Neben der Tatsache, dass diese Methode nicht den Best Practices folgt, bestehen die Nachteile der Verwendung dieser Methode darin,
 
@@ -86,7 +87,7 @@ Wenn Sie sich bereit machen, von [!DNL Client-Side]-DIL-Code zu [!UICONTROL Serv
 * Partner-Subdomäne - Notieren Sie sich in der Funktion DIL.create den Parameter `partner`. Dies wird als &quot;Partner-Subdomäne&quot;oder manchmal als &quot;Partner-ID&quot;bezeichnet und wird benötigt, wenn Sie den neuen SSF-Code platzieren.
 * [!DNL Visitor Service Namespace] - Auch als &quot;[!DNL Org ID]&quot;oder &quot;[!DNL IMS Org ID]&quot;bezeichnet, benötigen Sie dies auch, wenn Sie den neuen SSF-Code einrichten. Notieren Sie sich das.
 * containerNSID, uuidCookie und andere erweiterte Optionen - Notieren Sie sich alle zusätzlichen erweiterten Optionen, die Sie verwenden, damit Sie sie auch im SSF-Code festlegen können.
-* Zusätzliche Seitenvariablen - Wenn andere Variablen von der Seite an AAM gesendet werden (zusätzlich zu den normalen Variablen, die von SiteCatalyst.init verarbeitet werden), müssen Sie diese beachten, damit sie über SSF gesendet werden können (Spoiler-Warnung: über [!DNL Analytics]-Variablen).[!DNL contextData]
+* Zusätzliche Seitenvariablen - Wenn andere Variablen von der Seite an AAM gesendet werden (zusätzlich zu den normalen Variablen, die von SiteCatalyst.init verarbeitet werden), müssen Sie diese beachten, damit sie über SSF gesendet werden können (Spoiler-Warnung: über [!DNL contextData]-Variablen).[!DNL Analytics]
 
 ### Schritt 2: Aktualisieren des Codes {#step-updating-the-code}
 
