@@ -3,17 +3,18 @@ title: Ausschließen von Eigenschaften in algorithmischen (Look-Alike) Modellen
 description: 'In diesem Video erfahren Sie, wie und warum Sie bestimmte (oder Gruppen) Eigenschaften aus einem algorithmischen (Look-Alike-)Modell ausschließen. '
 feature: Algorithmische Modelle
 topics: null
-audience: all
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25569.jpg
 kt: 1759
+role: '"Business Practitioner, Entwickler, Dateningenieur, Architekt, Data Architect, Administrator, Leader"'
+level: Zwischenschaltung
 translation-type: tm+mt
-source-git-commit: 6c81fd73d2c5abd646b0d38b6f4eebde837b09f2
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '185'
-ht-degree: 0%
+source-wordcount: '196'
+ht-degree: 1%
 
 ---
 
