@@ -3,17 +3,19 @@ title: Einführung in die CDP für Audience Manager in Echtzeit
 description: In diesem Video wird die Offline-Datenerfassung von Erstanbietern in Echtzeit-Kundendatenplattform (Echtzeit-CDP) für diejenigen behandelt, die Adobe Audience Manager verwendet haben. Wir betrachten einige der Hauptunterschiede zwischen den beiden Produkten in Bezug auf die Datenerfassung und zeigen, wie der Audience Manager Data Connector als Stopp-Lücke verwendet werden kann, bis die Prozesse auf eine Echtzeit-CDP umgestellt wurden.
 feature: Plattformintegration
 topics: null
-audience: marketer
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 331276.jpg
 kt: 7128
+topic: Integrationen
+role: Geschäftspraktiker
+level: Zwischenschaltung
 translation-type: tm+mt
-source-git-commit: 3d4e02bf43874c35f508a5b204775c0a3ceee21b
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '271'
-ht-degree: 0%
+source-wordcount: '275'
+ht-degree: 1%
 
 ---
 
