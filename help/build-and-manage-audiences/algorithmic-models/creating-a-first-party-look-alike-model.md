@@ -3,17 +3,18 @@ title: Erstellen eines Look-Alike-Modells für Erstanbieter in AAM
 description: In diesem Video erfahren Sie, wie Sie ein Erstanbieter-Look-like-Modell erstellen, damit Sie mehr eigene Besucher finden können, die wie Ihre Konverter aussehen.
 feature: Algorithmische Modelle
 topics: null
-audience: all
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 23504.jpg
 kt: 1805
+role: '"Business Practitioner, Entwickler, Dateningenieur, Architekt, Data Architect, Administrator, Leader"'
+level: Zwischenschaltung
 translation-type: tm+mt
-source-git-commit: ba76f9437e5d8f0495e4f2dfafb90cbf2da6454f
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '143'
-ht-degree: 0%
+source-wordcount: '154'
+ht-degree: 1%
 
 ---
 
