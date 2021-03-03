@@ -2,18 +2,19 @@
 title: Datenquelle für Analytics-Daten erstellen
 description: In diesem Video gehen wir die Schritte durch, einschließlich Tipps und Tricks, um eine Datenquelle in AAM anzulegen, die Sie für Daten verwenden können, die live von einer Analyselösung wie Adobe Analytics eingehen. Dies sollte vor dem Erstellen von Eigenschaften für die Analysedaten erfolgen.
 landing-page-description: Erfahren Sie, wie Sie eine Datenquelle für Daten erstellen, die über eine Analyselösung wie Adobe Analytics live eingespeist werden. Führen Sie diese Schritte aus, bevor Sie Eigenschaften für die Analysedaten erstellen.
-feature: Datenquellen
+feature: Data Sources
 topics: null
-audience: all
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2928
+role: '"Business Practitioner, Entwickler, Dateningenieur, Architekt, Data Architect, Administrator, Leader"'
+level: Anfänger
 translation-type: tm+mt
-source-git-commit: 2d159b6fc09f8ada22b94529af4d806839ce9979
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '151'
-ht-degree: 49%
+source-wordcount: '162'
+ht-degree: 47%
 
 ---
 
