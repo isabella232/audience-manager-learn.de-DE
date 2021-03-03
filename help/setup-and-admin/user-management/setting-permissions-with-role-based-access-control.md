@@ -1,19 +1,21 @@
 ---
 title: Berechtigungen mit rollenbasierter Zugriffskontrolle festlegen
 description: Mit der rollenbasierten Zugriffskontrolle von Adobe Audience Manager können Sie Berechtigungen auf Gruppenebene verwalten und steuern, wer Assets anzeigen und mit ihnen arbeiten kann, einschließlich Eigenschaften, Segmente, Ziele und Modelle. Erfahren Sie, wie Sie die Berechtigungsgruppen einrichten und ihnen Benutzer hinzufügen.
-feature: administration
+feature: Administration
 topics: null
-audience: administrator
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 329120.jpg
 kt: 6737
+topic: Administration
+role: Administrator
+level: Zwischenschaltung
 translation-type: tm+mt
-source-git-commit: 08fe4df7561d789a42058be1c7000dbbdab68e4d
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '92'
-ht-degree: 0%
+source-wordcount: '96'
+ht-degree: 3%
 
 ---
 
