@@ -4,17 +4,18 @@ description: In diesem Video werden wir über einige der grundlegenden Begriffe 
 landing-page-description: Lernen Sie die grundlegende Begriffe und Konzepte kennen, die Ihnen den Einstieg in Audience Manager erleichtern, einschließlich Signalen, Eigenschaften und Segmenten.
 feature: Überblick
 topics: null
-audience: all
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 kt: 5037
 thumbnail: 33887.jpg
+role: '"Business Practitioner, Entwickler, Dateningenieur, Architekt, Data Architect, Administrator, Leader"'
+level: Anfänger
 translation-type: tm+mt
-source-git-commit: 2d159b6fc09f8ada22b94529af4d806839ce9979
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 82%
+source-wordcount: '101'
+ht-degree: 73%
 
 ---
 
