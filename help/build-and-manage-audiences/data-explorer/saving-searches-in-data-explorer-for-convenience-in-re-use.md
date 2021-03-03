@@ -1,20 +1,21 @@
 ---
 title: Speichern von Suchvorgängen im Data Explorer für die praktische Verwendung bei der erneuten Verwendung
 description: In diesem Video erfahren Sie, wie Sie eine Suche in Data Explorer konfigurieren, sie ausführen und dann zu einem späteren Zeitpunkt zur erneuten Verwendung speichern. Sie können die gespeicherte Suche auch auf dem Dashboard platzieren, sodass sie sofort verfügbar ist, wenn Sie die Signal-App aufrufen.
-feature: data explorer
+feature: 'Data Explorer '
 topics: null
-audience: all
 activity: use
 doc-type: feature video
 author: Doug Moore
 team: Technical Marketing
 thumbnail: 25147.jpg
 kt: 1763
+role: '"Business Practitioner, Entwickler, Dateningenieur, Architekt, Data Architect, Administrator, Leader"'
+level: Anfänger
 translation-type: tm+mt
-source-git-commit: b6e04039491a6e35c35ea46c38eaebfa879de713
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '140'
+ht-degree: 1%
 
 ---
 
