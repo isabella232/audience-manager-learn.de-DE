@@ -1,19 +1,20 @@
 ---
 title: Einführung in das Massenmanagement (BAAAM)
 description: Erfahren Sie mehr über das Massenverwaltungstool für Audience Manager, das häufig als "BAAAM"bezeichnet wird. Erfahren Sie, wie Sie sich authentifizieren können, damit Sie mithilfe des BAAM-Blatts Eigenschaften und Segmente über die REST-API erstellen, bearbeiten und löschen können.
-feature: baaam
+feature: BAAAM
 topics: null
-audience: marketer
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 327692.jpg
 kt: 6050
+role: Geschäftspraktiker
+level: Anfänger
 translation-type: tm+mt
-source-git-commit: a108c51fdad66f4e7974eb96609b6d8f058cb6ff
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '82'
-ht-degree: 0%
+source-wordcount: '86'
+ht-degree: 1%
 
 ---
 
