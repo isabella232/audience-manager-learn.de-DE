@@ -1,18 +1,19 @@
 ---
 title: Formatieren und Einfügen dateibasierter Daten
 description: Wenn Sie Ihre Erstanbieter in den Audience Manager bringen, um Ihren Kunden besser zu verstehen und Zielgruppe zu erhalten, gibt es bestimmte Formatierungsanforderungen für die Daten. In diesem Video werden einige der wichtigsten Optionen erläutert, wo Sie weitere Informationen erhalten können.
-feature: onboarding offline data
+feature: Onboarding Offline Data
 topics: null
-audience: marketer
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 331007.jpg
 kt: 7026
+role: Geschäftspraktiker
+level: Anfänger
 translation-type: tm+mt
-source-git-commit: b6ce5148bfbc9062948eef3402da309d06a97d3e
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '122'
 ht-degree: 0%
 
 ---
