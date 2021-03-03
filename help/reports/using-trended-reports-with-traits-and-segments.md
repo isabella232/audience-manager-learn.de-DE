@@ -1,18 +1,19 @@
 ---
 title: Verwenden von Trendberichten mit Eigenschaften und Segmenten
 description: Erfahren Sie, wie Sie mithilfe der Trendberichte in Audience Manager die Leistung von Eigenschaften und Segmenten im Zeitverlauf bewerten.
-feature: general & trend reports
+feature: '"Allgemein- und Trendberichte"'
 topics: null
-audience: marketer
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 328280.jpg
 kt: 6646
+role: Geschäftspraktiker
+level: Anfänger
 translation-type: tm+mt
-source-git-commit: 67413caf1c59c446c16beb5b84b48e7fad06e575
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '54'
+source-wordcount: '60'
 ht-degree: 0%
 
 ---
