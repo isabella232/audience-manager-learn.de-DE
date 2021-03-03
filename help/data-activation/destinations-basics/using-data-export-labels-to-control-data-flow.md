@@ -1,19 +1,20 @@
 ---
 title: Datenexportbeschriftungen zur Steuerung des Datenflusses verwenden
 description: Datenexportbeschriftungen bieten Ihnen in Audience Manager einen Mechanismus zur Steuerung des Datenflusses verschiedener Datentypen/Quellen, sodass Sie Ihre Datenschutzanforderungen erfüllen können. Erfahren Sie, wie und wo Sie zu diesem Zweck Datenexportsteuerelemente und Datenexportbeschriftungen festlegen können.
-feature: data export controls
+feature: Datenexportkontrollen
 topics: null
-audience: marketer
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 330322.jpg
 kt: 6836
+role: Geschäftspraktiker
+level: Anfänger
 translation-type: tm+mt
-source-git-commit: 20d832f8f25e7a56b800c36e1e0e70eb51956de0
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '98'
-ht-degree: 0%
+source-wordcount: '104'
+ht-degree: 2%
 
 ---
 
