@@ -3,16 +3,18 @@ title: Segmente in Echtzeit-CDP für Audience Manager
 description: Wenn Sie von der Audience Manager- zur Echtzeit-Kundendatenplattform wechseln, ist es hilfreich, die unterschiedlichen Konzepte zu verstehen. In diesem Video werden die Unterschiede bei der Segmenterstellung und Segmenterstellung zwischen Audience Manager- und Echtzeit-CDP untersucht.
 feature: Plattformintegration
 topics: null
-audience: marketer
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 331901.jpg
 kt: 7205
+topic: Integrationen
+role: Geschäftspraktiker
+level: Zwischenschaltung
 translation-type: tm+mt
-source-git-commit: 4f6c2ac49e0b05438e040e73963f7ebb5b02fcc0
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '194'
+source-wordcount: '198'
 ht-degree: 1%
 
 ---
