@@ -1,18 +1,19 @@
 ---
 title: Benutzerbasierte Ziele erstellen und konfigurieren
 description: In diesem Video erfahren Sie zunächst, welche Voraussetzungen für die Erstellung eines benutzerspezifischen Ziels erfüllt sein müssen. Außerdem erfahren Sie, wie Sie ein integriertes Konto konfigurieren können (Link zum Partner, z. B. Facebook). Dann führt es Sie durch die Produkteinstellung des Ziels selbst.
-feature: people-based destinations
+feature: '"Benutzerbasierte Ziele"'
 topics: null
-audience: all
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 28955.jpg
 kt: 3343
+role: '"Business Practitioner, Entwickler, Dateningenieur, Architekt, Data Architect, Administrator, Leader"'
+level: Anfänger
 translation-type: tm+mt
-source-git-commit: d7d451683ac280ce3ef245384758b5989f28b265
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '88'
+source-wordcount: '101'
 ht-degree: 0%
 
 ---
