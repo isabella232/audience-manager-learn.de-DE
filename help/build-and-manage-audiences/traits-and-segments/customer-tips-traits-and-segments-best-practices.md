@@ -1,18 +1,19 @@
 ---
 title: Kundentipps - Best Practices zu Eigenschaften und Segmenten
 description: Matt Vittorioso, Senior Marketing Specialist bei Ally Financial, gibt Tipps zum Verwalten von Eigenschaften und Segmenten.
-feature: segments
+feature: 'Segmente '
 topics: null
-audience: analyst
 activity: use
 doc-type: article
 team: Technical Marketing
 thumbnail: ugc-segments.jpg
 kt: 6048
+role: Geschäftspraktiker
+level: Anfänger
 translation-type: tm+mt
-source-git-commit: daefaa6b0d81d1c5246ffec7897feb7f2375aee8
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
