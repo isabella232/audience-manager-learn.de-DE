@@ -5,9 +5,9 @@ breadcrumb-title: Audience Manager-Tutorials
 breadcrumb-url: /docs/audience-manager-learn/tutorials/overview.html
 solution: Audience Manager
 translation-type: tm+mt
-source-git-commit: f46f94124aeb9cec80573dec28dfd42400eb98e4
+source-git-commit: d211642f7d75f406e2c0fc12b9f82f4cea311be9
 workflow-type: tm+mt
-source-wordcount: '859'
+source-wordcount: '866'
 ht-degree: 4%
 
 ---
@@ -148,6 +148,7 @@ ht-degree: 4%
       + [Daten über den Adobe Audience Manager-Datenanschluss erfassen](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-aam.html?lang=en#sources)
       + [Einbettung von Daten aus der 1. Partei in Echtzeit-CDP](other-integrations/integrating-with-rtcdp/rtcdp-1pd-ingestion-for-aam-users.md)
       + [Erläuterungen zur Webdateningestion in Echtzeit-CDP](other-integrations/integrating-with-rtcdp/rtcdp-web-ingestion-for-aam-users.md)
+      + [Schemas und XDM in Echtzeit-CDP](other-integrations/integrating-with-rtcdp/rtcdp-schemas-xdm-for-aam-users.md)
       + [Eigenschaften in Echtzeit-CDP](other-integrations/integrating-with-rtcdp/rtcdp-traits-for-aam-users.md)
       + [Segmente in Echtzeit-CDP](other-integrations/integrating-with-rtcdp/rtcdp-segments-for-aam-users.md)
    + Integration mit Ad Cloud {#integrating-with-ad-cloud}
