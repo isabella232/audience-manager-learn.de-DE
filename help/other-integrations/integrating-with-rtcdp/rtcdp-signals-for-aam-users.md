@@ -3,16 +3,16 @@ title: Signale in Echtzeit-CDP für Audience Manager
 description: Dieses Video ist für Audience Manager gedacht, die auf die Echtzeit-Kundendatenplattform (Echtzeit-CDP) umstellen, und beschreibt, wie Signale (Schlüssel-Wert-Paare), die Sie in Audience Manager zum Erstellen von Eigenschaften verwenden, in Platform verwendet werden.
 feature: Plattformintegration
 topic: Integrationen
-role: Geschäftspraktiker
+role: Geschäftspraktiker, Architekt, Administrator, Leiter
 level: Zwischenschaltung
 doc-type: feature video
 thumbnail: 332092.jpg
 kt: 7305
 translation-type: tm+mt
-source-git-commit: dd9d976928124dbdfedf462022bd48e3bb21792b
+source-git-commit: b75efb956338a06db8919a568a0f2ff0b28889fd
 workflow-type: tm+mt
-source-wordcount: '171'
-ht-degree: 1%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
