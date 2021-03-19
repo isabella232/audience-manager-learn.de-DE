@@ -3,15 +3,15 @@ title: Zugriffskontrolle in Echtzeit-CDP für Audience Manager
 description: Wenn Sie von Audience Manager zur Echtzeit-Kundendatenplattform wechseln, möchten Sie wissen, wo Benutzer- und Gruppenberechtigungen festgelegt sind. Dieses Video zeigt, wie die Zugriffskontrolle jetzt in der Adobe Admin Console sein wird.
 feature: Plattformintegration
 topic: Integrationen
-role: Geschäftspraktiker
+role: Geschäftspraktiker, Architekt, Administrator, Leiter
 level: Zwischenschaltung
 doc-type: feature video
 thumbnail: 332091.jpg
 kt: 7304
 translation-type: tm+mt
-source-git-commit: dd9d976928124dbdfedf462022bd48e3bb21792b
+source-git-commit: b75efb956338a06db8919a568a0f2ff0b28889fd
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '139'
 ht-degree: 2%
 
 ---
