@@ -3,15 +3,15 @@ title: Verstehen der Datenverwaltung in Echtzeit-CDP für Audience Manager
 description: In diesem Video erfahren Sie, wie Audience Manager mithilfe der Datenverwaltungsfunktion in der Echtzeit-Kundendatenplattform Daten verwalten und mit den verfügbaren Daten in Audience Manager vergleichen können. Es diskutiert das Framework zur Datenverwendung und Kennzeichnung der Durchsetzung (DULE) und wo in der Plattform, wo es angewendet werden kann.
 feature: Plattformintegration
 topic: Integrationen
-role: Geschäftspraktiker
+role: Geschäftspraktiker, Architekt, Administrator, Leiter
 level: Zwischenschaltung
 doc-type: feature video
 thumbnail: 332123.jpg
 kt: 7337
 translation-type: tm+mt
-source-git-commit: 48ca8defbccd66127518f14d8b86dc96044743e6
+source-git-commit: b75efb956338a06db8919a568a0f2ff0b28889fd
 workflow-type: tm+mt
-source-wordcount: '209'
+source-wordcount: '212'
 ht-degree: 1%
 
 ---
