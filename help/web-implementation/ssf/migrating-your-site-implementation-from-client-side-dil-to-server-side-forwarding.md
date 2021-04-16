@@ -1,23 +1,23 @@
 ---
 title: Migration der AAM-Implementierung Ihrer Site von der clientseitigen DIL zur serverseitigen Weiterleitung
 description: Dieses Tutorial gilt für Sie, wenn Sie sowohl Adobe Audience Manager (AAM) als auch Adobe Analytics haben und derzeit einen Treffer von der Seite an AAM mit "DIL"(Data Integration Library)-Code senden und auch einen Treffer von der Seite an Adobe Analytics senden. Da Sie beide Lösungen verwenden und beide Teil des Adobe Experience Cloud sind, haben Sie die Möglichkeit, die bewährte Methode der Aktivierung der "serverseitigen Weiterleitung (SSF)"zu befolgen, mit der die Analytics-Datenerfassungsserver die Site-Analysedaten in Echtzeit an Audience Manager weiterleiten können, anstatt dass clientseitiger Code einen zusätzlichen Treffer von der Seite an AAM senden muss. Dieses Lernprogramm führt Sie durch die Schritte, mit denen Sie den Übergang von der älteren "clientseitigen DIL"-Implementierung zur neueren "serverseitigen Weiterleitung"-Methode vollziehen können.
-product: audience manager, analytics
+product: audience manager
 feature: Adobe Analytics-Integration
 topics: null
 activity: implement
 doc-type: tutorial
 team: Technical Marketing
 kt: 1778
-role: '"Entwickler, Dateningenieur"'
-level: Zwischenschaltung
+role: Developer, Data Engineer
+level: Intermediate
+exl-id: bcb968fb-4290-4f10-b1bb-e9f41f182115
 translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+source-git-commit: 256edb05f68221550cae2ef7edaa70953513e1d4
 workflow-type: tm+mt
-source-wordcount: '2326'
+source-wordcount: '2322'
 ht-degree: 0%
 
 ---
-
 
 # Migrieren der AAM Implementierung Ihrer Site von [!DNL Client-Side] DIL zu [!DNL Server-Side Forwarding] {#migrating-your-site-s-aam-implementation-from-client-side-dil-to-server-side-forwarding}
 
@@ -93,7 +93,7 @@ Wenn Sie sich bereit machen, von [!DNL Client-Side]-DIL-Code zu [!UICONTROL Serv
 
 Im oben stehenden Abschnitt &quot;Implementierungsoptionen&quot;stehen mehrere Optionen zur Implementierung von [!UICONTROL Server-Side Forwarding] zur Verfügung. Damit dieser Abschnitt effektiv sein kann, müssen wir ihn in diese Abschnitte unterteilen (zwei davon zusammen). Gehen Sie zur Methode in diesem Abschnitt, die Ihre Anforderungen am besten beschreibt.
 
-####  zu Adobe Experience Platform Launch{#launch-by-adobe}
+#### Adobe Experience Platform Launch {#launch-by-adobe}
 
 Sehen Sie sich das folgende Video an, um mehr über das Verschieben von Implementierungsoptionen von [!DNL Client-Side] DIL-Code in [!UICONTROL Server-Side Forwarding] in Experience Platform Launch zu erfahren.
 
