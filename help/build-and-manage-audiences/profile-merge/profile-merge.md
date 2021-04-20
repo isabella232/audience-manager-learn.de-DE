@@ -1,14 +1,14 @@
 ---
 title: Videos und Tutorials
 description: Dieser Abschnitt enthält Videos und Lernprogramme zu Funktionen zum Zusammenführen von Profilen, z. B. Regeln zum Zusammenführen von Profilen.
-feature: Profil-Zusammenführung
+feature: Profile Merge
 topics: null
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 kt: null
-role: '"Business Practitioner, Entwickler, Dateningenieur, Architekt, Data Architect, Administrator, Leader"'
-level: Zwischenschaltung
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

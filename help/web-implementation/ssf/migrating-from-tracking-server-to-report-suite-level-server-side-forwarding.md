@@ -2,13 +2,13 @@
 title: Migration vom Tracking-Server zum serverseitigen Weiterleiten auf Report Suite-Ebene
 description: Dieser Artikel und dieses Video zeigen Ihnen, wie Sie die serverseitige Weiterleitung von Analytics-Daten an Audience Manager auf Report Suite-Ebene und nicht auf Tracking-Server-Ebene aktivieren können.
 product: audience manager
-feature: Adobe Analytics-Integration
+feature: Adobe Analytics Integration
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 1776
-role: Developer, Data Engineer
+role: "Developer, Data Engineer"
 level: Intermediate
 exl-id: 08b81e52-a28a-43e4-a284-df2460a43016
 translation-type: tm+mt

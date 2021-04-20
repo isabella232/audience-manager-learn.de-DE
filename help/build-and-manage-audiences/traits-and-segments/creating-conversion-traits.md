@@ -1,15 +1,15 @@
 ---
 title: Erstellen von Konversionseigenschaften in Audience Manager
 description: Einige Ihrer Eigenschaften basieren auf Konversionen auf Ihrer Site. In diesem Video erfahren Sie, wie Sie sie als solche bezeichnen und lernen eine sehr wichtige Tipp/gotcha.
-feature: 'Eigenschaften '
+feature: Traits
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 23431.jpg
 kt: 1804
-role: Geschäftspraktiker
-level: Anfänger
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

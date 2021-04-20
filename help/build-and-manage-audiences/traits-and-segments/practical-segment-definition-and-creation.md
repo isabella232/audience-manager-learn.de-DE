@@ -1,15 +1,15 @@
 ---
 title: Praktische Segmentdefinition und -erstellung
 description: Dieses Video führt Sie durch den Prozess der Definition Ihrer Segmente und deren anschließende Unterteilung nach den Eigenschaften/Signalen, die Sie für ihre Erstellung benötigen.
-feature: 'Segmente '
+feature: Segments
 topics: null
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 37391.jpg
 kt: 5821
-role: Geschäftspraktiker
-level: Anfänger
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

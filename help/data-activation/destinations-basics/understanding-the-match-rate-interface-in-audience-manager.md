@@ -1,15 +1,15 @@
 ---
 title: Die Übereinstimmungsratenschnittstelle in Audience Manager
 description: In diesem Video erfahren Sie, wie Sie die Ziellinie durchlaufen und die mit Übereinstimmungsraten und adressierbaren Audiencen verbundenen Zahlen anzeigen und erklären.
-feature: Übereinstimmungsraten
+feature: Match Rates
 topics: null
 activity: understand
 doc-type: feature video
 team: Experience League
 thumbnail: 29831.jpg
 kt: 4034
-role: '"Business Practitioner, Entwickler, Dateningenieur, Architekt, Data Architect, Administrator, Leader"'
-level: Anfänger
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

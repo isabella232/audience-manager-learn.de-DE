@@ -1,7 +1,7 @@
 ---
 title: Audience Identity Berichte
 description: Audience Identity Berichte bietet Kunden die Möglichkeit, über die Gesamtpopulation einer Eigenschaft oder eines Segments nach Personalien/Haushaltsdefinitionen zu berichten. Sehen Sie sich dieses Video an, um zu sehen, wie es in den Berichten zu Audience Managern angezeigt wird.
-feature: Profil zusammenführen
+feature: profile merge
 topics: null
 audience: marketer
 activity: use

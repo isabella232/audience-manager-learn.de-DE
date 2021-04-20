@@ -1,15 +1,15 @@
 ---
 title: 'Verwenden von Data Explorer zur Überprüfung der Erstellung von Eigenschaften für Ihre eingebetteten Daten '
 description: Eine der leistungsfähigsten Funktionen von Audience Manager ist die Fähigkeit, Offlinedaten zu integrieren und diese mit Ihren Online-Daten zu verbinden. In diesem Video erfahren Sie, wie Sie mit Data Explorer überprüfen können, ob Sie alle erforderlichen Eigenschaften erstellt haben, um diese integrierten Daten zu nutzen.
-feature: 'Data Explorer '
+feature: Data Explorer
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25149.jpg
 kt: 2141
-role: '"Business Practitioner, Entwickler, Dateningenieur, Architekt, Data Architect, Administrator, Leader"'
-level: Anfänger
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

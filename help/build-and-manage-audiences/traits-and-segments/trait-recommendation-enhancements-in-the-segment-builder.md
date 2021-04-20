@@ -1,15 +1,15 @@
 ---
 title: Verbesserungen an der Eigenschaftsempfehlung im Segmentaufbau
 description: In diesem Video erfahren Sie, wie Sie die aktualisierten Eigenschaftsempfehlungen im Segmentaufbau verwenden, bei denen es sich um Audience Marketplace-Empfehlungen handelt. Auf diese Weise erhalten Sie zusätzliche Einblicke in Daten von Drittanbietern, die die Reichweite Ihrer Segmente erweitern können.
-feature: 'Segmente '
+feature: Segments
 topics: null
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 29363.jpg
 kt: 3937
-role: '"Business Practitioner, Entwickler, Dateningenieur, Architekt, Data Architect, Administrator, Leader"'
-level: Anfänger
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

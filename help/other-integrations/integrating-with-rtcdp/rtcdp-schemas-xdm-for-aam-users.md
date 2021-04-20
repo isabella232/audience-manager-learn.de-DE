@@ -1,10 +1,10 @@
 ---
 title: Grundlegendes zu Schemas und XDM in Echtzeit-CDP für Audience Manager
 description: Wenn Sie von der Audience Manager- zur Echtzeit-Kundendatenplattform (Echtzeit-CDP) wechseln, werden Sie auf einige neue Konzepte und Verfahren stoßen. Schemas und XDM fallen in diese Kategorie. In diesem Video werden diese Konzepte erläutert.
-feature: Plattformintegration
-topic: Integrationen
-role: Geschäftspraktiker, Architekt, Administrator, Leiter
-level: Zwischenschaltung
+feature: Platform Integration
+topic: Integrations
+role: Business Practitioner, Architect, Administrator, Leader
+level: Intermediate
 doc-type: feature video
 thumbnail: 332023.jpg
 kt: 7272

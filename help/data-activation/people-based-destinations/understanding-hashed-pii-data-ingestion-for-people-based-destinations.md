@@ -1,15 +1,15 @@
 ---
 title: Einbettung von Hash-PII-Daten für benutzerbasierte Ziele
 description: In diesem Video werden die Dinge behandelt, die Sie berücksichtigen müssen, wenn Sie sich bereit erklären, PII-Dateien in Audience Manager für bevölkerungsbasierte Ziele zu importieren.
-feature: '"Benutzerbasierte Ziele"'
+feature: "People-based Destinations"
 topics: null
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 29003.jpg
 kt: 3701
-role: '"Business Practitioner, Entwickler, Dateningenieur, Architekt, Data Architect, Administrator, Leader"'
-level: Anfänger
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

@@ -1,15 +1,15 @@
 ---
 title: Verwenden von Profil Merge Rules zum Personalisieren in einem authentifizierten Status
 description: Geben Sie Ihren angemeldeten Kunden mithilfe dieser Profil Merge Rule-Einstellungen ein personalisiertes Erlebnis.
-feature: Profil-Zusammenführung
+feature: Profile Merge
 topics: null
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 35938.jpg
 kt: 5357
-role: Geschäftspraktiker
-level: Zwischenschaltung
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

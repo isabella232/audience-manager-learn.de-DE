@@ -1,7 +1,7 @@
 ---
 title: 10 Überlegungen zum verantwortungsvollen Data Management
 description: Volle Marktkräfte und unterschiedliche Datenschutzanforderungen für Verbraucher können beängstigende Szenarien für den digitalen Vermarkter darstellen. Damit die Kampagnen auf der richtigen Seite der Vorschriften bleiben, benötigen die Marketingteams ihre IT-Kollegen, um einen optimierten Prozess zur zukünftigen Überprüfung des Datenverwaltungsprozesses zu haben — — eine, die im Idealfall jedem die Möglichkeit gibt, Regeln für eine verantwortungsvolle Nutzung von Verbraucherdaten zu befolgen und durchzusetzen. Hear from Adobe and Scotiabank Digital über wichtige Überlegungen für verantwortungsvolles Data Management.
-feature: Überblick
+feature: Overview
 role: Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader
 level: Beginner, Intermediate, Experienced
 doc-type: Event

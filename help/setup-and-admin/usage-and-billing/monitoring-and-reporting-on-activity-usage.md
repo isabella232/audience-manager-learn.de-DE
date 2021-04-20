@@ -1,15 +1,15 @@
 ---
 title: Überwachung und Berichte bei der Aktivität
 description: In diesem Video erfahren Sie, wie Sie den Bericht "Nutzung der Aktivität"verwenden, einschließlich Anzeige- und Download-Optionen.
-feature: Nutzung und Rechnungsstellung
+feature: Usage and Billing
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 4168
 topic: Administration
-role: '"Entwickler, Datenentwickler, Administrator"'
-level: Anfänger
+role: "Developer, Data Engineer, Administrator"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

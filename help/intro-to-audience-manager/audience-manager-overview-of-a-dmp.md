@@ -1,16 +1,16 @@
 ---
 title: Audience Manager - Übersicht über ein DMP
 description: Machen Sie sich mit den wichtigsten Herausforderungen der Personalisierung von Kanälen und der Kompetenz der Adobe Audience Manager-Journey vertraut. Erfahren Sie außerdem, welche Datentypen im Audience Manager integriert werden können, und identifizieren Sie die Ad-Tech-Ökosystem-Partner, die mit Audience Manager integriert sind.
-feature: Überblick
+feature: Overview
 topics: null
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 kt: 5106
 thumbnail: 33894.jpg
-topic: Architektur
-role: '"Business Practitioner, Entwickler, Dateningenieur, Architekt, Data Architect, Administrator, Leader"'
-level: Anfänger
+topic: Architecture
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

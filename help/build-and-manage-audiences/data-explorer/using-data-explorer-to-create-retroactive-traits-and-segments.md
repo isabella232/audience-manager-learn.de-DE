@@ -1,15 +1,15 @@
 ---
 title: Erstellen rückwirkender Eigenschaften und Segmente mit Data Explorer
 description: In diesem Video wird gezeigt, wie Sie rückwirkende Eigenschaften erstellen, d. h. Eigenschaften, die Daten aus der Zeit vor der Erstellung in die Eigenschaft aufstocken. Dies ist ein großer Durchbruch in Ihrer Eigenschaftserstellung!
-feature: 'Data Explorer '
+feature: Data Explorer
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25169.jpg
 kt: 1762
-role: '"Business Practitioner, Entwickler, Dateningenieur, Architekt, Data Architect, Administrator, Leader"'
-level: Anfänger
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

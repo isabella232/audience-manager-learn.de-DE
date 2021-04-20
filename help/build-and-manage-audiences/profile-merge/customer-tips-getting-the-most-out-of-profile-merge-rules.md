@@ -1,15 +1,15 @@
 ---
 title: Kundentipps - Optimale Nutzung der Profil Merge Rules
 description: Varun Kalra, Multi-Solution Consultant bei Agreement, gibt Tipps zur Auswahl und Verwendung von Profil Merge Rules (PMRs).
-feature: Profil-Zusammenführung
+feature: Profile Merge
 topics: null
 activity: use
 doc-type: article
 team: Technical Marketing
 thumbnail: ugc-pmr.jpg
 kt: 6049
-role: Geschäftspraktiker
-level: Anfänger
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

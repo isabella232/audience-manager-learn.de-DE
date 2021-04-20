@@ -1,15 +1,15 @@
 ---
 title: Verwenden von Data Explorer zum Arbeiten mit Signalen aus Adobe Analytics
 description: In diesem Video wird gezeigt, wie Sie in Data Explorer Ihre Adobe Analytics-Daten entdecken und nutzen können. Dazu gehören die Suche nach verwendeten und nicht verwendeten Signalen, das Erstellen von Analytics-Eigenschaften und das Verstehen der Daten.
-feature: 'Data Explorer '
+feature: Data Explorer
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25150.jpg
 kt: 2142
-role: '"Business Practitioner, Entwickler, Dateningenieur, Architekt, Data Architect, Administrator, Leader"'
-level: Anfänger
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

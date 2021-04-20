@@ -1,15 +1,15 @@
 ---
 title: Verwenden von Profil Merge Rules für die Geräteerweiterung und eine höhere Reichweite
 description: Verwenden Sie die Regeln zum Zusammenführen von Profilen, um die Reichweite auf alle Geräte eines Benutzers auszudehnen, sodass Sie auf andere Geräte und nicht auf Geräte vermarkten können.
-feature: Profil-Zusammenführung
+feature: Profile Merge
 topics: null
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 35939.jpg
 kt: 5552
-role: Geschäftspraktiker
-level: Zwischenschaltung
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

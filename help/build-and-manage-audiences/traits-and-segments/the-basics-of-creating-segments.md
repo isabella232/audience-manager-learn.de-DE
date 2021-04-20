@@ -1,15 +1,15 @@
 ---
 title: Grundlagen zum Erstellen von Segmenten
 description: Gehen Sie durch die Felder in der Benutzeroberfläche, um ein Segment in Audience Manager zu erstellen.
-feature: 'Segmente '
+feature: Segments
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 37056.jpg
 kt: 5820
-role: Geschäftspraktiker
-level: Anfänger
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

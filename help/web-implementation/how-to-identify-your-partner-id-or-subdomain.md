@@ -1,14 +1,14 @@
 ---
 title: Identifizieren der Partner-ID oder Subdomäne Ihres Audience Managers
 description: Bei der Implementierung einiger Experience Cloud-Funktionen müssen Sie wissen, was Ihr Audience Manager "Partner-ID"ist (auch als "Client-ID"oder "Subdomäne"bezeichnet). In diesem Video zeigen wir Ihnen zwei Orte, an denen Sie diese ID in der Benutzeroberfläche des Audience Managers abrufen können.
-feature: Implementierungsgrundlagen
+feature: Implementation Basics
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 2359
-role: '"Entwickler, Dateningenieur"'
-level: Zwischenschaltung
+role: "Developer, Data Engineer"
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

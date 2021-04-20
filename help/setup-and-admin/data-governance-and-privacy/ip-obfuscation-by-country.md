@@ -1,14 +1,14 @@
 ---
 title: IP-Verschleierung nach Land im Audience Manager
 description: Audience Manager bietet Selbstbedienungsfunktionen in der Benutzeroberfläche, damit Kunden die IP-Verschleierung global oder länderspezifisch aktivieren können. Dieses Video führt Sie durch das Setup.
-feature: '"Datenverwaltung und Datenschutz"'
+feature: "Data Governance & Privacy"
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2866
-role: '"Business Practitioner, Entwickler, Dateningenieur, Architekt, Data Architect, Administrator, Leader"'
-level: Zwischenschaltung
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

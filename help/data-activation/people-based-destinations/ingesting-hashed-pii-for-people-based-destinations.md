@@ -1,15 +1,15 @@
 ---
 title: Hash-PII-Daten für personenbasierte Ziele einbeziehen
 description: In diesem Video erfahren Sie, wie Sie eine dateibasierte ID-Synchronisierung formatieren, um Ihre Kunden-IDs (CRM-IDs) mit Hash-E-Mail-Adressen zu verbinden.
-feature: '"Benutzerbasierte Ziele"'
+feature: "People-based Destinations"
 topics: null
 activity: setup
 doc-type: technical video
 team: Technical Marketing
 thumbnail: 29122.jpg
 kt: 3341
-role: '"Business Practitioner, Entwickler, Dateningenieur, Architekt, Data Architect, Administrator, Leader"'
-level: Anfänger
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

@@ -1,15 +1,15 @@
 ---
 title: Erstellen und Verwenden von Regeln zum Zusammenführen von Profilen
 description: Erfahren Sie mehr über Profil Merge Rules und wie Sie sie Segmenten zuweisen. Erfahren Sie mehr über das Standard-Profil "Aktuelles Gerät"und wann es verwendet werden kann/sollte.
-feature: Profil-Zusammenführung
+feature: Profile Merge
 topics: null
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 35937.jpg
 kt: 5356
-role: Geschäftspraktiker
-level: Anfänger
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

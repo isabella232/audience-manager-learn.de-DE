@@ -1,14 +1,14 @@
 ---
 title: Wie ein DMP Ihr Geschäft verändern kann
 description: Data Management-Plattformen sind die Rede von der technischen Welt gerade jetzt, aber was sind sie und noch wichtiger, wie können sie Ihnen helfen, wie Marketing-Fachleute Ihre Ziele zu verwirklichen? In dieser Sitzung werden wir erklären, was ein DMP ist, und einige Praxisbeispiele zeigen, in denen Kunden erstaunliche Renditen aus ihren Investitionen zu verzeichnen haben, von effizienteren Medienkäufen bis hin zu deutlich höheren Konversionen.
-feature: Überblick
+feature: Overview
 topics: null
 activity: understand
 doc-type: presentation
 team: Technical Marketing
 kt: 4025
-role: '"Business Practitioner, Entwickler, Dateningenieur, Architekt, Data Architect, Administrator, Leader"'
-level: Anfänger
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

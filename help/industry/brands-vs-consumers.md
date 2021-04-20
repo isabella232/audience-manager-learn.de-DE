@@ -1,7 +1,7 @@
 ---
 title: Eine Geschichte von zwei Wahrnehmungen - Marken vs Verbraucher
 description: Marketingfachleute werden heute in der Unübersichtlichkeit der Informationen über Identitätspraktiken begraben. Und nur 37% der Marketing-Fachleute gaben an, dass sie für eine Zukunft ohne Cookies vorbereitet sind, laut neueren Forschungsergebnissen von Adobe und Advanis. In dieser Webinar-Adobe werden das Verständnis und die Bereitschaft von Werbetreibenden und Herausgebern für eine Zukunft ohne Cookies, die Auswirkungen auf ihre Anwendungsfälle und ihre Wahrnehmung des Ökosystems im weiteren Sinne entfesselt.
-feature: Überblick
+feature: Overview
 role: Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader
 level: Beginner, Intermediate, Experienced
 doc-type: Event

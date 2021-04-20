@@ -1,15 +1,15 @@
 ---
 title: Verwenden von Neuigkeit und Häufigkeit in Segmenten
 description: Verwenden Sie Neuigkeit und Häufigkeit, um die Segmentparameter anzugeben, wie oft ein Besucher sich innerhalb eines bestimmten Zeitraums für eine Eigenschaft qualifizieren muss. Optimale Lösung für die Affinität von Inhalten und für die Festlegung von Häufigkeitsangaben sowie für andere Anwendungsfälle.
-feature: 'Segmente '
+feature: Segments
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 37698.jpg
 kt: 5866
-role: Geschäftspraktiker
-level: Anfänger
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

@@ -1,15 +1,15 @@
 ---
 title: Verwenden des Signals-Dashboards zur schnellen Ansicht der wichtigsten verfügbaren Signale
 description: Durch die Verwendung integrierter und benutzerdefinierter Tabellen im Signal-Dashboard in Data Explorer können Sie die neuesten Daten schnell in Audience Manager eingehen und sogar durchklicken, um Eigenschaften nach Bedarf zu erstellen. Willkommen bei Ihrem neuen, effizienteren Workflow!
-feature: 'Data Explorer '
+feature: Data Explorer
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25151.jpg
 kt: 2140
-role: '"Business Practitioner, Entwickler, Dateningenieur, Architekt, Data Architect, Administrator, Leader"'
-level: Anfänger
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

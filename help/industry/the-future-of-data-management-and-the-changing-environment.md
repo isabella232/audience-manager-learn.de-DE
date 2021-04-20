@@ -1,7 +1,7 @@
 ---
 title: Die Zukunft des Data Managements und die sich verändernde Umgebung
 description: Da die Marktkräfte unsere digitale Landschaft verändern, müssen sich Unternehmen an eine neue Realität anpassen, was die Datenverwaltung, die Identitätsauflösung und die Interaktion mit Potenzieller Kunden und pseudonymen Besuchern mit aussagekräftigen Inhalten betrifft. Zu diesem Zweck gibt es viele verschiedene Wege, um dauerhafte Identifikatoren mit externen Systemen zu nutzen, um eine Skalierung zu erreichen. In diesem Webinar sehen Sie, wie Adobe und 451 Research über die Zukunft der Technologie und Daten denken, um die neue Marketing-Umgebung und beginnen Sie, Ihr Geschäft auf die Zukunft des Data Managements vorzubereiten.
-feature: Überblick
+feature: Overview
 role: Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader
 level: Beginner, Intermediate, Experienced
 doc-type: Event

@@ -1,15 +1,15 @@
 ---
 title: Auswählen einer Datenquelle beim Erstellen von Eigenschaften
 description: Eines der wichtigen Felder, die beim Erstellen von Eigenschaften ausgefüllt werden müssen, ist das Feld Datenquelle. Hier erhalten Sie Tipps zur Auswahl der richtigen Datenquelle für regelbasierte und integrierte Eigenschaften.
-feature: 'Eigenschaften '
+feature: Traits
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 326660.jpg
 kt: 6442
-role: Geschäftspraktiker
-level: Anfänger
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

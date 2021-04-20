@@ -1,15 +1,15 @@
 ---
 title: Verwenden von Best Practices für SPA Seiten beim Senden von Daten an AAM
 description: In diesem Dokument beschreiben wir einige Best Practices, die Sie befolgen sollten und die Sie kennen sollten, wenn Sie Daten von Einzelseitenanwendungen (SPA) an Adobe Audience Manager (AAM) senden. Dieses Dokument konzentriert sich auf die Verwendung von Launch by Adobe, der empfohlenen Implementierungsmethode.
-feature: Implementierungsgrundlagen
+feature: Implementation Basics
 topics: spa
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 1390
 topic: SPA
-role: '"Entwickler, Dateningenieur"'
-level: Erfahren
+role: "Developer, Data Engineer"
+level: Experienced
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

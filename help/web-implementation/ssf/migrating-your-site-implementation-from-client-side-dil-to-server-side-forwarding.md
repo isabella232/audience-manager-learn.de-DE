@@ -2,13 +2,13 @@
 title: Migration der AAM-Implementierung Ihrer Site von der clientseitigen DIL zur serverseitigen Weiterleitung
 description: Dieses Tutorial gilt für Sie, wenn Sie sowohl Adobe Audience Manager (AAM) als auch Adobe Analytics haben und derzeit einen Treffer von der Seite an AAM mit "DIL"(Data Integration Library)-Code senden und auch einen Treffer von der Seite an Adobe Analytics senden. Da Sie beide Lösungen verwenden und beide Teil des Adobe Experience Cloud sind, haben Sie die Möglichkeit, die bewährte Methode der Aktivierung der "serverseitigen Weiterleitung (SSF)"zu befolgen, mit der die Analytics-Datenerfassungsserver die Site-Analysedaten in Echtzeit an Audience Manager weiterleiten können, anstatt dass clientseitiger Code einen zusätzlichen Treffer von der Seite an AAM senden muss. Dieses Lernprogramm führt Sie durch die Schritte, mit denen Sie den Übergang von der älteren "clientseitigen DIL"-Implementierung zur neueren "serverseitigen Weiterleitung"-Methode vollziehen können.
 product: audience manager
-feature: Adobe Analytics-Integration
+feature: Adobe Analytics Integration
 topics: null
 activity: implement
 doc-type: tutorial
 team: Technical Marketing
 kt: 1778
-role: Developer, Data Engineer
+role: "Developer, Data Engineer"
 level: Intermediate
 exl-id: bcb968fb-4290-4f10-b1bb-e9f41f182115
 translation-type: tm+mt

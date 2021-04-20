@@ -1,15 +1,15 @@
 ---
 title: Erstellen einer Datenquelle für benutzerbasierte Ziele
 description: In diesem Video werden Sie durch die Erstellung einer Datenquelle in Audience Manager geführt, die für benutzerspezifische Ziele verwendet werden soll.
-feature: '"Benutzerbasierte Ziele"'
+feature: "People-based Destinations"
 topics: null
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 29006.jpg
 kt: 3700
-role: '"Business Practitioner, Entwickler, Dateningenieur, Architekt, Data Architect, Administrator, Leader"'
-level: Anfänger
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

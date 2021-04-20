@@ -1,15 +1,15 @@
 ---
 title: Zahlen im Segmentdiagramm
 description: Erfahren Sie mehr über die Zahlen, die im Diagramm des Segmentinfo-Bildschirms angezeigt werden.
-feature: 'Segmente '
+feature: Segments
 topics: null
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 38041.jpg
 kt: 5936
-role: Geschäftspraktiker
-level: Anfänger
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

@@ -1,15 +1,15 @@
 ---
 title: Beispiele für Profil Merge Rule und Anwendungsfälle
 description: In diesem Video sehen Sie Beispiele für Profil Merge Rules und deren Bedeutung sowie Anwendungsfälle, für die Profil Merge Rules auflösen.
-feature: Profil-Zusammenführung
+feature: Profile Merge
 topics: null
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 28975.jpg
 kt: 3709
-role: '"Business Practitioner, Entwickler, Dateningenieur, Architekt, Data Architect, Administrator, Leader"'
-level: Anfänger
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

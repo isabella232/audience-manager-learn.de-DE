@@ -1,15 +1,15 @@
 ---
 title: Anwendungsfälle für Audience Manager
 description: In diesem Video identifizieren wir vier häufige Anwendungsfälle für Audience Manager und beschreiben die damit verbundenen Best Practices.
-feature: Überblick
+feature: Overview
 topics: null
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 kt: 5145
 thumbnail: 33975.jpg
-role: '"Business Practitioner, Entwickler, Dateningenieur, Architekt, Data Architect, Administrator, Leader"'
-level: Anfänger
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

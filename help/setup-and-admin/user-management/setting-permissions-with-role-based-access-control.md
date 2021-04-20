@@ -10,7 +10,7 @@ thumbnail: 329120.jpg
 kt: 6737
 topic: Administration
 role: Administrator
-level: Zwischenschaltung
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

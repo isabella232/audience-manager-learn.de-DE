@@ -1,10 +1,10 @@
 ---
 title: Eigenschaften in Echtzeit-CDP für Audience Manager
 description: Wenn Sie von der Audience Manager- zur Echtzeit-Kundendatenplattform wechseln, ist es hilfreich, die unterschiedlichen Konzepte zu verstehen. In diesem Video werden Eigenschaften in Audience Manager und die Entsprechungen in Echtzeit-CDP behandelt.
-feature: Plattformintegration
-topic: Integrationen
-role: Geschäftspraktiker, Architekt, Administrator, Leiter
-level: Zwischenschaltung
+feature: Platform Integration
+topic: Integrations
+role: Business Practitioner, Architect, Administrator, Leader
+level: Intermediate
 doc-type: feature video
 thumbnail: 331900.jpg
 kt: 7201

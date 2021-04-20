@@ -1,15 +1,15 @@
 ---
 title: Verwenden von Look-Alike-Modellen zum Erweitern des ausverkauften Bestands aus Ihren Erstanbieter-Daten
 description: In diesem Lernprogramm gehen wir durch die Schritte, die Sie unternehmen sollten, um Look-Alike-Modelle einzurichten und zu verwenden, damit Sie neue Look-Alike-Audiencen erstellen und diese als Erweiterung Ihres Konvertierungssegments verkaufen können.
-feature: Algorithmische Modelle
+feature: Algorithmic Models
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 23523.jpg
 kt: 1688
-role: '"Business Practitioner, Entwickler, Dateningenieur, Architekt, Data Architect, Administrator, Leader"'
-level: Zwischenschaltung
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

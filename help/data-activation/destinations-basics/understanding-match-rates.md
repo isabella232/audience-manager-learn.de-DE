@@ -1,15 +1,15 @@
 ---
 title: Übereinstimmungsraten
 description: In diesem Video erfahren Sie mehr über die Übereinstimmungsraten in Adobe Audience Manager, deren Zusammensetzung und Berechnung. Außerdem lernen Sie einige Best Practices kennen und erfahren, was zu einer niedrigen Übereinstimmungsrate führen kann.
-feature: Übereinstimmungsraten
+feature: Match Rates
 topics: null
 activity: understand
 doc-type: presentation
 team: Experience League
 thumbnail: 29830.jpg
 kt: 4033
-role: '"Business Practitioner, Entwickler, Dateningenieur, Architekt, Data Architect, Administrator, Leader"'
-level: Anfänger
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

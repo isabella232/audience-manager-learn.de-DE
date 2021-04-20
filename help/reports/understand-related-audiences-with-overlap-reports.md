@@ -1,15 +1,15 @@
 ---
 title: Verstehen verwandter Audiencen mit Überschneidungsberichten
 description: Mit Überschneidungsberichten können Sie erkennen, wie sich Eigenschaften- und Segmentdaten überschneiden (bei mehreren Eigenschaften oder Segmenten gleich welcher Besucher), sodass Sie wissen, wo Sie mit Ihren Daten handeln können, um die Konversion zu steigern oder sich auf die Erweiterung der Reichweite zu konzentrieren.
-feature: Überlagerungsberichte
+feature: Overlap Reports
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 330432.jpg
 kt: 6839
-role: Geschäftspraktiker
-level: Zwischenschaltung
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

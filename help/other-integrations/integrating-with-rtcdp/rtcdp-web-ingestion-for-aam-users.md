@@ -1,10 +1,10 @@
 ---
 title: Erläuterungen zur Webdateningestion in Echtzeit-CDP für Audience Manager
 description: In diesem Video werden Audience Manager die Konzepte erläutert, wie sie Website-Daten in Echtzeit in die Echtzeit-Kundendatenplattform (Echtzeit-CDP) übertragen. Außerdem erfahren Sie auf hoher Ebene, wo der Audience Manager Data Connector passt und wie die Daten direkt über das Web-SDK in Echtzeit-CDP übertragen werden können.
-feature: Plattformintegration
-topic: Integrationen
-role: Geschäftspraktiker, Architekt, Administrator, Leiter
-level: Zwischenschaltung
+feature: Platform Integration
+topic: Integrations
+role: Business Practitioner, Architect, Administrator, Leader
+level: Intermediate
 doc-type: feature video
 thumbnail: 331752.jpg
 kt: 7153

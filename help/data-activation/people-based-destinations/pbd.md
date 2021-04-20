@@ -1,14 +1,14 @@
 ---
 title: Videos und Tutorials zu benutzerspezifischen Zielen
 description: Dieser Abschnitt enthält Videos und Tutorials zu Themen zu benutzerbasierten Zielen.
-feature: '"Benutzerbasierte Ziele"'
+feature: "People-based Destinations"
 topics: null
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 kt: 5207
 role: Administrator
-level: Anfänger
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
