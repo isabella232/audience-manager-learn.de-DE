@@ -2,14 +2,14 @@
 title: Einführung in die Identität im Audience Manager
 description: In diesem Video erfahren Sie, wie Adobe Audience Manager die Identitäten verwaltet, einschließlich interner Profile und Profilzusammenführungen sowie ID-Synchronisierung mit Partnern.
 landing-page-description: Erfahren Sie, wie Audience Manager die Identitäten verwaltet, einschließlich interner Profile und Profilzusammenführungen sowie ID-Synchronisierung mit Partnern.
-feature: ID Syncs
+feature: ID-Synchronisierungen
 topics: null
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 kt: 5146
 thumbnail: 34172.jpg
-role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+role: Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader
 level: Beginner
 exl-id: 57e2274c-df69-4f1f-b999-a05b864023aa
 translation-type: tm+mt
