@@ -1,26 +1,25 @@
 ---
-title: Grundlegendes und Konfigurieren des benutzerspezifischen Ziels der Google-Kundenabstimmung
-description: Dieses Video führt Sie durch die Details und Anwendungsfälle des "Google Customer Match People Based Destination"und enthält eine Anleitung zum Erstellen eines Segments und Zuordnen zu einem Ziel. Es zeigt auch die Audience, die in der Google Ad Console landet.
-feature: "People-based Destinations"
+title: Verstehen und Konfigurieren des personenbasierten Ziels von Google-Kundenabgleich
+description: Dieses Video führt Sie durch die Details und Anwendungsfälle des personenbasierten Ziels von Google-Kundenabgleich und enthält eine exemplarische Vorgehensweise zum Erstellen eines Segments und dessen Zuordnung zu einem Ziel. Außerdem wird die Zielgruppe angezeigt, die in der Google Ad Console landet.
+feature: '"Benutzerbasierte Ziele"'
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 38552.jpg
 kt: 6042
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: c333e02e-a585-49aa-b095-f2dcbbd258a8
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '109'
+source-wordcount: '106'
 ht-degree: 0%
 
 ---
 
+# Verstehen und Konfigurieren des personenbasierten Ziels von Google-Kundenabgleich
 
-# Grundlegendes und Konfigurieren des benutzerspezifischen Ziels der Google-Kundenabstimmung
-
-Dieses Video führt Sie durch die Details und Anwendungsfälle des &quot;Google Customer Match People Based Destination&quot;und enthält eine schrittweise Anleitung zum Erstellen eines Segments und dessen Zuordnung zu einem Ziel. Es zeigt auch die Audience, die in der Google Ad Console landet.
+Dieses Video führt Sie durch die Details und Anwendungsfälle des personenbasierten Ziels von Google-Kundenabgleich und enthält eine schrittweise Anleitung zum Erstellen eines Segments und dessen Zuordnung zu einem Ziel. Außerdem wird die Zielgruppe angezeigt, die in der Google Ad Console landet.
 
 >[!VIDEO](https://video.tv.adobe.com/v/38552/?quality=12&learn=on)
