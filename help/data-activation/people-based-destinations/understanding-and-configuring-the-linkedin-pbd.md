@@ -1,30 +1,29 @@
 ---
-title: Das benutzerbasierte Ziel von LinkedIn verstehen und konfigurieren
-description: In diesem Video werden die Konzepte und Schritte zum Erstellen eines benutzerbasierten Ziels für LinkedIn erläutert. Er baut auf den zusätzlichen Videos und der Dokumentation zu People-Based Destination auf.
-feature: "People-based Destinations"
+title: Verstehen und Konfigurieren des personenbasierten Ziels von LinkedIn
+description: Dieses Video führt Sie durch die Konzepte und Schritte zum Erstellen eines personenbasierten Ziels für LinkedIn. Er baut auf den zusätzlichen Videos und der Dokumentation zu personenbasierten Zielen auf.
+feature: '"Benutzerbasierte Ziele"'
 topics: null
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 34171.jpg
 kt: 5028
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: 1cb80961-c3e2-4a33-a09c-f84cbfed19bd
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '93'
+source-wordcount: '90'
 ht-degree: 0%
 
 ---
 
+# Verstehen und Konfigurieren von [!DNL LinkedIn] [!UICONTROL People-Based Destination]
 
-# Grundlagen und Konfiguration von [!DNL LinkedIn] [!UICONTROL People-Based Destination]
-
-Dieses Video führt Sie durch die Konzepte und Schritte zum Erstellen eines [!UICONTROL People-Based Destination] bis [!DNL LinkedIn]. Es baut auf den zusätzlichen Videos und der Dokumentation zu [!UICONTROL People-Based Destinations] auf.
+Dieses Video führt Sie durch die Konzepte und Schritte zum Erstellen eines [!UICONTROL People-Based Destination] zu [!DNL LinkedIn]. Er baut auf den zusätzlichen Videos und der Dokumentation zu [!UICONTROL People-Based Destinations] auf.
 
 >[!VIDEO](https://video.tv.adobe.com/v/34171/?quality=12)
 
 Weitere Informationen finden Sie in der [Dokumentation](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html).
 
-Sie können auch weitere Videos zu [!UICONTROL People-Based Destinations] [HIER](https://adobe.ly/aamlearnpbd) finden.
+Weitere Videos zu [!UICONTROL People-Based Destinations] [HERE](https://adobe.ly/aamlearnpbd) finden Sie hier.
