@@ -1,32 +1,31 @@
 ---
-title: Grundlegendes zu Schemas und XDM in Echtzeit-CDP für Audience Manager
-description: Wenn Sie von der Audience Manager- zur Echtzeit-Kundendatenplattform (Echtzeit-CDP) wechseln, werden Sie auf einige neue Konzepte und Verfahren stoßen. Schemas und XDM fallen in diese Kategorie. In diesem Video werden diese Konzepte erläutert.
-feature: Platform Integration
-topic: Integrations
-role: Business Practitioner, Architect, Administrator, Leader
+title: Grundlegendes zu Schemata und XDM in der Echtzeit-Kundendatenplattform für Audience Manager
+description: Wenn Sie von Audience Manager zur Echtzeit-Kundendatenplattform (Echtzeit-Kundendatenplattform) wechseln, werden Sie auf einige neue Konzepte und Vorgehensweisen stoßen. Schemas und XDM fallen in diese Kategorie. In diesem Video werden diese Konzepte erläutert.
+feature: Plattformintegration
+topic: Integrationen
+role: User, Architect, Admin, Leader
 level: Intermediate
 doc-type: feature video
 thumbnail: 332023.jpg
 kt: 7272
-translation-type: tm+mt
-source-git-commit: b75efb956338a06db8919a568a0f2ff0b28889fd
+exl-id: 5f9a54e0-1078-402d-ad31-b3da06274bb3
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '167'
+ht-degree: 1%
 
 ---
 
+# Grundlegendes zu Schemata und XDM in der Echtzeit-Kundendatenplattform für Audience Manager
 
-# Grundlegendes zu Schemas und XDM in Echtzeit-CDP für Audience Manager
-
-Wenn Sie von der Audience Manager- zur Echtzeit-Kundendatenplattform (Echtzeit-CDP) wechseln, werden Sie auf einige neue Konzepte und Verfahren stoßen. Schemas und XDM fallen in diese Kategorie. In diesem Video werden diese Konzepte erläutert.
+Wenn Sie von Audience Manager zur Echtzeit-Kundendatenplattform (Echtzeit-Kundendatenplattform) wechseln, werden Sie auf einige neue Konzepte und Vorgehensweisen stoßen. Schemas und XDM fallen in diese Kategorie. In diesem Video werden diese Konzepte erläutert.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332023/?quality=12&learn=on)
 
 ## Zusätzliche Ressourcen
 
-Im Folgenden finden Sie einige Videos und Tutorials, die Ihnen helfen, sich mit der Echtzeit-Kundendatenplattform vertraut zu machen. Sehen Sie sich auch andere Videos und Tutorials an, um mehr über die Plattform zu erfahren.
+Im Folgenden finden Sie einige vorhandene Videos und Tutorials, die Ihnen dabei helfen, mehr über die Echtzeit-Kundendatenplattform zu erfahren. Sehen Sie sich hierzu auch weitere Videos und Tutorials an, um mehr über Platform zu erfahren.
 
-* [Das XDM-System- und Erlebnisdatenmodell](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/understanding-the-xdm-system-and-experience-data-model.html)
-* [Schemas erstellen](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/create-your-first-schema-with-out-of-the-box-components.html)
-* [Erstellen eines Schemas mit dem Schema-Editor](https://experienceleague.adobe.com/docs/experience-platform/xdm/tutorials/create-schema-ui.html?lang=en#getting-started)
+* [Grundlagen zum XDM-System und Experience-Datenmodell](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/understanding-the-xdm-system-and-experience-data-model.html)
+* [Erstellen von Schemata](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/create-your-first-schema-with-out-of-the-box-components.html)
+* [Erstellen eines Schemas mit dem Schema Editor](https://experienceleague.adobe.com/docs/experience-platform/xdm/tutorials/create-schema-ui.html?lang=en#getting-started)
