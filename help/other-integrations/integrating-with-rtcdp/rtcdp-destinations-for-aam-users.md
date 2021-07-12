@@ -1,24 +1,23 @@
 ---
-title: Ziele in Echtzeit-CDP für Audience Manager
-description: Wenn Sie von der Audience Manager- zur Echtzeit-Kundendatenplattform (Echtzeit-CDP) wechseln, müssen Sie unbedingt Informationen zu Zielen erhalten, damit Sie wissen, wie Sie Ihre Audiencen-Segmente bis zu den Zielpartnern aktivieren können. In diesem Video werden die verschiedenen Zieltypen und deren Position in der Echtzeit-CDP diskutiert.
-feature: Platform Integration
-topic: Integrations
-role: Business Practitioner, Architect, Administrator, Leader
+title: Verstehen der Ziele in der Echtzeit-Kundendatenplattform für Audience Manager
+description: Wenn Sie von Audience Manager zur Echtzeit-Kundendatenplattform (Echtzeit-Kundendatenplattform) wechseln, müssen Sie sich über Ziele informieren, damit Sie wissen, wie Sie Ihre Zielgruppensegmente für Zielpartner aktivieren können. In diesem Video werden die verschiedenen Zieltypen und deren Position in der Echtzeit-Kundendatenplattform erläutert.
+feature: Plattformintegration
+topic: Integrationen
+role: User, Architect, Admin, Leader
 level: Intermediate
 doc-type: feature video
 thumbnail: 332203.jpg
 kt: 7352
-translation-type: tm+mt
-source-git-commit: b75efb956338a06db8919a568a0f2ff0b28889fd
+exl-id: 43e9c54c-24f5-430e-a633-6e2878e2a7ba
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '119'
 ht-degree: 0%
 
 ---
 
+# Verstehen der Ziele in der Echtzeit-Kundendatenplattform für Audience Manager
 
-# Ziele in Echtzeit-CDP für Audience Manager
-
-Wenn Sie von der Audience Manager- zur Echtzeit-Kundendatenplattform (Echtzeit-CDP) wechseln, müssen Sie unbedingt Informationen zu Zielen erhalten, damit Sie wissen, wie Sie Ihre Audiencen-Segmente bis zu den Zielpartnern aktivieren können. In diesem Video werden die verschiedenen Zieltypen und deren Position in der Echtzeit-CDP diskutiert.
+Wenn Sie von Audience Manager zur Echtzeit-Kundendatenplattform (Echtzeit-Kundendatenplattform) wechseln, müssen Sie sich über Ziele informieren, damit Sie wissen, wie Sie Ihre Zielgruppensegmente für Zielpartner aktivieren können. In diesem Video werden die verschiedenen Zieltypen und deren Position in der Echtzeit-Kundendatenplattform erläutert.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332203/?quality=12&learn=on)
