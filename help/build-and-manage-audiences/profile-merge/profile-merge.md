@@ -1,38 +1,37 @@
 ---
-title: Videos und Tutorials
-description: Dieser Abschnitt enthält Videos und Lernprogramme zu Funktionen zum Zusammenführen von Profilen, z. B. Regeln zum Zusammenführen von Profilen.
-feature: Profile Merge
+title: Videos und Tutorials zur Profilzusammenführung
+description: Dieser Abschnitt enthält Videos und Tutorials zu Profilzusammenführungsfunktionen wie Profilzusammenführungsrichtlinien.
+feature: Profilzusammenführung
 topics: null
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 kt: null
-role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: c3742871-a52c-4de9-9648-bc3afbf19bf5
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '150'
+source-wordcount: '139'
 ht-degree: 0%
 
 ---
 
-
 # [!UICONTROL Profile Merge] - Videos und Tutorials
 
-Mit [!UICONTROL Profile Merge Rules] erhalten Sie die Kontrolle über die Datensätze, die für [!UICONTROL segmentation] verwendet werden, und können eine Person präzise auf mehreren Geräten Zielgruppe werden.
+Mit [!UICONTROL Profile Merge Rules] erhalten Sie die Kontrolle über die für [!UICONTROL segmentation] verwendeten Datensätze und können eine Person auf mehreren Geräten präzise ansprechen.
 
 Dieser Abschnitt enthält die folgenden Videos für [!UICONTROL Profile Merge Rules]:
 
-* [Übersicht über die Regeln zum Zusammenführen von Profilen](overview-of-profile-merge-rules.md)
-* [Beispiele für Profil Merge Rule und Anwendungsfälle](profile-merge-rule-examples-and-use-cases.md)
-* [Übersicht über die Verbesserungen der Profil Merge Rule](overview-of-profile-merge-rule-enhancements.md)
-* [Erstellen und Verwenden von Regeln zum Zusammenführen von Profilen](creating-and-using-simple-profile-merge-rules.md)
-* [Verwenden von Profil Merge Rules zum Personalisieren in einem authentifizierten Status](using-profile-merge-rules-to-personalize-in-an-authenticated-state.md)
-* [Verwenden von Profil Merge Rules für die Geräteerweiterung und eine höhere Reichweite](using-profile-merge-rules-for-device-extension-and-increased-reach.md)
-* [Verbesserungen der Profil Merge Rule - Voraussetzungen](profile-merge-rule-enhancements-pre-requisites.md)
-* [Auswirkungen der Profil Merge Rule-Erweiterungen auf Segmentierung, Aktivierung und Berichte](how-profile-merge-rule-enhancements-impact-segmentation-activation-and-reporting.md)
-* [Interpretieren von Audience Identity Berichte](interpret-audience-identity-reporting.md)
-* [Geräteübergreifende Metriken in Audience Manager](understanding-cross-device-metrics-in-audience-manager.md)
+* [Überblick über die Regeln zur Profilzusammenführung](overview-of-profile-merge-rules.md)
+* [Beispiele für Profilzusammenführungsregeln und Anwendungsfälle](profile-merge-rule-examples-and-use-cases.md)
+* [Überblick über die Verbesserungen der Profilzusammenführungsrichtlinien](overview-of-profile-merge-rule-enhancements.md)
+* [Erstellen und Verwenden von einfachen Profilzusammenführungsrichtlinien](creating-and-using-simple-profile-merge-rules.md)
+* [Verwenden von Profilzusammenführungsrichtlinien zum Personalisieren in einem authentifizierten Status](using-profile-merge-rules-to-personalize-in-an-authenticated-state.md)
+* [Verwenden von Profilzusammenführungsrichtlinien für die Geräteherweiterung und eine höhere Reichweite](using-profile-merge-rules-for-device-extension-and-increased-reach.md)
+* [Verbesserungen der Profilzusammenführungsrichtlinien - Voraussetzungen](profile-merge-rule-enhancements-pre-requisites.md)
+* [Auswirkungen der Verbesserungen der Profilzusammenführungsrichtlinien auf Segmentierung, Aktivierung und Berichterstellung](how-profile-merge-rule-enhancements-impact-segmentation-activation-and-reporting.md)
+* [Interpretieren der Audience Identity-Berichterstellung](interpret-audience-identity-reporting.md)
+* [Grundlegendes zu geräteübergreifenden Metriken in Audience Manager](understanding-cross-device-metrics-in-audience-manager.md)
 
 Diese Videos können zusammen mit der [Dokumentation](https://docs.adobe.com/help/en/audience-manager/user-guide/features/profile-merge-rules/merge-rules-overview.html) verwendet werden
