@@ -1,32 +1,31 @@
 ---
-title: Kundentipps - Best Practices zu Eigenschaften und Segmenten
-description: Matt Vittorioso, Senior Marketing Specialist bei Ally Financial, gibt Tipps zum Verwalten von Eigenschaften und Segmenten.
-feature: Segments
+title: Kundentipps - Best Practices für Eigenschaften und Segmente
+description: Matt Vittorioso, Senior Marketing Specialist bei Ally Financial, gibt Tipps zur Verwaltung von Eigenschaften und Segmenten.
+feature: 'Segmente '
 topics: null
 activity: use
 doc-type: article
 team: Technical Marketing
 thumbnail: ugc-segments.jpg
 kt: 6048
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: 7001011a-c0e2-4879-89ad-e463dc9f5604
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '138'
 ht-degree: 0%
 
 ---
 
-
-# Kundentipps - Best Practices zu Eigenschaften und Segmenten
+# Kundentipps - Best Practices für Eigenschaften und Segmente
 
 **Matt Vittorioso**, Senior Marketing Specialist bei  **[!DNL Ally Financial]**, gibt Tipps zur Verwaltung von Eigenschaften und Segmenten.
 
-Matt Vittorioso ist Senior Marketing Specialist im Digital Marketing Team bei Ally Financial. Er leitet das digitale Segmentierungsteam und ist für alle Daten verantwortlich, die in und aus dem Audience Manager gehen. Matt arbeitet eng mit allen internen Interessengruppen und externen Agenturpartnern zusammen, um sicherzustellen, dass die richtigen Segmente für alle Kampagnen von Ally konstruiert werden. Tipps beinhalten Themen wie:
+Matt Vittorioso ist Senior Marketing Specialist im Digital Marketing Team von Ally Financial. Er leitet das Digital Segmentation Team und ist für alle Daten verantwortlich, die in den Audience Manager eingehen und aus ihm ausscheiden. Matt arbeitet eng mit allen internen Interessengruppen und externen Agentur-Partnern zusammen, um sicherzustellen, dass die richtigen Segmente für alle Kampagnen von Ally erstellt werden. Tipps enthalten Themen wie:
 
-* Abstimmung und Kommunikation mit den Interessengruppen
-* Standardmäßige Verwendung der Funktionen
-* Eigenschaften und Segmente regelmäßig überprüfen
+* Abstimmung und Kommunikation mit Interessengruppen
+* Standardmäßige Funktionalität nutzen
+* Regelmäßiges Überprüfen von Eigenschaften und Segmenten
 
-[Lesen Sie Matt&#39;s Tips in der Experience League Community.](https://experienceleaguecommunities.adobe.com/t5/adobe-audience-manager-blogs/traits-and-segments-best-practices/ba-p/367729)
+[Lesen Sie Matts Tipps in der Experience League Community.](https://experienceleaguecommunities.adobe.com/t5/adobe-audience-manager-blogs/traits-and-segments-best-practices/ba-p/367729)
