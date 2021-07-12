@@ -1,23 +1,22 @@
 ---
 title: Erstellen einer Segmenttaxonomie
 description: Wenn Sie ein Segment in Audience Manager erstellen, speichern Sie es in einer ordnerbasierten Struktur oder einer "Taxonomie". Hier finden Sie einige Tipps zum Erstellen und Verwalten der Segmenttaxonomie.
-feature: Segments
+feature: 'Segmente '
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 37909.jpg
 kt: 5933
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: aa00b640-0b52-4c11-9165-9d73c78e77bf
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '70'
+source-wordcount: '67'
 ht-degree: 1%
 
 ---
-
 
 # Erstellen einer Segmenttaxonomie
 
