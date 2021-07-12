@@ -1,26 +1,25 @@
 ---
 title: Erstellen von integrierten Eigenschaften
-description: Hier finden Sie Tipps zum Erstellen von Eigenschaften mit Startbildschirm in Audience Manager.
-feature: Traits
+description: Hier finden Sie Tipps zum Erstellen von integrierten Eigenschaften in Audience Manager.
+feature: 'Eigenschaften '
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 40267.jpg
 kt: 6215
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: b240e1c6-1cc6-44c0-aee5-35ca972ab919
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '28'
-ht-degree: 3%
+source-wordcount: '25'
+ht-degree: 4%
 
 ---
 
-
 # Erstellen von integrierten Eigenschaften
 
-Hier finden Sie Tipps zum Erstellen von Eigenschaften mit Startbildschirm in Audience Manager.
+Hier finden Sie Tipps zum Erstellen von integrierten Eigenschaften in Audience Manager.
 
 >[!VIDEO](https://video.tv.adobe.com/v/40267/?quality=12&learn=on)
