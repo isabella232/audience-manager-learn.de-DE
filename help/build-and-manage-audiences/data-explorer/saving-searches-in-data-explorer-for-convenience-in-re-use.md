@@ -1,7 +1,7 @@
 ---
-title: Speichern von Suchvorgängen im Data Explorer für die praktische Verwendung bei der erneuten Verwendung
-description: In diesem Video erfahren Sie, wie Sie eine Suche in Data Explorer konfigurieren, sie ausführen und dann zu einem späteren Zeitpunkt zur erneuten Verwendung speichern. Sie können die gespeicherte Suche auch auf dem Dashboard platzieren, sodass sie sofort verfügbar ist, wenn Sie die Signal-App aufrufen.
-feature: Data Explorer
+title: Speichern von Suchvorgängen im Data Explorer für bequeme Verwendung bei der Wiederverwendung
+description: In diesem Video erfahren Sie, wie Sie eine Suche in Data Explorer konfigurieren, sie ausführen und sie dann zur späteren Verwendung speichern können. Sie können die gespeicherte Suche auch im Dashboard platzieren, damit sie sofort verfügbar ist, wenn Sie in die Signalanwendung wechseln.
+feature: 'Data Explorer '
 topics: null
 activity: use
 doc-type: feature video
@@ -9,20 +9,19 @@ author: Doug Moore
 team: Technical Marketing
 thumbnail: 25147.jpg
 kt: 1763
-role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: aff58324-52f6-438d-8aae-4f2e8cd16ae0
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '140'
+source-wordcount: '129'
 ht-degree: 1%
 
 ---
 
+# Speichern von Suchvorgängen in [!DNL Data Explorer] zur bequemen Verwendung bei der Wiederverwendung {#saving-searches-in-data-explorer-for-convenience-in-re-use}
 
-# Suchen in [!DNL Data Explorer] für Konventionen in Wiederverwendung speichern{#saving-searches-in-data-explorer-for-convenience-in-re-use}
-
-In diesem Video erfahren Sie, wie Sie eine Suche in [!DNL Data Explorer] konfigurieren, sie ausführen und sie dann zu einem späteren Zeitpunkt zur erneuten Verwendung speichern. Sie können die gespeicherte Suche auch auf dem Dashboard platzieren, sodass sie sofort verfügbar ist, wenn Sie die [!UICONTROL Signals]-App aufrufen.
+In diesem Video erfahren Sie, wie Sie eine Suche in [!DNL Data Explorer] konfigurieren, sie ausführen und sie dann zur späteren Verwendung speichern können. Sie können die gespeicherte Suche auch im Dashboard platzieren, sodass sie sofort verfügbar ist, wenn Sie in die [!UICONTROL Signals]-App wechseln.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25147/?quality=12)
 
