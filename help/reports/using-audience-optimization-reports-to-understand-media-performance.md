@@ -1,27 +1,26 @@
 ---
-title: Verwenden von Audience Optimizationen-Berichten zum Verstehen der Medienleistung
-description: Erfahren Sie, wie Sie mit den Berichten zur Audience Optimization Ihre Kampagnen verbessern, wo Sie Ihre Marketinggelder investieren und wo Sie nicht mehr investieren müssen. Erfahren Sie außerdem, wie Sie eine optimale Häufigkeitsbegrenzung bestimmen und weitere Schätze in diesen Berichten finden.
-feature: Audience Optimization Reports
+title: Verwenden von Audience Optimization-Berichten zum Verständnis der Medienleistung
+description: Erfahren Sie, wie Sie mit den Kampagnenberichten Ihre Audience Optimizationen verbessern können und wo Sie Ihre Marketinggelder investieren und wo Sie nicht mehr investieren müssen. Erfahren Sie außerdem, wie Sie in diesen Berichten optimale Frequenzlimitierung ermitteln und weitere Edelsteine finden.
+feature: Berichte zur Zielgruppenoptimierung
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 330401.jpg
 kt: 6838
-role: Business Practitioner
+role: User
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: 620d4ef6-05ec-4d96-842e-919c6ec402d9
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '113'
 ht-degree: 2%
 
 ---
 
+# Verwenden von Audience Optimization-Berichten zum Verständnis der Medienleistung
 
-# Verwenden von Audience Optimizationen-Berichten zum Verstehen der Medienleistung
-
-Erfahren Sie, wie Sie mit den Berichten zur Audience Optimization Ihre Kampagnen verbessern, wo Sie Ihre Marketinggelder investieren und wo Sie nicht mehr investieren müssen. Erfahren Sie außerdem, wie Sie eine optimale Häufigkeitsbegrenzung bestimmen und weitere Schätze in diesen Berichten finden.
+Erfahren Sie, wie Sie mit den Kampagnenberichten Ihre Audience Optimizationen verbessern können und wo Sie Ihre Marketinggelder investieren und wo Sie nicht mehr investieren müssen. Erfahren Sie außerdem, wie Sie in diesen Berichten optimale Frequenzlimitierung ermitteln und weitere Edelsteine finden.
 
 >[!VIDEO](https://video.tv.adobe.com/v/330401/?quality=12&learn=on)
 
