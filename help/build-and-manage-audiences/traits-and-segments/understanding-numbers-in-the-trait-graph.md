@@ -1,26 +1,25 @@
 ---
-title: Zahlen im Eigenschaftendiagramm
-description: Hier erhalten Sie einige Tipps zum Verständnis der gemeldeten Zahlen für Eigenschaften im Anzeigebereich "Eigenschaften".
-feature: Traits
+title: Zahlen im Trait-Diagramm
+description: Hier erhalten Sie Tipps zum Verständnis der gemeldeten Zahlen für Eigenschaften im Bildschirm mit Eigenschafteninformationen.
+feature: 'Eigenschaften '
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 327171.jpg
 kt: 6494
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: 8e1a2410-6ed6-4bab-bc8c-3a15d903e119
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '46'
+source-wordcount: '43'
 ht-degree: 2%
 
 ---
 
+# Zahlen im Trait-Diagramm
 
-# Zahlen im Eigenschaftendiagramm
-
-Hier erhalten Sie einige Tipps zum Verständnis der gemeldeten Zahlen für Eigenschaften im Anzeigebereich &quot;Eigenschaften&quot;.
+Hier erhalten Sie Tipps zum Verständnis der gemeldeten Zahlen für Eigenschaften im Bildschirm mit Eigenschafteninformationen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/327171/?quality=12&learn=on)
