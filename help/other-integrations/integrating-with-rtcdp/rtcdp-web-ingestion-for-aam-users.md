@@ -1,32 +1,31 @@
 ---
-title: Erläuterungen zur Webdateningestion in Echtzeit-CDP für Audience Manager
-description: In diesem Video werden Audience Manager die Konzepte erläutert, wie sie Website-Daten in Echtzeit in die Echtzeit-Kundendatenplattform (Echtzeit-CDP) übertragen. Außerdem erfahren Sie auf hoher Ebene, wo der Audience Manager Data Connector passt und wie die Daten direkt über das Web-SDK in Echtzeit-CDP übertragen werden können.
-feature: Platform Integration
-topic: Integrations
-role: Business Practitioner, Architect, Administrator, Leader
+title: Grundlegendes zur Web-Datenerfassung in der Echtzeit-Kundendatenplattform für Audience Manager
+description: In diesem Video werden Audience Manager die Konzepte zum Einbringen von Website-Daten in die Echtzeit-Kundendatenplattform (Echtzeit-Kundendatenplattform) vorgestellt. Außerdem erfahren Sie auf hoher Ebene, wo der Data Connector-Audience Manager passt und wie die Daten direkt über das Web SDK von der Website in die Echtzeit-Kundendatenplattform übertragen werden können.
+feature: Plattformintegration
+topic: Integrationen
+role: User, Architect, Admin, Leader
 level: Intermediate
 doc-type: feature video
 thumbnail: 331752.jpg
 kt: 7153
-translation-type: tm+mt
-source-git-commit: b75efb956338a06db8919a568a0f2ff0b28889fd
+exl-id: e0ea393d-b332-4754-b855-25c838a463b4
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '215'
+ht-degree: 4%
 
 ---
 
+# Grundlegendes zur Web-Datenerfassung in der Echtzeit-Kundendatenplattform für Audience Manager
 
-# Erläuterungen zur Webdateningestion in Echtzeit-CDP für Audience Manager
-
-In diesem Video werden Audience Manager die Konzepte erläutert, wie sie Website-Daten in Echtzeit in die Echtzeit-Kundendatenplattform (Echtzeit-CDP) übertragen. Außerdem erfahren Sie auf hoher Ebene, wo der Audience Manager Data Connector passt und wie die Daten direkt über das Web-SDK in Echtzeit-CDP übertragen werden können.
+In diesem Video werden Audience Manager die Konzepte zum Einbringen von Website-Daten in die Echtzeit-Kundendatenplattform (Echtzeit-Kundendatenplattform) vorgestellt. Außerdem erfahren Sie auf hoher Ebene, wo der Data Connector-Audience Manager passt und wie die Daten direkt über das Web SDK von der Website in die Echtzeit-Kundendatenplattform übertragen werden können.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331752/?quality=12&learn=on)
 
 ## Zusätzliche Ressourcen
 
-Im Folgenden finden Sie einige Videos und Tutorials, die Ihnen helfen, sich mit der Echtzeit-Kundendatenplattform vertraut zu machen. Sehen Sie sich auch andere Videos und Tutorials an, um mehr über die Plattform zu erfahren.
+Im Folgenden finden Sie einige vorhandene Videos und Tutorials, die Ihnen dabei helfen, mehr über die Echtzeit-Kundendatenplattform zu erfahren. Sehen Sie sich hierzu auch weitere Videos und Tutorials an, um mehr über Platform zu erfahren.
 
-* [Daten über den Adobe Audience Manager-Datenanschluss erfassen](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-aam.html?lang=en#sources)
+* [Daten mithilfe des Adobe Audience Manager Data Connectors erfassen](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-aam.html?lang=en#sources)
 * [Adobe Experience Platform Web SDK-Tutorials](https://experienceleague.adobe.com/docs/web-sdk-learn/tutorials/overview.html?lang=en)
-* [Erstellen eines Schemas mit dem Schema-Editor](https://experienceleague.adobe.com/docs/experience-platform/xdm/tutorials/create-schema-ui.html?lang=en#getting-started)
+* [Erstellen eines Schemas mit dem Schema Editor](https://experienceleague.adobe.com/docs/experience-platform/xdm/tutorials/create-schema-ui.html?lang=en#getting-started)
