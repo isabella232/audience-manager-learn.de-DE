@@ -1,7 +1,7 @@
 ---
 title: Videos und Tutorials zu benutzerbezogenen Zielen
 description: Dieser Abschnitt enthält Videos und Tutorials zu Themen zu personenbasierten Zielen.
-feature: '"Benutzerbasierte Ziele"'
+feature: People-based Destinations
 topics: null
 activity: setup
 doc-type: feature video
@@ -10,16 +10,16 @@ kt: 5207
 role: Admin
 level: Beginner
 exl-id: 80c37014-896f-4ed1-8673-a135ef3063d5
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: 3b16dc825d620119c5b112b1b2a91292133f817f
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: '170'
 ht-degree: 0%
 
 ---
 
 # [!UICONTROL People-Based Destinations] Videos und Tutorials
 
-[!UICONTROL People-Based Destinations] ermöglichen es Ihnen, die Segmentierung von Online- und Offline-Daten anzuwenden, um Zielgruppensegmente basierend auf Hash-Kennungen wie E-Mail-Adressen oder Telefonnummern zu erstellen. Anschließend können Sie diese Segmente an soziale Plattformen wie [!DNL Facebook] oder [!DNL LinkedIn] senden, wo Sie Ihre Zielgruppe ansprechen können.
+[!UICONTROL People-Based Destinations] ermöglichen es Ihnen, die Segmentierung von Online- und Offline-Daten anzuwenden, um Zielgruppensegmente basierend auf Hash-Kennungen wie E-Mail-Adressen zu erstellen. Anschließend können Sie diese Segmente an soziale Plattformen wie [!DNL Facebook] oder [!DNL LinkedIn] senden, wo Sie Ihre Zielgruppe ansprechen können.
 
 Dieser Abschnitt enthält Videos und Tutorials zu Themen zu [!UICONTROL People-Based Destinations]. Sie wurden in dieser absichtlichen Reihenfolge aufgelistet, während Sie sich durch den Fluss/Prozess der Einrichtung von [!UICONTROL People-Based Destinations] bewegen:
 
