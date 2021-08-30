@@ -10,9 +10,9 @@ kt: 5027
 role: Developer, Data Engineer, Architect
 level: Experienced
 exl-id: 04b4e786-0457-4dcc-bcf9-a79eda67bb2e
-source-git-commit: 086071ab04551c512c5415f091a8054123bc6445
+source-git-commit: 4d4c12e9f9a33760a89460258c3802fcf3a4e22b
 workflow-type: tm+mt
-source-wordcount: '1117'
+source-wordcount: '1120'
 ht-degree: 0%
 
 ---
@@ -72,7 +72,7 @@ Einer der Vorteile der Verwendung des IAB-TCF besteht darin, dass die oben aufge
 
 Damit der Audience Manager genehmigt werden kann (d. h. um die Übersetzung von IAB-Zwecken für Opt-in zu ermöglichen, AAM eine &quot;Ja&quot;-Abstimmung abzugeben), müssen die oben genannten Zwecke 1 und 10 vom Endnutzer genehmigt werden. Wenn eine dieser Optionen nicht genehmigt ist oder ein Anbieter nicht genehmigt wurde, führen AAM keine Pixellöcher aus oder setzen keine Cookies. Es ist auch gut zu wissen, dass viele Kunden dem Endbenutzer einfach eine &quot;alles oder nichts&quot;-Benutzeroberfläche bereitstellen, die natürlich die Verwendung von Audience Manager (und anderen Experience Cloud-Lösungen) zulassen oder verbieten würde.
 
-Es gibt einige großartige Informationen in der [Dokumentation](https://marketing.adobe.com/resources/help/en_US/aam/aam-iab-plugin.html) darüber, wie das Audience Manager-Plug-in für IAB TCF-Fluss sowohl für Publisher- als auch für Advertiser-Anwendungsfälle gilt.
+Es gibt einige großartige Informationen in der [Dokumentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/data-privacy/consent-management/aam-iab-plugin.html?lang=en) darüber, wie das Audience Manager-Plug-in für IAB TCF-Fluss sowohl für Publisher- als auch für Advertiser-Anwendungsfälle gilt.
 
 ## IAB: Versand der Zustimmung nach unten {#iab-sending-consent-downstream}
 

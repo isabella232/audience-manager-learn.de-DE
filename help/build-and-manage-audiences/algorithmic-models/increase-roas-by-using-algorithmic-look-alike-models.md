@@ -1,7 +1,7 @@
 ---
 title: ROAS durch Verwendung algorithmischer (Look-alike) Modelle in Audience Manager erhöhen
 description: Die wahre Stärke der Look-alike-Modellierung von Audience Manager liegt darin, dass Sie versuchen, Ihre Grundzielgruppe gegenüber einer qualitativ hochwertigen, brandneuen Benutzergruppe aus 2nd- und Drittanbieter-Datenquellen zu erweitern. In diesem Tutorial erfahren Sie, wie Sie anhand dieser Daten ein Modell erstellen.
-feature: Algorithmische Modelle
+feature: Algorithmic Models
 topics: null
 activity: use
 doc-type: feature video
@@ -11,9 +11,9 @@ kt: 1849
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Intermediate
 exl-id: 6626ae11-8709-4302-9e03-0d55878d2409
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: 4d4c12e9f9a33760a89460258c3802fcf3a4e22b
 workflow-type: tm+mt
-source-wordcount: '862'
+source-wordcount: '857'
 ht-degree: 0%
 
 ---
@@ -40,7 +40,7 @@ Wenn Sie Adobe Analytics-Ereignisse zum Erstellen von [!UICONTROL traits] verwen
 
 >[!VIDEO](https://video.tv.adobe.com/v/23431/?quality=12)
 
-**HINWEIS:** Im obigen Video geht das angezeigte Beispiel davon aus, dass Sie über Adobe Analytics verfügen. Das ist offensichtlich nicht der Fall. Wenn Sie Google Analytics (GA) haben, können Sie mit einem Modul Daten an AAM senden (siehe [Dokumentation](https://marketing.adobe.com/resources/help/en_US/aam/dil-google-universal-analytics.html)). Wenn Ihre Konversionsaktivität auf Ihrer Site von GA an AAM gesendet wird, können Sie daraus Ihre Konversionsrate [!UICONTROL trait] erstellen. Wenn Sie über eine andere Analyselösung (oder keine Analyselösung) verfügen, können Sie weiterhin Daten über unseren DIL-Code und die `submit`-Funktion an AAM senden. (siehe [Dokumentation](https://marketing.adobe.com/resources/help/en_US/aam/c_dil.html)). Erstellen Sie dann die Konvertierung [!UICONTROL trait] basierend auf den Daten, die gesendet werden, wenn die Konversionsaktivität auf der Site durchgeführt wird.
+**HINWEIS:** Im obigen Video geht das angezeigte Beispiel davon aus, dass Sie über Adobe Analytics verfügen. Das ist offensichtlich nicht der Fall. Wenn Sie Google Analytics (GA) haben, können Sie mit einem Modul Daten an AAM senden (siehe [Dokumentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-modules.html)). Wenn Ihre Konversionsaktivität auf Ihrer Site von GA an AAM gesendet wird, können Sie daraus Ihre Konversionsrate [!UICONTROL trait] erstellen. Wenn Sie über eine andere Analyselösung (oder keine Analyselösung) verfügen, können Sie weiterhin Daten über unseren DIL-Code und die `submit`-Funktion an AAM senden. (siehe [Dokumentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-overview.html)). Erstellen Sie dann die Konvertierung [!UICONTROL trait] basierend auf den Daten, die gesendet werden, wenn die Konversionsaktivität auf der Site durchgeführt wird.
 
 ## Erstellen Sie einen Look-alike [!UICONTROL Model] aus [!UICONTROL Second Party] oder [!UICONTROL Third Party] Daten {#create-a-look-alike-model-from-2nd-or-3rd-party-data}
 

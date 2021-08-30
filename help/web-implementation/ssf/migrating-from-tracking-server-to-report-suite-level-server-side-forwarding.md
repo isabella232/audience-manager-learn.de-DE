@@ -2,7 +2,7 @@
 title: Migration vom Tracking-Server zur serverseitigen Weiterleitung auf Report Suite-Ebene
 description: In diesem Artikel und Video erfahren Sie, wie Sie die serverseitige Weiterleitung von Analytics-Daten an den Audience Manager auf Report Suite-Ebene und nicht auf Tracking-Server-Ebene aktivieren.
 product: audience manager
-feature: Adobe Analytics-Integration
+feature: Adobe Analytics Integration
 topics: null
 activity: implement
 doc-type: technical video
@@ -11,9 +11,9 @@ kt: 1776
 role: Developer, Data Engineer
 level: Intermediate
 exl-id: 08b81e52-a28a-43e4-a284-df2460a43016
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: 4d4c12e9f9a33760a89460258c3802fcf3a4e22b
 workflow-type: tm+mt
-source-wordcount: '580'
+source-wordcount: '576'
 ht-degree: 0%
 
 ---
@@ -38,7 +38,7 @@ Wenn Sie sich nicht sicher sind, ob [!DNL tracking server forwarding] für Sie a
 
 ## [!UICONTROL Report Suite]-Ebene [!UICONTROL Server-Side Forwarding] {#report-suite-level-server-side-forwarding}
 
-Einer der größten Vorteile beim Wechsel zur [!UICONTROL report suite]-Weiterleitung von der [!UICONTROL tracking server]-Weiterleitung besteht darin, dass Sie jetzt &quot;Audience Analytics&quot;verwenden können. Dies ist die Möglichkeit, Audience Manager [!UICONTROL segments] zur detaillierten [!UICONTROL segment]-Analyse zurück an Adobe Analytics zu leiten. Diese großartige Funktion wird NICHT unterstützt, wenn Sie noch mit der [!UICONTROL tracking server]-Weiterleitung und nicht mit der [!UICONTROL report suite] Weiterleitung arbeiten. Weitere Informationen zum Audience Analytics finden Sie in der [Dokumentation](https://marketing.adobe.com/resources/help/en_US/analytics/audiences/).
+Einer der größten Vorteile beim Wechsel zur [!UICONTROL report suite]-Weiterleitung von der [!UICONTROL tracking server]-Weiterleitung besteht darin, dass Sie jetzt &quot;Audience Analytics&quot;verwenden können. Dies ist die Möglichkeit, Audience Manager [!UICONTROL segments] zur detaillierten [!UICONTROL segment]-Analyse zurück an Adobe Analytics zu leiten. Diese großartige Funktion wird NICHT unterstützt, wenn Sie noch mit der [!UICONTROL tracking server]-Weiterleitung und nicht mit der [!UICONTROL report suite] Weiterleitung arbeiten. Weitere Informationen zum Audience Analytics finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/23701/?quality=12)
 

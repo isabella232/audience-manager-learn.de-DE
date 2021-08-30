@@ -1,19 +1,16 @@
 ---
 title: Verwenden von Audience Lab zur Auswahl eines DSP
 description: In diesem Video gehen wir durch die Erstellung eines Audience Lab-Tests, sodass Sie A/B-DSP oder andere AAM Ziele testen können, um zu sehen, welche die beste Rendite für Werbeausgaben erzielen.
-feature: 'Audience Lab '
-topics: null
-activity: use
+feature: Audience Lab
 doc-type: feature video
-team: Technical Marketing
 thumbnail: 24923.jpg
 kt: 1552
-role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
+role: User, Admin, Leader
 level: Intermediate
 exl-id: 03e2617c-eea6-4b64-adc0-1ef996d8d3a5
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: 4d4c12e9f9a33760a89460258c3802fcf3a4e22b
 workflow-type: tm+mt
-source-wordcount: '241'
+source-wordcount: '239'
 ht-degree: 0%
 
 ---
@@ -35,4 +32,4 @@ Das Erstellen eines [!UICONTROL Audience Lab]-Tests ist einfach und kann in nur 
 1. Überprüfen Sie die Testzusammenfassung und aktivieren Sie den Test
 1. Wenn der Test abgeschlossen ist, rufen Sie die Ergebnisse auf dem Hauptstartbildschirm von [!UICONTROL Audience Lab] auf.
 
-Weitere Informationen finden Sie in der [Funktionsdokumentation](https://marketing.adobe.com/resources/help/en_US/aam/audience-lab.html).
+Weitere Informationen finden Sie in der [Funktionsdokumentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/audience-lab/audience-lab.html).

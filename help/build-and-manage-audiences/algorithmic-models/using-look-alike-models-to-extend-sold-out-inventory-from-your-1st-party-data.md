@@ -1,7 +1,7 @@
 ---
 title: Verwendung Look-alike-Modelle zum Erweitern des ausverkauften Bestands aus Ihren Erstanbieterdaten
 description: In diesem Tutorial führen wir Sie durch die Schritte, die Sie unternehmen sollten, um Look-alike-Modelle einzurichten und zu verwenden, sodass Sie neue Look-alike-Zielgruppen erstellen und diese als Erweiterung für Ihr Konversionssegment verkaufen können.
-feature: Algorithmische Modelle
+feature: Algorithmic Models
 topics: null
 activity: use
 doc-type: feature video
@@ -11,9 +11,9 @@ kt: 1688
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Intermediate
 exl-id: 6820528e-3211-4a1d-be05-50f1292179d2
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: 4d4c12e9f9a33760a89460258c3802fcf3a4e22b
 workflow-type: tm+mt
-source-wordcount: '827'
+source-wordcount: '822'
 ht-degree: 0%
 
 ---
@@ -44,7 +44,7 @@ Wenn Sie Ereignisse zum Erstellen von [!UICONTROL traits] verwenden, müssen Sie
 
 >[!VIDEO](https://video.tv.adobe.com/v/23431/?quality=12)
 
-**HINWEIS:** Im obigen Video geht das angezeigte Beispiel davon aus, dass Sie über Adobe Analytics verfügen. Das ist offensichtlich nicht der Fall. Wenn Sie Google Analytics (GA) haben, können Sie mit einem Modul Daten an AAM senden (siehe [Dokumentation](https://marketing.adobe.com/resources/help/en_US/aam/dil-google-universal-analytics.html)). Wenn Ihre Konversionsaktivität auf Ihrer Site von GA an AAM gesendet wird, können Sie daraus Ihre Konversionseigenschaft erstellen. Wenn Sie über eine andere Analyselösung (oder keine Analyselösung) verfügen, können Sie weiterhin Daten über unseren DIL-Code und die `submit`-Funktion an AAM senden. (siehe [Dokumentation](https://marketing.adobe.com/resources/help/en_US/aam/c_dil.html)). Erstellen Sie dann erneut die Konversionseigenschaft basierend auf den Daten, die gesendet werden, wenn die Konversionsaktivität auf der Site durchgeführt wird.
+**HINWEIS:** Im obigen Video geht das angezeigte Beispiel davon aus, dass Sie über Adobe Analytics verfügen. Das ist offensichtlich nicht der Fall. Wenn Sie Google Analytics (GA) haben, können Sie mit einem Modul Daten an AAM senden (siehe [Dokumentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-overview.html)). Wenn Ihre Konversionsaktivität auf Ihrer Site von GA an AAM gesendet wird, können Sie daraus Ihre Konversionseigenschaft erstellen. Wenn Sie über eine andere Analyselösung (oder keine Analyselösung) verfügen, können Sie weiterhin Daten über unseren DIL-Code und die `submit`-Funktion an AAM senden. (siehe [Dokumentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-modules.html)). Erstellen Sie dann erneut die Konversionseigenschaft basierend auf den Daten, die gesendet werden, wenn die Konversionsaktivität auf der Site durchgeführt wird.
 
 ## Erstellen eines Look-alike [!UICONTROL Model] aus [!UICONTROL First Party] Daten {#creating-a-look-alike-model-from-first-party-data}
 

@@ -1,7 +1,7 @@
 ---
 title: Videos und Tutorials zur Profilzusammenführung
 description: Dieser Abschnitt enthält Videos und Tutorials zu Profilzusammenführungsfunktionen wie Profilzusammenführungsrichtlinien.
-feature: Profilzusammenführung
+feature: Profile Merge
 topics: null
 activity: understand
 doc-type: feature video
@@ -10,9 +10,9 @@ kt: null
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Intermediate
 exl-id: c3742871-a52c-4de9-9648-bc3afbf19bf5
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: 4d4c12e9f9a33760a89460258c3802fcf3a4e22b
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '136'
 ht-degree: 0%
 
 ---
@@ -34,4 +34,4 @@ Dieser Abschnitt enthält die folgenden Videos für [!UICONTROL Profile Merge Ru
 * [Interpretieren der Audience Identity-Berichterstellung](interpret-audience-identity-reporting.md)
 * [Grundlegendes zu geräteübergreifenden Metriken in Audience Manager](understanding-cross-device-metrics-in-audience-manager.md)
 
-Diese Videos können zusammen mit der [Dokumentation](https://docs.adobe.com/help/en/audience-manager/user-guide/features/profile-merge-rules/merge-rules-overview.html) verwendet werden
+Diese Videos können zusammen mit der [Dokumentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/profile-merge-rules/merge-rules-overview.html) verwendet werden
