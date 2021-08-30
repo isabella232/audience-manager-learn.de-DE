@@ -1,7 +1,7 @@
 ---
 title: Grundlegendes zu Audience Manager-Zieltypen
 description: In diesem Video werden Sie durch die verschiedenen Zieltypen in Adobe Audience Manager geführt und Beispiele dafür gegeben, wann Sie die einzelnen Ziele verwenden würden.
-feature: Zielgrundlagen
+feature: Destination Basics
 topics: null
 activity: understand
 doc-type: presentation
@@ -11,9 +11,9 @@ kt: 4016
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 8e4026fb-6ee7-4f42-afb2-7600c87744d6
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: 086071ab04551c512c5415f091a8054123bc6445
 workflow-type: tm+mt
-source-wordcount: '96'
+source-wordcount: '92'
 ht-degree: 0%
 
 ---
@@ -26,4 +26,4 @@ In diesem Video werden Sie durch die verschiedenen [!UICONTROL destinations]-Typ
 
 Sie können eine Liste der Server-zu-Server [!UICONTROL destination] Partner [HERE](https://docs.adobe.com/help/en/audience-manager/user-guide/overview/gdpr/assets/AAM-Partners-October2019.xlsx) herunterladen.
 
-Weitere Informationen finden Sie in der [Dokumentation](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/destinations/destinations.html).
+Weitere Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/destinations.html).

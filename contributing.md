@@ -1,33 +1,37 @@
 ---
-source-git-commit: db81b5d2dd24476b42fcee6081d4b2736a01c666
+source-git-commit: 086071ab04551c512c5415f091a8054123bc6445
 workflow-type: tm+mt
-translation-type: tm+mt
-source-wordcount: '296'
-ht-degree: 24%
+source-wordcount: '294'
+ht-degree: 22%
 
 ---
-# Beitrag
+# Beitragen
 
-Danke, dass du dich für einen Beitrag entschieden hast!
+Danke, dass du dich entschieden hast, beizutragen!
 
-Im Folgenden sind einige Leitlinien aufgeführt, die bei der Mitarbeit an diesem Projekt befolgt werden müssen.
+Im Folgenden finden Sie eine Reihe von Richtlinien, die bei der Mitarbeit an diesem Projekt befolgt werden müssen.
 
 ## Verhaltenskodex
 
-Dieses Projekt unterliegt dem [Verhaltenskodex](code-of-conduct.md) von Adobe. Durch Ihre Teilnahme wird von Ihnen erwartet, diesen Verhaltenskodex einzuhalten. Please report unacceptable behavior to
+Dieses Projekt unterliegt dem [Verhaltenskodex](code-of-conduct.md) von Adobe. Durch Ihre Teilnahme wird von Ihnen erwartet, diesen Verhaltenskodex einzuhalten. Bitte melden Sie inakzeptables Verhalten an
 [Grp-opensourceoffice@adobe.com](mailto:Grp-opensourceoffice@adobe.com).
 
-## Dokumentation des Mitarbeiter-Handbuchs
+## Dokumentation zum Mitarbeiter-Handbuch
 
-See the [Contributor Guide](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html).
+Siehe [Mitarbeiter-Handbuch](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html).
 
 ## Haben Sie eine Frage?
 
-Beginn durch Einreichen einer Ausgabe. Die vorhandenen Committer an diesem Projekt arbeiten daran, einen Konsens über die Projektrichtung und Problemlösungen innerhalb von Problemfäden zu erreichen (sofern zutreffend).
+Melden Sie zunächst ein Problem. Die bestehenden Projektverantwortlichen arbeiten daran,
+Konsens über die Projektausrichtung und Problemlösungen innerhalb von Problem-Threads
+(gegebenenfalls).
 
-## Mitarbeiter-Lizenzvereinbarung
+## Lizenzvereinbarung für Mitwirkende
 
-Alle Beiträge Dritter zu diesem Projekt müssen mit einer unterzeichneten Lizenzvereinbarung einhergehen. Dadurch erhält Adobe die Erlaubnis, Ihre Beiträge im Rahmen des Projekts zu veröffentlichen. [Unterschreiben Sie unsere CLA](http://opensource.adobe.com/cla.html). Sie müssen nur einmal eine Adobe-CLA einreichen. Wenn Sie also bereits eine einreichen, können Sie einfach loslegen!
+Alle Drittanbieter-Beiträge zu diesem Projekt müssen von einem unterzeichneten Beitragenden begleitet werden
+Lizenzvereinbarung. Dadurch erhält Adobe die Erlaubnis, Ihre Beiträge im Rahmen des Projekts zu veröffentlichen. [Unterschreiben Sie unsere Lizenzvereinbarung für Mitarbeiter](http://opensource.adobe.com/cla.html). You
+müssen nur einmal eine Adobe-CLA übermitteln. Wenn Sie also bereits eine übermittelt haben,
+Du kannst gehen!
 
 ## Codeüberprüfungen
 
@@ -38,10 +42,15 @@ Lastly, please follow the [pull request template](PULL_REQUEST_TEMPLATE.md) when
 submitting a pull request!
 -->
 
-## Von &quot;Mitarbeiter&quot;zu &quot;Ausschuss&quot;
+## Vom Mitarbeiter zum Verantwortlichen
 
-Wir lieben Beiträge von unserer Community! Wenn Sie einen Schritt weiter gehen möchten als Mitarbeiter und ein Committer mit vollem Schreibzugriff und Mitspracherecht im Projekt werden möchten, müssen Sie zum Projekt eingeladen werden. Die bestehenden Committer setzen einen internen Nominierungsprozess ein, der zu einem faulen Konsens führen muss (Schweigen ist Zustimmung), bevor Einladungen veröffentlicht werden. Wenn Sie das Gefühl haben, dass Sie qualifiziert sind und stärker involviert sein möchten, können Sie sich jederzeit an bestehende Committer wenden, um darüber zu sprechen.
+Wir lieben Beiträge von unserer Community! Wenn Sie einen Schritt weiter gehen möchten
+und ein Committer mit vollem Schreibzugriff und Mitsprache im Projekt werden, müssen Sie
+zu dem Projekt eingeladen werden. Die vorhandenen Projektverantwortlichen verwenden eine interne Nominierung
+Prozess, der vor einer Einladung einen verzögerten Konsens erreichen muss (Schweigen bedeutet Zustimmung)
+ausgestellt werden. Wenn Sie glauben, dass Sie qualifiziert sind und stärker involviert werden möchten,
+Sie können sich gerne an bestehende Projektverantwortliche wenden, um sich darüber zu unterhalten.
 
 ## Sicherheitsprobleme
 
-Sicherheitsprobleme sollten bei diesem Problem-Tracker nicht gemeldet werden. Stattdessen [stellen Sie ein Problem bei unseren Sicherheitsexperten ein](https://helpx.adobe.com/security/alertus.html)
+Sicherheitsprobleme sollten nicht über diesen Problem-Tracker gemeldet werden. Melden Sie stattdessen [unseren Sicherheitsexperten ein Problem](https://helpx.adobe.com/security/alertus.html).
