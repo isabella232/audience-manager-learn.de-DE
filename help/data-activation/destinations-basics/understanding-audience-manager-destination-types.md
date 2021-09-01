@@ -8,9 +8,9 @@ kt: 4016
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 8e4026fb-6ee7-4f42-afb2-7600c87744d6
-source-git-commit: 4d4c12e9f9a33760a89460258c3802fcf3a4e22b
+source-git-commit: a2bf5c6bdc7611cd6bc5d807e60ac6aa22d5c176
 workflow-type: tm+mt
-source-wordcount: '91'
+source-wordcount: '100'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,6 @@ In diesem Video werden Sie durch die verschiedenen [!UICONTROL destinations]-Typ
 
 >[!VIDEO](https://video.tv.adobe.com/v/29839/?quality=12)
 
-Sie können eine Liste der Server-zu-Server [!UICONTROL destination] Partner [HERE](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/gdpr/assets/AAM-Partners-October2019.xlsx) herunterladen.
+Eine Liste der verfügbaren Server-zu-Server-Zielpartner finden Sie in der [Dokumentation zu gerätebasierten Audience Managern](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/device-based/device-based-destinations-list.html).
 
-Weitere Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/destinations.html).
+Weitere Informationen zu Zielen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/destinations.html).
