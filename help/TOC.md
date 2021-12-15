@@ -3,7 +3,8 @@ user-guide-title: Adobe Audience Manager-Tutorials
 user-guide-description: Eine Sammlung von Videos und Tutorials für Adobe Analytics.
 breadcrumb-title: Audience Manager-Tutorials
 solution: Audience Manager
-source-git-commit: 4062fdad47ca68002e901cbc54fd4a79a70e645f
+type: Tutorial
+source-git-commit: 232402478860d25b701c35c6ce710f4cbba6143d
 workflow-type: tm+mt
 source-wordcount: '970'
 ht-degree: 4%
@@ -51,7 +52,7 @@ ht-degree: 4%
    + [Implementieren von Audience Manager mit Tag-Managern](web-implementation/using-tag-managers-to-implement-audience-manager.md)
    + [Identifizieren Ihrer Partner-ID oder Subdomäne](web-implementation/how-to-identify-your-partner-id-or-subdomain.md)
    + [Best Practices für SPA](web-implementation/using-best-practices-on-spa-pages-when-sending-data-to-aam.md)
-+ Integrieren von Offline-Daten {#integrating-offline-data}
++ Integration von Offline-Daten {#integrating-offline-data}
    + [Formatieren und Erfassen dateibasierter Daten](integrating-offline-data/formatting-and-ingesting-file-based-data.md)
    + [Schritte zum Erfassen dateibasierter Daten](integrating-offline-data/steps-for-ingesting-file-based-data.md)
 + Mobile Implementierung {#mobile-implementation}
@@ -59,7 +60,7 @@ ht-degree: 4%
    + [Implementieren in iOS Objective-C-Apps](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html?lang=en)
    + [Implementieren in Android-Apps](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-android-apps-with-launch/index.html?lang=en)
 + Audience Marketplace {#audience-marketplace}
-   + Kaufen von Daten {#buying-data}
+   + Datenkauf {#buying-data}
       + [Berichterstellung zur Datennutzung von Zweit- und Drittanbietern in Audience Marketplace auf Segmentebene](audience-marketplace/buying-data/reporting-2nd-and-3rd-party-data-usage-in-the-audience-marketplace-at-the-segment-level.md)
       + [Massen-Upload der Datenverwendung in Audience Marketplace](audience-marketplace/buying-data/bulk-uploading-data-usage-into-the-audience-marketplace.md)
       + [Verwenden von Filtern und Recommendations zur Auswahl von Drittanbieterdaten in Audience Marketplace](audience-marketplace/buying-data/using-filters-and-recommendations-to-choose-3rd-party-data-in-audience-marketplace.md)
@@ -101,8 +102,8 @@ ht-degree: 4%
       + [Zahlen im Segmentdiagramm verstehen](build-and-manage-audiences/traits-and-segments/understanding-numbers-in-the-segment-graph.md)
       + [Kundentipps - Best Practices für Eigenschaften und Segmente](build-and-manage-audiences/traits-and-segments/customer-tips-traits-and-segments-best-practices.md)
    + Algorithmische Modelle {#algorithmic-models}
-      + [Grundlagen zu [!UICONTROL Predictive Audiences]](build-and-manage-audiences/algorithmic-models/understanding-predictive-audiences.md)
-      + [Konfigurieren und Berichten für [!UICONTROL Predictive Audiences]](build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.md)
+      + [Grundlagen [!UICONTROL Predictive Audiences]](build-and-manage-audiences/algorithmic-models/understanding-predictive-audiences.md)
+      + [Konfigurieren und Berichte zu [!UICONTROL Predictive Audiences]](build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.md)
       + [Erstellen eines Look-alike-Modells eines Erstanbieters](build-and-manage-audiences/algorithmic-models/creating-a-first-party-look-alike-model.md)
       + [Ausschließen von Eigenschaften in algorithmischen (Look-alike) Modellen](build-and-manage-audiences/algorithmic-models/excluding-traits-in-algorithmic-look-alike-models.md)
       + [ROAS durch Verwendung algorithmischer (Look-alike) Modelle erhöhen](build-and-manage-audiences/algorithmic-models/increase-roas-by-using-algorithmic-look-alike-models.md)
@@ -147,8 +148,8 @@ ht-degree: 4%
    + [Verwenden von Trendberichten mit Eigenschaften und Segmenten](reports/using-trended-reports-with-traits-and-segments.md)
    + [Verstehen verwandter Zielgruppen mit Überlagerungsberichten](reports/understand-related-audiences-with-overlap-reports.md)
    + [Verwenden von Audience Optimization-Berichten zum Verständnis der Medienleistung](reports/using-audience-optimization-reports-to-understand-media-performance.md)
-+ Sonstige Integrationen {#other-integrations}
-   + Integration mit der Echtzeit-Kundendatenplattform {#integrating-with-rtcdp}
++ Andere Integrationen {#other-integrations}
+   + Integration mit Real-time Customer Data Platform {#integrating-with-rtcdp}
       + [Daten mithilfe des Adobe Audience Manager Data Connectors erfassen](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-aam.html?lang=en#sources)
       + [Informationen zur Datenerfassung von Erstanbietern in der Echtzeit-Kundendatenplattform](other-integrations/integrating-with-rtcdp/rtcdp-1pd-ingestion-for-aam-users.md)
       + [Erläuterungen zur Web-Datenerfassung in der Echtzeit-Kundendatenplattform](other-integrations/integrating-with-rtcdp/rtcdp-web-ingestion-for-aam-users.md)
