@@ -1,7 +1,7 @@
 ---
-title: IP-Verschleierung nach Land im Audience Manager
-description: Audience Manager bietet Self-Service-Funktionen in der Benutzeroberfläche, mit denen Kunden die IP-Verschleierung global oder landesweit aktivieren können. Dieses Video führt Sie durch die Einrichtung.
-feature: '"Data Governance und Datenschutz"'
+title: IP-Verschleierung nach Land
+description: Erfahren Sie mehr über die IP-Verschleierung nach Land in Audience Manager. Diese Anwendung bietet Self-Service-Funktionen in der Benutzeroberfläche, mit denen Kunden die IP-Verschleierung global oder landesweit aktivieren können. Dieses Video führt Sie durch die Einrichtung.
+feature: Data Governance & Privacy
 topics: null
 activity: use
 doc-type: feature video
@@ -10,9 +10,9 @@ kt: 2866
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Intermediate
 exl-id: 103643ff-c006-4111-b469-901271faaf9d
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: 62b43b5627dabf754cf821f974a56c60989ef7ef
 workflow-type: tm+mt
-source-wordcount: '89'
+source-wordcount: '92'
 ht-degree: 0%
 
 ---
@@ -23,4 +23,4 @@ Audience Manager bietet Self-Service-Funktionen in der Benutzeroberfläche, mit 
 
 >[!VIDEO](https://video.tv.adobe.com/v/27218/?quality=9)
 
-Weitere Informationen zu dieser Funktion finden Sie in der [Dokumentation](https://experiencecloud.adobe.com/resources/help/en_US/aam/ip-obfuscation.html).
+Weitere Informationen zu dieser Funktion finden Sie unter [Dokumentation](https://experiencecloud.adobe.com/resources/help/en_US/aam/ip-obfuscation.html).

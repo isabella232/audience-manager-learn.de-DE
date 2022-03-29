@@ -1,6 +1,6 @@
 ---
-title: Audience Identity Berichte
-description: Audience Identity Berichte bietet Kunden die Möglichkeit, über die Gesamtpopulation einer Eigenschaft oder eines Segments nach Personalien/Haushaltsdefinitionen zu berichten. Sehen Sie sich dieses Video an, um zu sehen, wie es in den Berichten zu Audience Managern angezeigt wird.
+title: Berichte zur Zielgruppenidentität
+description: Erfahren Sie mehr über die Berichte zur Zielgruppenidentität. Mit dieser Art der Berichterstellung in Audience Manager können Sie Berichte zur Gesamtpopulation einer Eigenschaft oder eines Segments nach Personen- oder Haushaltsdefinitionen erstellen.
 feature: profile merge
 topics: null
 audience: marketer
@@ -9,17 +9,16 @@ doc-type: feature video
 team: Technical Marketing
 thumbnail: 27977.jpg
 kt: 3202
-translation-type: tm+mt
-source-git-commit: ba76f9437e5d8f0495e4f2dfafb90cbf2da6454f
+source-git-commit: 124f03208f2b4e3b109b3f02a2d3d59210da5cc7
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 1%
+source-wordcount: '77'
+ht-degree: 0%
 
 ---
 
 
-# [!DNL Audience Identity] Berichterstellung
+# Berichte zur Zielgruppenidentität
 
-[!DNL Audience Identity] Berichte bietet Kunden die Möglichkeit, über die Gesamtpopulation einer Person  [!UICONTROL trait] oder  [!UICONTROL segment] nach Identitätsdefinitionen für Personen/Haushalte zu berichten. Sehen Sie sich dieses Video an, um zu sehen, wie es in den Berichten zu Audience Managern angezeigt wird.
+Die Berichte zur Zielgruppenidentität bieten Kunden die Möglichkeit, Berichte zur Gesamtpopulation einer Eigenschaft oder eines Segments nach Personen-/Haushaltsdefinitionen der Identität zu erstellen. Sehen Sie sich dieses Video an, um zu sehen, wie es in den Berichten zu Audience Managern angezeigt wird.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27977/?quality=12)

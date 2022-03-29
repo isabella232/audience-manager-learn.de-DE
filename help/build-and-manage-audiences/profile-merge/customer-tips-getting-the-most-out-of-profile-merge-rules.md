@@ -1,7 +1,7 @@
 ---
 title: Kundentipps - Optimale Nutzung der Regeln zur Profilzusammenführung
 description: Varun Kalra, Multi-Solution Consultant bei entsprechenden, gibt Tipps zur Auswahl und Verwendung von Profil Merge Rules (PMRs).
-feature: Profilzusammenführung
+feature: Profile Merge
 topics: null
 activity: use
 doc-type: article
@@ -11,16 +11,16 @@ kt: 6049
 role: User
 level: Beginner
 exl-id: 8aa800af-64c0-43e0-b05d-dbb4f4b0d05b
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: 124f03208f2b4e3b109b3f02a2d3d59210da5cc7
 workflow-type: tm+mt
-source-wordcount: '126'
+source-wordcount: '124'
 ht-degree: 0%
 
 ---
 
 # Kundentipps - Optimale Nutzung der Regeln zur Profilzusammenführung
 
-**Varun Kalra**, Multi-Solution Consultant bei  **Agreement**, gibt Tipps zur Auswahl und Verwendung von Profil Merge Rules (PMRs).
+**Varun Kalra**, Multi-Solution Consultant bei **Zugehöriger** gibt Tipps zur Auswahl und Verwendung von Profilzusammenführungsrichtlinien (PMRs).
 
 Varun Kalra ist ein Berater mit mehreren Lösungen, der in einem Sydney-basierten Lösungspartner für Adoben arbeitet. Varun arbeitet hauptsächlich an Audience Manager-, Adobe Analytics- und AEP-Projekten, die die Ermittlung, Implementierung, Unterstützung und Aktivierung von Daten beinhalten. Tipps enthalten Themen wie:
 

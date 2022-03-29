@@ -1,8 +1,8 @@
 ---
 title: Grundlegende Begriffe und Konzepte in Audience Manager
-description: In diesem Video werden wir über einige der grundlegenden Begriffe und Konzepte sprechen, auf die Sie im Audience Manager treffen werden, darunter Signale, Eigenschaften, Segmente usw.
-landing-page-description: Lernen Sie die grundlegende Begriffe und Konzepte kennen, die Ihnen den Einstieg in Audience Manager erleichtern, einschließlich Signalen, Eigenschaften und Segmenten.
-feature: Überblick
+description: In diesem Support-Video erfahren Sie grundlegende Begriffe und Konzepte zu den ersten Schritten mit Adobe Audience Manager - einschließlich Signalen, Eigenschaften, Segmenten und mehr.
+landing-page-description: In diesem Support-Video erfahren Sie grundlegende Begriffe und Konzepte zu den ersten Schritten mit Adobe Audience Manager - einschließlich Signalen, Eigenschaften, Segmenten und mehr.
+feature: Overview
 topics: null
 activity: understand
 doc-type: feature video
@@ -12,10 +12,10 @@ thumbnail: 33887.jpg
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 9721e178-b92d-427b-8621-9ca1958d934c
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: d4874d9f6d7a36bb81ac183eb8b853d893822ae0
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 82%
+source-wordcount: '87'
+ht-degree: 31%
 
 ---
 

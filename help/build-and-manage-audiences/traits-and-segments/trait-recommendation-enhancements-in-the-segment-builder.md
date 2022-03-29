@@ -1,8 +1,7 @@
 ---
-title: Verbesserungen der Eigenschaftsempfehlung im Segment Builder
-description: In diesem Video erfahren Sie, wie Sie die aktualisierten Eigenschaftsempfehlungen im Segment Builder verwenden, bei denen es sich um Audience Marketplace-Empfehlungen handelt. Diese geben Ihnen zusätzliche Einblicke in Daten von Drittanbietern, die die Reichweite Ihrer Segmente erweitern können.
+title: Verbesserungen der Eigenschaftsempfehlung bei der Segmentierung
+description: In diesem Video erfahren Sie, wie Sie die aktualisierten Eigenschaftsempfehlungen in Segmenten verwenden, bei denen es sich um Audience Marketplace-Empfehlungen handelt. Erhalten Sie zusätzliche Einblicke in Daten von Drittanbietern, die die Reichweite Ihrer Segmente erweitern können.
 feature: Segments
-topics: null
 activity: setup
 doc-type: feature video
 team: Technical Marketing
@@ -11,17 +10,17 @@ kt: 3937
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 4c792492-48f4-4a3d-8e83-f4eccd270629
-source-git-commit: 4d4c12e9f9a33760a89460258c3802fcf3a4e22b
+source-git-commit: 124f03208f2b4e3b109b3f02a2d3d59210da5cc7
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: '87'
 ht-degree: 0%
 
 ---
 
-# [!DNL Trait Recommendation] Verbesserungen in der  [!DNL Segment Builder]
+# [!DNL Trait Recommendation] Verbesserungen bei der Segmentierung
 
-In diesem Video erfahren Sie, wie Sie die aktualisierte [!DNL trait recommendations] in der [!DNL segment builder] verwenden, die Audience Marketplace-Empfehlungen sind. Diese geben Ihnen zusätzliche Einblicke in [!DNL third party] Daten, die die Reichweite Ihrer [!UICONTROL segments] erweitern können.
+In diesem Video erfahren Sie, wie Sie die aktualisierten Eigenschaftsempfehlungen in [!UICONTROL Segments], die [!UICONTROL Audience Marketplace] Empfehlungen. Diese geben Ihnen zusätzliche Einblicke in Daten von Drittanbietern, die die Reichweite Ihrer Segmente erweitern können.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29363/?quality=12)
 
-Weitere Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/trait-recommendations.html).
+Weitere Informationen finden Sie unter [Dokumentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/trait-recommendations.html).

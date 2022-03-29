@@ -1,7 +1,7 @@
 ---
-title: Auswählen einer Datenquelle beim Erstellen eines Segments
+title: Datenquelle beim Erstellen eines Segments auswählen
 description: Hier finden Sie Tipps zur Auswahl der richtigen Datenquelle, wenn Sie ein neues Segment in Audience Manager erstellen.
-feature: 'Segmente '
+feature: Segments
 topics: null
 activity: use
 doc-type: feature video
@@ -11,14 +11,14 @@ kt: 6055
 role: User
 level: Beginner
 exl-id: 54ae8aad-dec6-4c38-bb9c-091ac7f7060f
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: 7c0d2c510851c3bae949b62dfa361d85f27e682e
 workflow-type: tm+mt
-source-wordcount: '55'
-ht-degree: 1%
+source-wordcount: '54'
+ht-degree: 0%
 
 ---
 
-# Auswählen einer Datenquelle beim Erstellen eines Segments
+# Datenquelle beim Erstellen eines Segments auswählen
 
 Hier finden Sie Tipps zur Auswahl der richtigen Datenquelle, wenn Sie ein neues Segment in Audience Manager erstellen.
 

@@ -1,8 +1,7 @@
 ---
-title: Erstellen von Segmenten für benutzerbasierte Ziele in Adobe Audience Manager
+title: Segmente für benutzerbasierte Ziele erstellen
 description: Dieses Video führt Sie durch die Erstellung eines Segments in Audience Manager, das für personenbasierte Ziele verwendet werden soll.
-feature: '"Benutzerbasierte Ziele"'
-topics: null
+feature: People-based Destinations
 activity: setup
 doc-type: feature video
 team: Technical Marketing
@@ -11,15 +10,15 @@ kt: 3690
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 3e0d9a37-9677-4e4a-8ae6-c5a54ae99601
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: 62b43b5627dabf754cf821f974a56c60989ef7ef
 workflow-type: tm+mt
-source-wordcount: '49'
+source-wordcount: '48'
 ht-degree: 0%
 
 ---
 
-# Erstellen von Segmenten für [!UICONTROL People-Based Destinations]
+# Segmente für benutzerbasierte Ziele erstellen
 
-Dieses Video führt Sie durch die Erstellung eines [!UICONTROL segment] im Audience Manager, der für [!UICONTROL People-Based Destinations] verwendet werden soll.
+Dieses Video führt Sie durch die Erstellung eines Segments in Audience Manager, das für personenbasierte Ziele verwendet werden soll.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29236/?quality=12)

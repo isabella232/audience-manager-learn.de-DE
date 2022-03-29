@@ -1,7 +1,7 @@
 ---
 title: Interpretieren der Audience Identity-Berichterstellung
-description: Mit Audience Identity Reporting können Kunden Berichte zur Gesamtpopulation einer Eigenschaft oder eines Segments nach Personen-/Haushaltsdefinitionen der Identität erstellen. Sehen Sie sich dieses Video an, um zu sehen, wie es in den Berichten zu Audience Managern angezeigt wird.
-feature: Profilzusammenführung
+description: Die Berichte zur Zielgruppenidentität bieten Kunden die Möglichkeit, Berichte zur Gesamtpopulation einer Eigenschaft oder eines Segments nach Personen-/Haushaltsdefinitionen der Identität zu erstellen. Sehen Sie sich dieses Video an, um zu sehen, wie es in den Berichten zu Audience Managern angezeigt wird.
+feature: Profile Merge
 topics: null
 activity: use
 doc-type: feature video
@@ -11,15 +11,15 @@ kt: 3694
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Intermediate
 exl-id: 90183636-e205-420b-bbcf-899a779f53a7
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: 124f03208f2b4e3b109b3f02a2d3d59210da5cc7
 workflow-type: tm+mt
-source-wordcount: '80'
+source-wordcount: '86'
 ht-degree: 0%
 
 ---
 
-# Interpretieren von [!DNL Audience Identity Reporting]
+# Interpretieren von Berichten zur Zielgruppenidentität
 
-[!DNL Audience Identity Reporting] bietet Kunden die Möglichkeit, Berichte über die Gesamtpopulation einer  [!UICONTROL trait] oder  [!UICONTROL segment] nach Personen-/Haushaltsdefinitionen der Identität zu erstellen. Sehen Sie sich dieses Video an, um zu sehen, wie es in den Berichten zu Audience Managern angezeigt wird.
+Die Berichte zur Zielgruppenidentität bieten Kunden die Möglichkeit, Berichte zur Gesamtpopulation einer Eigenschaft oder eines Segments nach Personen-/Haushaltsdefinitionen der Identität zu erstellen. Sehen Sie sich dieses Video an, um zu sehen, wie es in den Berichten zu Audience Managern angezeigt wird.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28973/?quality=12)

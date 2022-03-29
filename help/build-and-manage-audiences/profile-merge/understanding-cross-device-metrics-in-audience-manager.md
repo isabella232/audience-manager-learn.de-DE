@@ -1,7 +1,7 @@
 ---
-title: Grundlegendes zu geräteübergreifenden Metriken in Audience Manager
-description: In diesem Video besprechen wir den Unterschied zwischen Geräteprofilen und geräteübergreifenden Profilen und zeigen, wo die Zahlen in der Benutzeroberfläche mit diesen verschiedenen Profiltypen übereinstimmen.
-feature: Profilzusammenführung
+title: Geräteübergreifende Metriken in Audience Manager
+description: Erfahren Sie mehr über den Unterschied zwischen Geräteprofilen und geräteübergreifenden Profilen und darüber, wo die Zahlen in der Benutzeroberfläche mit diesen verschiedenen Profiltypen übereinstimmen.
+feature: Profile Merge
 topics: null
 activity: use
 doc-type: feature video
@@ -11,15 +11,15 @@ kt: 4876
 role: Admin
 level: Intermediate
 exl-id: 1075c33c-e230-456d-9ec7-70d8ad65f44b
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: 124f03208f2b4e3b109b3f02a2d3d59210da5cc7
 workflow-type: tm+mt
-source-wordcount: '70'
+source-wordcount: '64'
 ht-degree: 0%
 
 ---
 
 # Grundlegendes zu geräteübergreifenden Metriken in Audience Manager
 
-In diesem Video besprechen wir den Unterschied zwischen Geräteprofilen und geräteübergreifenden Profilen und zeigen, wo die Zahlen in der Benutzeroberfläche mit diesen verschiedenen Profiltypen übereinstimmen.
+In diesem Video erfahren Sie mehr über den Unterschied zwischen Geräteprofilen und geräteübergreifenden Profilen und darüber, wo die Zahlen in der Benutzeroberfläche mit diesen verschiedenen Profiltypen übereinstimmen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33445/?quality=12)

@@ -1,7 +1,7 @@
 ---
-title: Erstellen regelbasierter Eigenschaften
+title: Regelbasierte Eigenschaft erstellen
 description: Erfahren Sie, wie Sie mit Trait Builder in der Audience Manager-Benutzeroberfläche eine regelbasierte Eigenschaft erstellen können, mit der Sie Echtzeit-Aktivitäten in Audience Manager-Profilen erfassen können.
-feature: 'Eigenschaften '
+feature: Traits
 topics: null
 activity: use
 doc-type: feature video
@@ -11,15 +11,15 @@ kt: 5290
 role: User
 level: Beginner
 exl-id: 11f303c3-8ce1-4ab7-a621-5b42d475b234
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: ea8ff5de0157659fa91341c4a4aa49de6f397192
 workflow-type: tm+mt
-source-wordcount: '59'
-ht-degree: 1%
+source-wordcount: '60'
+ht-degree: 0%
 
 ---
 
-# Erstellen regelbasierter Eigenschaften
+# Regelbasierte Eigenschaft erstellen
 
-Erfahren Sie, wie Sie mit [!UICONTROL Trait Builder] in der Audience Manager-Benutzeroberfläche eine regelbasierte Eigenschaft erstellen können, mit der Sie Echtzeit-Aktivitäten in Audience Manager-Profilen erfassen können.
+Erfahren Sie, wie Sie die [!UICONTROL Trait Builder] in der Audience Manager-Benutzeroberfläche, um eine regelbasierte Eigenschaft zu erstellen, mit der Sie Echtzeit-Aktivitäten in Audience Manager-Profilen erfassen können.
 
 >[!VIDEO](https://video.tv.adobe.com/v/34749/?quality=12&learn=on)

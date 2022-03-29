@@ -1,7 +1,7 @@
 ---
-title: Verbessern Ihrer AAM Segmente mit Trait Recommendations
-description: Wenn Sie in Trait Recommendations in Segment Builder ein Segment erstellen oder bearbeiten, erhalten Sie Empfehlungen zu zusätzlichen Merkmalen, die Sie einschließen können. Diese sind vergleichbar mit den Merkmalen in der Segmentregel.
-feature: 'Segmente '
+title: Segmente mit Trait Recommendations verbessern
+description: Wenn Sie Trait Recommendations in   ein Segment erstellen oder bearbeiten, erhalten Sie Empfehlungen zu zusätzlichen Merkmalen, die Sie einschließen können. Diese sind vergleichbar mit den Merkmalen in der Segmentregel.
+feature: Segments
 topics: null
 activity: use
 doc-type: feature video
@@ -11,18 +11,19 @@ kt: 2431
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 2d1b66fc-0091-44d1-970a-f30d6d5cca4c
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: e5c694156ce6196b312fc54ae59755bac07ea676
 workflow-type: tm+mt
-source-wordcount: '103'
-ht-degree: 32%
+source-wordcount: '104'
+ht-degree: 27%
 
 ---
 
-# Verbessern Ihrer AAM [!UICONTROL Segments] durch [!DNL Trait Recommendations] {#enhancing-your-aam-segments-with-trait-recommendations}
+# Verbessern Ihrer Segmente mit [!UICONTROL Trait Recommendations] {#enhancing-your-aam-segments-with-trait-recommendations}
 
-Bei [!DNL Trait Recommendations] erhalten Sie beim Erstellen oder Bearbeiten eines [!UICONTROL segment] in [!DNL Segment Builder] Empfehlungen zu zusätzlichen [!UICONTROL traits], die Sie einbeziehen können, die der [!UICONTROL traits] -Regel in der [!UICONTROL segment] -Regel ähnlich sind.
+Mit [!UICONTROL Trait Recommendations], wenn Sie ein Segment in [!UICONTROL Segments]erhalten Sie Empfehlungen zu zusätzlichen Eigenschaften, die Sie einbeziehen können, die den Eigenschaften in der Segmentregel ähnlich sind.
 
 >[!VIDEO](https://video.tv.adobe.com/v/26228/?quality=12)
 
-[!DNL Trait Recommendations] sowohl an  [!UICONTROL first party] den  [!UICONTROL third party] Daten als auch zu bearbeiten, sodass Sie zusätzliche empfohlene Daten hinzufügen  [!UICONTROL traits] und Ihre Zielgruppe vergrößern können.\
-Weitere Informationen zu dieser Funktion finden Sie in der [Dokumentation](https://experiencecloud.adobe.com/resources/help/en_US/aam/trait-recommendations.html).
+[!UICONTROL Trait Recommendations] Arbeiten an Erstanbieter- und Drittanbieterdaten, sodass Sie zusätzliche empfohlene [!UICONTROL Traits] und erhöhen Sie Ihre Zielgruppe.
+
+Weitere Informationen zu dieser Funktion finden Sie unter [Dokumentation](https://experiencecloud.adobe.com/resources/help/en_US/aam/trait-recommendations.html).

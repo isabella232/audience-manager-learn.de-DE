@@ -1,7 +1,7 @@
 ---
-title: Konfigurieren des Ablaufs einer Eigenschaft mit der Einstellung "Time to Live (TTL)"
-description: Eine der Einstellungen beim Erstellen von Eigenschaften ist die Einstellung "TTL"oder "Time to Live", die einen Ablauf der Mitgliedschaft in der Eigenschaft darstellt, wenn Sie sich nicht innerhalb des festgelegten Zeitraums anmelden. In diesem Video wird gezeigt, wie diese Funktion angezeigt und festgelegt wird.
-feature: 'Eigenschaften '
+title: Konfigurieren des Ablaufs von Eigenschaften mit [!UICONTROL Time-to-Live] (TTL)
+description: 'Erfahren Sie, wie Sie [!UICONTROL Time to Live] (TTL) in Audience Manager. Verwenden Sie diese Einstellung beim Erstellen von Eigenschaften, die einen Ablauf der Mitgliedschaft in der Eigenschaft festlegt, wenn ein Benutzer sich nicht innerhalb des festgelegten Zeitraums erneut qualifiziert. '
+feature: Traits
 topics: null
 activity: use
 doc-type: feature video
@@ -11,15 +11,15 @@ kt: 6782
 role: User
 level: Beginner
 exl-id: 7190963c-9731-4ee2-b312-949d3f42f0b3
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: 124f03208f2b4e3b109b3f02a2d3d59210da5cc7
 workflow-type: tm+mt
-source-wordcount: '106'
+source-wordcount: '87'
 ht-degree: 0%
 
 ---
 
-# Konfigurieren des Ablaufs einer Eigenschaft mit der Einstellung &quot;Time to Live (TTL)&quot;
+# Konfigurieren des Ablaufs von Eigenschaften mit [!UICONTROL Time-to-Live] (TTL)
 
-Eine der Einstellungen beim Erstellen von Eigenschaften ist die Einstellung &quot;TTL&quot;oder [!UICONTROL Time to Live]. Dies ist ein Ablauf der Mitgliedschaft in der Eigenschaft, wenn Sie sich nicht innerhalb des angegebenen Zeitraums erneut qualifizieren. In diesem Video wird gezeigt, wie diese Funktion angezeigt und festgelegt wird.
+Eine der Einstellungen beim Erstellen von Eigenschaften ist die [!UICONTROL Time to Live] (TTL)-Einstellung, bei der es sich um einen Ablauf der Mitgliedschaft in der Eigenschaft handelt, wenn Sie sich nicht innerhalb des angegebenen Zeitraums erneut qualifizieren. In diesem Video wird gezeigt, wie diese Funktion angezeigt und festgelegt wird.
 
 >[!VIDEO](https://video.tv.adobe.com/v/329381/?quality=12&learn=on)

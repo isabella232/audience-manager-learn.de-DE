@@ -1,7 +1,7 @@
 ---
-title: Implementieren von Audience Manager mit Tag-Managern
-description: In diesem Video lernen Sie die Grundlagen der Implementierung von Adobe Audience Manager bei der Verwendung einer Tag-Management-Lösung kennen.
-feature: Implementierungsgrundlagen
+title: Verwenden von Tag-Managern zur Implementierung von Audience Manager
+description: Erfahren Sie mehr über die Grundlagen der Implementierung von Adobe Audience Manager bei der Verwendung einer Tag-Management-Lösung.
+feature: Implementation Basics
 topics: null
 activity: implement
 doc-type: technical video
@@ -10,22 +10,22 @@ kt: 4051
 role: Developer, Data Engineer
 level: Intermediate
 exl-id: 8559ff60-0755-4cbb-9f2c-d06ab37a64a4
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: d4874d9f6d7a36bb81ac183eb8b853d893822ae0
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '96'
 ht-degree: 0%
 
 ---
 
-# Implementieren von Audience Manager mit Tag-Managern
+# Verwenden von Tag-Managern zur Implementierung von Audience Manager
 
-In diesem Video lernen Sie die Grundlagen der Implementierung von Adobe Audience Manager bei der Verwendung einer Tag-Management-Lösung kennen.
+In diesem Video erfahren Sie mehr über die Grundlagen der Implementierung von Adobe Audience Manager bei der Verwendung einer Tag-Management-Lösung.
 
 Folgende Anwendungsfälle werden hervorgehoben:
 
-* Implementieren über Adobe Experience Platform Launch, wenn Sie auch Adobe Analytics verwenden
-* Implementieren über Adobe Experience Platform Launch, wenn Sie NICHT Adobe Analytics verwenden
+* Implementieren über Adobe Experience Platform-Tags (früher Launch) bei der Verwendung von Adobe Analytics
+* Implementieren über Adobe Experience Platform-Tags bei Nichtverwendung von Adobe Analytics
 * Implementieren über einen Tag-Manager ohne Adobe bei der Verwendung von Adobe Analytics
-* Implementieren über einen Tag-Manager ohne Adobe, wenn Sie NICHT Adobe Analytics verwenden
+* Implementieren über einen Tag-Manager ohne Adobe, wenn Adobe Analytics nicht verwendet wird
 
 >[!VIDEO](https://video.tv.adobe.com/v/29964/?quality=12)

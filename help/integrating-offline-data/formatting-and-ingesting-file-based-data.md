@@ -1,7 +1,7 @@
 ---
-title: Formatieren und Erfassen dateibasierter Daten
-description: Wenn Sie Ihre Erstanbieter in Audience Manager einbringen, um Ihre Kunden besser zu verstehen und gezielt anzusprechen, gibt es bestimmte Formatierungsanforderungen für die Daten. In diesem Video werden einige der wichtigsten Optionen vorgestellt und Sie erfahren, wo Sie weitere Informationen erhalten.
-feature: Onboarding von Offline-Daten
+title: Dateibasierte Daten formatieren und erfassen
+description: Lernen Sie einige der wichtigsten Optionen kennen, mit denen Sie weitere Informationen erhalten, wenn Sie Ihre Erstanbieter in Audience Manager integrieren, um Ihre Kunden besser zu verstehen und gezielt anzusprechen. Informieren Sie sich über bestimmte Formatierungsanforderungen für die Daten.
+feature: Onboarding Offline Data
 topics: null
 activity: use
 doc-type: feature video
@@ -11,19 +11,19 @@ kt: 7026
 role: User
 level: Beginner
 exl-id: a9515255-8e3e-4fb8-b467-be68a56c412b
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: d4874d9f6d7a36bb81ac183eb8b853d893822ae0
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '109'
 ht-degree: 0%
 
 ---
 
-# Formatieren und Erfassen dateibasierter Daten
+# Dateibasierte Daten formatieren und erfassen
 
-Wenn Sie Ihre Erstanbieter in Audience Manager einbringen, um Ihre Kunden besser zu verstehen und gezielt anzusprechen, gibt es bestimmte Formatierungsanforderungen für die Daten. In diesem Video werden einige der wichtigsten Optionen vorgestellt und Sie erfahren, wo Sie weitere Informationen erhalten.
+Wenn Sie Ihre Erstanbieter in Audience Manager einbringen, um Ihre Kunden besser zu verstehen und gezielt anzusprechen, gelten bestimmte Formatierungsanforderungen für die Daten. In diesem Video werden einige der wichtigsten Optionen vorgestellt und Sie erfahren, wo Sie weitere Informationen erhalten.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331007/?quality=12&learn=on)
 
-Ein Video zum Benennen und Importieren von Dateien finden Sie unter [HERE](steps-for-ingesting-file-based-data.md).
+Ein Video zum Benennen und Importieren von Dateien finden Sie unter [HIER](steps-for-ingesting-file-based-data.md).
 
-Weitere Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/inbound-file-contents.html?).
+Weitere Informationen finden Sie im [Dokumentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/inbound-file-contents.html?).

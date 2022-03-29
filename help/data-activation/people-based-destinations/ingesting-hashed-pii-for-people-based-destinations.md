@@ -1,7 +1,7 @@
 ---
-title: Erfassen von Hash-PII für personenbasierte Ziele
+title: Erfassung von Hash-PII für personenbasierte Ziele
 description: In diesem Video erfahren Sie, wie Sie eine dateibasierte ID-Synchronisierung formatieren, um Ihre Kunden-IDs (CRM-IDs) mit Hash-E-Mail-Adressen zu verbinden.
-feature: '"Benutzerbasierte Ziele"'
+feature: People-based Destinations
 topics: null
 activity: setup
 doc-type: technical video
@@ -11,15 +11,15 @@ kt: 3341
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 9e042c20-ddca-4ead-824d-8bbcd718fab9
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: 62b43b5627dabf754cf821f974a56c60989ef7ef
 workflow-type: tm+mt
-source-wordcount: '74'
+source-wordcount: '76'
 ht-degree: 0%
 
 ---
 
-# Hash-PII für [!UICONTROL People-Based Destinations] erfassen
+# Erfassung von Hash-PII für personenbasierte Ziele
 
-In diesem Video erfahren Sie, wie Sie eine dateibasierte ID-Synchronisierung formatieren, um Ihre Kunden-IDs (CRM-IDs) mit Hash-E-Mail-Adressen zu verbinden. Auf diese Weise können Sie die gehashten E-Mail-Adressen an [!UICONTROL People-Based Destinations] senden, z. B. [!DNL Facebook].
+In diesem Video erfahren Sie, wie Sie eine dateibasierte ID-Synchronisierung formatieren, um Ihre Kunden-IDs (CRM-IDs) mit Hash-E-Mail-Adressen zu verbinden. Auf diese Weise können Sie die Hash-E-Mail-Adressen an People-basierte Ziele senden, z. B. [!DNL Facebook].
 
 >[!VIDEO](https://video.tv.adobe.com/v/29122/?quality=12)
