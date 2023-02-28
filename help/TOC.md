@@ -55,7 +55,7 @@ ht-degree: 3%
 + Integration von Offline-Daten {#integrating-offline-data}
    + [Dateibasierte Daten formatieren und erfassen](integrating-offline-data/formatting-and-ingesting-file-based-data.md)
    + [Schritte zum Erfassen dateibasierter Daten](integrating-offline-data/steps-for-ingesting-file-based-data.md)
-+ Mobile-Implementierung {#mobile-implementation}
++ Mobile Implementierung {#mobile-implementation}
    + [Implementieren in iOS Swift-Anwendungen](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html?lang=en)
    + [Implementieren in iOS Objective-C-Anwendungen](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html?lang=en)
    + [Implementieren in Android-Anwendungen](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-android-apps-with-launch/index.html?lang=en)
