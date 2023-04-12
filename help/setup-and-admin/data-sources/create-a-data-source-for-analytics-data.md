@@ -2,7 +2,7 @@
 title: Erstellen einer Datenquelle für Analytics-Daten
 description: Erfahren Sie, wie Sie eine Datenquelle für Daten erstellen, die direkt aus einer Analyselösung wie Adobe Analytics importiert werden. Führen Sie diese Schritte aus, bevor Sie Eigenschaften für die Analysedaten erstellen.
 landing-page-description: Erfahren Sie, wie Sie eine Datenquelle für Daten erstellen, die direkt aus einer Analyselösung wie Adobe Analytics importiert werden. Führen Sie diese Schritte aus, bevor Sie Eigenschaften für die Analysedaten erstellen.
-short-description: Learn how to create a Data Source for data coming in live from an analytics solution like Adobe Analytics. Do this prior to creating traits for the analytics data.
+short-description: Erfahren Sie, wie Sie eine Datenquelle für Daten erstellen, die direkt aus einer Analyselösung wie Adobe Analytics importiert werden. Führen Sie diese Schritte aus, bevor Sie Eigenschaften für die Analysedaten erstellen.
 feature: Data Sources
 doc-type: feature video
 kt: 2928
@@ -11,8 +11,8 @@ level: Beginner
 exl-id: f5d6a033-3205-4f02-9991-968191ed2f84
 source-git-commit: f3efc9be51080a95618ea05e6021ec6064b87598
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '144'
+ht-degree: 68%
 
 ---
 
