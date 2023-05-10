@@ -9,7 +9,7 @@ team: Technical Marketing
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: c6aa264c-30ce-42ff-bf8a-e651ddc2ff01
-source-git-commit: 62b43b5627dabf754cf821f974a56c60989ef7ef
+source-git-commit: cff9d6c0fe15feae8cac1961c8fe7a1f7f876059
 workflow-type: tm+mt
 source-wordcount: '341'
 ht-degree: 9%
@@ -24,6 +24,7 @@ Willkommen auf der Audience Manager-Tutorials-Site. Verwenden dieser Tutorials z
 * Durchsuchen Sie den Inhalt nach Thema und Unterthema in der **linken Navigation**
 * Verwenden Sie das **Suchfeld** oben auf der Seite, wenn Sie wissen, wonach Sie suchen
 
+<div id="whats-new-section">
 ## Neuigkeiten
 
 * **[Übersicht über [!UICONTROL Profile Merge Rules] (Video)](build-and-manage-audiences/profile-merge/overview-of-profile-merge-rules.md)**
@@ -37,6 +38,16 @@ Willkommen auf der Audience Manager-Tutorials-Site. Verwenden dieser Tutorials z
 * **[Benutzerbasierte Ziele erstellen und konfigurieren](data-activation/people-based-destinations/create-and-configure-people-based-destinations.md)**
 
    *Erfahren Sie, wie Sie eine [!DNL People-Based Destination] in der Audience Manager-Benutzeroberfläche*
+</div>
+
+<div id="recs-overview-body-1"></div>
+<div id="recs-overview-body-2"></div>
+<div id="recs-overview-body-3"></div>
+<div id="recs-overview-body-4"></div>
+<div id="recs-overview-body-5"></div>
+<div id="recs-overview-body-6"></div>
+
+<div id="staff-picks-section">
 
 ## Mitarbeiterauswahl
 
@@ -44,11 +55,11 @@ Willkommen auf der Audience Manager-Tutorials-Site. Verwenden dieser Tutorials z
 <tr>
   <td>
     <a href="https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html?lang=en">
-      <img alt="Miniaturbild für das Tutorial "Implementieren des Experience Cloud in Mobile iOS Swift-Anwendungen"" src="assets/thumb_swift.png" />
+      <img alt="Miniaturbild für das Tutorial "Implementieren des Experience Cloud in mobilen iOS Swift-Anwendungen"" src="assets/thumb_swift.png" />
     </a>
     <div>
       <a href="https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html?lang=en">
-    <strong>Implementieren des Experience Cloud in Mobile iOS Apps</strong>
+    <strong>Implementieren des Experience Cloud in mobilen iOS-Apps</strong>
     </a>
     </div>
     <p>
@@ -57,7 +68,7 @@ Willkommen auf der Audience Manager-Tutorials-Site. Verwenden dieser Tutorials z
   </td>
   <td>
     <a href="https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-android-apps-with-launch/index.html?lang=en">
-      <img alt="Miniaturbild für das Tutorial "Implementieren des Experience Cloud in Mobile Android-Anwendungen"" src="assets/thumb_android.png" />
+      <img alt="Miniaturbild für das Tutorial "Implementieren des Experience Cloud in mobilen Android-Anwendungen"" src="assets/thumb_android.png" />
     </a>
     <div>
       <a href="https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-android-apps-with-launch/index.html?lang=en">
@@ -70,11 +81,11 @@ Willkommen auf der Audience Manager-Tutorials-Site. Verwenden dieser Tutorials z
   </td>
   <td>
     <a href="https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html?lang=en">
-      <img alt="Miniaturbild für das Tutorial "Implementieren des Experience Cloud in Mobile Objective-C-Anwendungen"" src="assets/thumb_objective_c.png" />
+      <img alt="Miniaturbild für das Tutorial "Implementieren des Experience Cloud in mobilen Objective-C-Anwendungen"" src="assets/thumb_objective_c.png" />
     </a>
     <div>
       <a href="https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html?lang=en">
-    <strong>Implementieren des Experience Cloud in Mobile Objective-C-Apps</strong>
+    <strong>Implementieren des Experience Cloud in mobilen Objective-C-Apps</strong>
     </a>
     </div>
     <p>
@@ -83,3 +94,4 @@ Willkommen auf der Audience Manager-Tutorials-Site. Verwenden dieser Tutorials z
   </td>
 </tr>
 </table>
+</div>
